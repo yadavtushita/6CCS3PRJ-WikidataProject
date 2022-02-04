@@ -24,7 +24,7 @@ def get_uri_from_wiki_id(wiki_id):
     try:
         sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
         queryData = 'SELECT DISTINCT * WHERE {wd:' + wiki_id + ' rdfs:label ?label . FILTER (langMatches( lang(?label), "EN" ) ) } LIMIT 1'
-        sparql.setQuery(queryData)git add
+        sparql.setQuery(queryData)
         sparql.setReturnFormat(JSON)
         results = sparql.query().convert()
         returnLabel = (results['results']['bindings'][0]['label']['value'])
