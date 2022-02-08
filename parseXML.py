@@ -15,7 +15,7 @@ from io import open
 
 # Location of created .csv files output with the wikidata revision details including
 # SPARQL API retrieved title
-subdir = "data4"
+subdir = "data5"
 here = os.path.dirname(os.path.realpath(__file__))
 
 
@@ -79,14 +79,14 @@ def convert_date_time(dt):
 def newfilecreation(filename, articlesWriter):
     print('NEW PROCESS')
     articlesWriter = csv.writer(filename, quoting=csv.QUOTE_MINIMAL)
-    articlesWriter.writerow(['pageid', 'pagetitle', 'label', 'revisionid', 'timestamp', 'comment', 'type', 'editentity', 'parentid'])
+    articlesWriter.writerow(['pageid', 'pagetitle', 'revisionid', 'timestamp', 'comment', 'type', 'editentity', 'parentid'])
     pagetitle = ''
     pageid = 0
     timestamp = ''
     comment = ''
     parentid = 0
     revisionid = 0
-    label = ''
+    # label = ''
     type = ''
     editentity = ''
     return articlesWriter
@@ -125,14 +125,14 @@ for wikidata_file in wikidata_files:
     print(filepath)
     filename = open(filepath, 'w', newline='', encoding="utf-8")
     articlesWriter = csv.writer(filename, quoting=csv.QUOTE_MINIMAL)
-    articlesWriter.writerow(['pageid', 'pagetitle', 'label', 'revisionid', 'timestamp', 'comment', 'type', 'editentity', 'parentid'])
+    articlesWriter.writerow(['pageid', 'pagetitle', 'revisionid', 'timestamp', 'comment', 'type', 'editentity', 'parentid'])
     pagetitle = ''
     pageid = 0
     timestamp = ''
     comment = ''
     parentid = 0
     revisionid = 0
-    label = ''
+    # label = ''
     type = ''
     editentity = ''
     pathWikiXML = os.path.join(wikidata_folder_path, wikidata_file)
@@ -150,18 +150,18 @@ for wikidata_file in wikidata_files:
                     elif elem.tag == '{http://www.mediawiki.org/xml/export-0.10/}title':
                         pagetitle = elem.text
                         isAMatch = match(pagetitle)
-                        if isAMatch == "Yes":
-                            label = get_uri_from_wiki_id(pagetitle)
+                        # if isAMatch == "Yes":
+                        #     label = get_uri_from_wiki_id(pagetitle)
                         if (pagetitle is None):
                             pagetitle = ''
-                            label = ''
-                        if (isAMatch == "No"):
-                            label = ''
+                            # label = ''
+                        # if (isAMatch == "No"):
+                        #     label = ''
                     elif elem.tag == '{http://www.mediawiki.org/xml/export-0.10/}id' and not inrevision:
                         pageid = elem.text
                     elif elem.tag == '{http://www.mediawiki.org/xml/export-0.10/}revision':
                         if (
-                                pagetitle != '' and pageid != 0 and label != '' and revisionid != 0 and timestamp != '' and timestamp is not None and convert_date_time(
+                                pagetitle != '' and pageid != 0 and isAMatch == "Yes" and revisionid != 0 and timestamp != '' and timestamp is not None and convert_date_time(
                                 timestamp) > d22 and convert_date_time(timestamp) < d33):
 
                             # If the total number of items processed is == 1000 close the current file and open a new file
@@ -177,7 +177,7 @@ for wikidata_file in wikidata_files:
                             if (comment is None):
                                 comment = ''
                             articlesWriter.writerow(
-                                [pageid, pagetitle, label, revisionid, timestamp, comment.encode('utf8'), type, editentity, parentid])
+                                [pageid, pagetitle, revisionid, timestamp, comment.encode('utf8'), type, editentity, parentid])
                             counter += 1
                             print(counter)
                         revisionid = 0
@@ -196,7 +196,7 @@ for wikidata_file in wikidata_files:
                             comment_text = comment.lower()
 
                             comment_proxies = ["-create", "-add", "-set", "-update", "-remove", "restore", "undo", "merge", "revert"]
-                            comment_edit_entities = ["description", "aliase", "sitelink", "label", "claim", "entity", "reference", "vandalism", "mergeitems", "qualifier"]
+                            comment_edit_entities = ["description", "aliase", "sitelink", "claim", "entity", "reference", "label", "vandalism", "mergeitems", "qualifier"]
 
                             for w in comment_proxies:
                                 if w in comment_text:

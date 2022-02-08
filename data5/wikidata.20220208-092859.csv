@@ -1,0 +1,1001 @@
+pageid,pagetitle,revisionid,timestamp,comment,type,editentity,parentid
+277,Q142,1360441,2017-01-09T23:22:16Z,"b""/* wbsetdescription-set:1|fr */ \xc3\x89tat d'Europe occidentale""",set,description,425378786
+277,Q142,125965,2017-01-10T09:18:32Z,"b'/* wbsetsitelink-set-both:2|hakwiki */ Fap-koet, [[Q17437796]]'",set,sitelink,426125331
+277,Q142,2123122,2017-01-10T09:26:38Z,b'/* wbsetdescription-add:1|hr */ dr\xc5\xbeava zapadne Europe',add,description,426271559
+277,Q142,427923238,2017-01-12T21:17:11Z,b'/* wbsetlabel-set:1|en */ Es puto',set,label,426274176
+277,Q142,94516,2017-01-12T21:20:26Z,b'',,,427923238
+277,Q142,430840949,2017-01-16T09:48:39Z,b'/* wbsetdescription-add:1|bs */ dr\xc5\xbeava u Zapadnoj Evropi',add,description,427924599
+277,Q142,431432331,2017-01-17T01:18:17Z,b'/* wbsetlabel-set:1|en */ Franchute',set,label,430840949
+277,Q142,431432363,2017-01-17T01:18:21Z,b'/* wbsetdescription-set:1|en */ baggete',set,description,431432331
+277,Q142,178040,2017-01-17T01:23:44Z,b'/* restore:0||430840949|109.175.55.252 */ revert vandalism',revert,vandalism,431432363
+277,Q142,469872,2017-01-23T17:36:56Z,b'/* wbsetsitelink-add:1|nlwikinews */ Categorie:Frankrijk',add,sitelink,431435299
+277,Q142,2787312,2017-01-24T12:04:30Z,b'/* wbsetaliases-add:1|en */ \xf0\x9f\x87\xab\xf0\x9f\x87\xb7',add,aliase,435238535
+277,Q142,4279,2017-01-25T16:59:35Z,"b""/* wbcreateclaim-create:1| */ [[Property:P1617]]: 61ef4416-de68-49ff-9c97-e0779dafd9d2, #mix'n'match""",create,claim,435606630
+277,Q142,8831,2017-01-27T14:13:24Z,b'/* undo:0||435606630|07Mehrdad */',undo,,436090073
+277,Q142,437204633,2017-01-27T22:24:01Z,"b'/* wbsetlabeldescriptionaliases:3|en */ jordan, republic in asia, FR, R\xc3\xa9publique fran\xc3\xa7aise, La France, fr, French Republic, Republic of France'",,label,436828246
+277,Q142,437205627,2017-01-27T22:26:18Z,b'/* wbsetaliases-set:1|en */ amman jordan',set,aliase,437204633
+277,Q142,1,2017-01-27T22:30:16Z,b'Reverted edits by [[Special:Contributions/212.34.20.225|212.34.20.225]] ([[User talk:212.34.20.225|talk]]) to last revision by [[User:Infovarius|Infovarius]]',revert,,437205627
+277,Q142,288472,2017-01-28T10:06:24Z,"b'/* wbsetclaim-create:2||1 */ [[Property:P1333]]: 42\xc2\xb019\'48""N, 2\xc2\xb031\'48""E'",create,claim,437207188
+277,Q142,288472,2017-01-28T10:07:12Z,"b'/* wbsetclaim-create:2||1 */ [[Property:P1334]]: 48\xc2\xb058\'12""N, 8\xc2\xb013\'48""E'",create,claim,437585725
+277,Q142,288472,2017-01-28T10:08:13Z,"b'/* wbsetclaim-create:2||1 */ [[Property:P1335]]: 48\xc2\xb024\'36""N, 4\xc2\xb048\'0""W'",create,claim,437586165
+277,Q142,12915,2017-01-30T17:53:35Z,b'/* wbsetlabel-add:1|zh-mo */ \xe6\xb3\x95\xe5\x9c\x8b',add,label,437586760
+277,Q142,12915,2017-01-30T17:53:40Z,b'/* wbsetlabel-add:1|zh-my */ \xe6\xb3\x95\xe5\x9b\xbd',add,label,439495334
+277,Q142,12915,2017-01-30T17:53:44Z,b'/* wbsetlabel-add:1|zh-sg */ \xe6\xb3\x95\xe5\x9b\xbd',add,label,439495377
+277,Q142,12915,2017-01-30T17:53:48Z,b'/* wbsetdescription-set:1|zh */ \xe6\xac\xa7\xe6\xb4\xb2\xe5\x9b\xbd\xe5\xae\xb6',set,description,439495410
+277,Q142,12915,2017-01-30T17:53:52Z,b'/* wbsetdescription-set:1|zh-tw */ \xe6\xad\x90\xe6\xb4\xb2\xe5\x9c\x8b\xe5\xae\xb6',set,description,439495438
+277,Q142,12915,2017-01-30T17:53:56Z,b'/* wbsetdescription-add:1|zh-mo */ \xe6\xad\x90\xe6\xb4\xb2\xe5\x9c\x8b\xe5\xae\xb6',add,description,439495464
+277,Q142,12915,2017-01-30T17:54:29Z,b'/* wbsetdescription-add:1|zh-cn */ \xe6\xac\xa7\xe6\xb4\xb2\xe5\x9b\xbd\xe5\xae\xb6',add,description,439495495
+277,Q142,12915,2017-01-30T17:54:33Z,b'/* wbsetdescription-add:1|zh-my */ \xe6\xac\xa7\xe6\xb4\xb2\xe5\x9b\xbd\xe5\xae\xb6',add,description,439495728
+277,Q142,12915,2017-01-30T17:54:37Z,b'/* wbsetdescription-add:1|zh-sg */ \xe6\xac\xa7\xe6\xb4\xb2\xe5\x9b\xbd\xe5\xae\xb6',add,description,439495756
+277,Q142,12915,2017-01-30T17:54:41Z,"b'/* wbsetaliases-remove:2|yue */ France, R\xc3\xa9publique fran\xc3\xa7aise'",remove,aliase,439495778
+277,Q142,12915,2017-01-30T17:54:44Z,b'/* wbsetaliases-add:1|zh-hant */ \xe6\xb3\x95\xe8\x98\xad\xe8\xa5\xbf',add,aliase,439495806
+277,Q142,12915,2017-01-30T17:54:49Z,"b'/* wbsetaliases-add:2|zh-mo */ \xe6\xb3\x95\xe8\x98\xad\xe8\xa5\xbf\xe5\x85\xb1\xe5\x92\x8c\xe5\x9c\x8b, \xe6\xb3\x95\xe8\x98\xad\xe8\xa5\xbf'",add,aliase,439495829
+277,Q142,12915,2017-01-30T17:54:53Z,"b'/* wbsetaliases-add:2|zh */ \xe6\xb3\x95\xe5\x85\xb0\xe8\xa5\xbf\xe5\x85\xb1\xe5\x92\x8c\xe5\x9b\xbd, \xe6\xb3\x95\xe5\x85\xb0\xe8\xa5\xbf'",add,aliase,439495856
+277,Q142,12915,2017-01-30T17:54:57Z,"b'/* wbsetaliases-add:2|zh-cn */ \xe6\xb3\x95\xe5\x85\xb0\xe8\xa5\xbf\xe5\x85\xb1\xe5\x92\x8c\xe5\x9b\xbd, \xe6\xb3\x95\xe5\x85\xb0\xe8\xa5\xbf'",add,aliase,439495877
+277,Q142,12915,2017-01-30T17:55:01Z,"b'/* wbsetaliases-add:2|zh-hans */ \xe6\xb3\x95\xe5\x85\xb0\xe8\xa5\xbf\xe5\x85\xb1\xe5\x92\x8c\xe5\x9b\xbd, \xe6\xb3\x95\xe5\x85\xb0\xe8\xa5\xbf'",add,aliase,439495916
+277,Q142,12915,2017-01-30T17:55:05Z,"b'/* wbsetaliases-add:2|zh-hk */ \xe6\xb3\x95\xe8\x98\xad\xe8\xa5\xbf\xe5\x85\xb1\xe5\x92\x8c\xe5\x9c\x8b, \xe6\xb3\x95\xe8\x98\xad\xe8\xa5\xbf'",add,aliase,439495946
+277,Q142,12915,2017-01-30T17:55:10Z,"b'/* wbsetaliases-add:2|zh-my */ \xe6\xb3\x95\xe5\x85\xb0\xe8\xa5\xbf\xe5\x85\xb1\xe5\x92\x8c\xe5\x9b\xbd, \xe6\xb3\x95\xe5\x85\xb0\xe8\xa5\xbf'",add,aliase,439495977
+277,Q142,12915,2017-01-30T17:55:15Z,"b'/* wbsetaliases-add:2|zh-sg */ \xe6\xb3\x95\xe5\x85\xb0\xe8\xa5\xbf\xe5\x85\xb1\xe5\x92\x8c\xe5\x9b\xbd, \xe6\xb3\x95\xe5\x85\xb0\xe8\xa5\xbf'",add,aliase,439496009
+279,Q143,742954,2016-10-03T16:42:23Z,b'/* wbsetsitelink-add:1|nlwikivoyage */ Taalgids Esperanto',add,sitelink,377151479
+279,Q143,742954,2016-10-03T16:57:20Z,b'/* wbsetsitelink-add:1|eswikivoyage */ Gu\xc3\xada de esperanto',add,sitelink,383542834
+279,Q143,742954,2016-10-03T17:28:29Z,b'/* wbsetsitelink-add:1|dewikivoyage */ Sprachf\xc3\xbchrer Esperanto',add,sitelink,383545052
+279,Q143,1433337,2016-10-09T12:03:45Z,"b'/* wbsetreference-set:2| */ [[Property:P457]]: [[Q81413]], replacing [[Property:P357]] with [[Property:P1476]], based on [[Property:P364]] in the reference'",set,reference,383549728
+279,Q143,1433337,2016-10-09T12:03:50Z,"b'/* wbsetreference-set:2| */ [[Property:P740]]: [[Q270]], replacing [[Property:P357]] with [[Property:P1476]], based on [[Property:P364]] in the reference'",set,reference,385452393
+279,Q143,24059,2016-10-23T06:03:06Z,b'/* wbeditentity-update:0| */ Bot: setting proper label for jv',update,label,385452429
+279,Q143,283910,2016-10-26T16:25:35Z,"b'/* wbsetclaim-update:2||1|5 */ [[Property:P1098]]: 100,000'",update,claim,393088889
+279,Q143,5193,2016-11-05T05:08:12Z,b'/* wbsetlabel-set:1|vi */ Qu\xe1\xbb\x91c t\xe1\xba\xbf ng\xe1\xbb\xaf',set,label,396140094
+279,Q143,5193,2016-11-05T05:08:14Z,b'/* wbsetaliases-add:1|vi */ Esperanto',add,aliase,401337708
+279,Q143,283910,2016-11-23T22:24:57Z,"b'/* wbsetclaim-update:2||1|5 */ [[Property:P1098]]: 2,000,000\xc2\xb11,000,000'",update,claim,401337717
+279,Q143,283910,2016-11-23T22:25:07Z,"b'/* wbsetclaim-update:2||1|3 */ [[Property:P1098]]: 2,000\xc2\xb10'",update,claim,410755087
+279,Q143,283910,2016-11-23T22:25:18Z,"b'/* wbsetclaim-update:2||1|5 */ [[Property:P1098]]: 100,000\xc2\xb10'",update,claim,410755120
+279,Q143,609198,2016-11-26T11:28:43Z,b'/* clientsitelink-update:0|tewiki|tewiki:\xe0\xb0\x8e\xe0\xb0\xb8\xe0\xb1\x8d\xe0\xb0\xaa\xe0\xb1\x86\xe0\xb0\xb0\xe0\xb0\xbe\xe0\xb0\xa8\xe0\xb1\x8d\xe0\xb0\x9f\xe0\xb1\x8a|tewiki:\xe0\xb0\x8e\xe0\xb0\xb8\xe0\xb1\x8d\xe0\xb0\xaa\xe0\xb0\xb0\xe0\xb0\xbe\xe0\xb0\x82\xe0\xb0\x9f\xe0\xb1\x8b */',update,sitelink,410755148
+279,Q143,150016,2016-12-21T19:31:39Z,b'/* wbsetsitelink-add:1|bewikiquote */ \xd0\xad\xd1\x81\xd0\xbf\xd0\xb5\xd1\x80\xd0\xb0\xd0\xbd\xd1\x82\xd0\xb0',add,sitelink,411577058
+279,Q143,54239,2017-01-05T16:09:19Z,b'/* wbsetdescription-add:1|bg */ \xd0\xb8\xd0\xb7\xd0\xba\xd1\x83\xd1\x81\xd1\x82\xd0\xb2\xd0\xb5\xd0\xbd \xd0\xb5\xd0\xb7\xd0\xb8\xd0\xba',add,description,418563538
+279,Q143,54239,2017-01-05T16:09:38Z,b'/* wbsetdescription-set:1|bg */ \xd0\xb8\xd0\xb7\xd0\xba\xd1\x83\xd1\x81\xd1\x82\xd0\xb2\xd0\xb5\xd0\xbd \xd0\xbc\xd0\xb5\xd0\xb6\xd0\xb4\xd1\x83\xd0\xbd\xd0\xb0\xd1\x80\xd0\xbe\xd0\xb4\xd0\xb5\xd0\xbd \xd1\x81\xd0\xbf\xd0\xbe\xd0\xbc\xd0\xb0\xd0\xb3\xd0\xb0\xd1\x82\xd0\xb5\xd0\xbb\xd0\xb5\xd0\xbd \xd0\xb5\xd0\xb7\xd0\xb8\xd0\xba',set,description,424534869
+279,Q143,69686,2017-01-11T16:22:37Z,b'/* wbsetclaim-create:2||1 */ [[Property:P366]]: [[Q125421]]',create,claim,424534949
+279,Q143,69686,2017-01-11T16:39:40Z,b'/* wbsetclaim-create:2||1 */ [[Property:P18]]: 1905-uk-eliro-el-la-kongresejo.jpg',create,claim,427149634
+279,Q143,69686,2017-01-11T16:40:05Z,b'/* wbsetclaim-create:2||1 */ [[Property:P17]]: no value',create,claim,427155057
+279,Q143,14262,2017-01-28T00:07:53Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P18]]: 1905-uk-eliro-el-la-kongresejo.jpg',update,claim,427155211
+280,Q144,1398606,2016-10-03T02:04:42Z,b'/* wbcreateclaim-create:1| */ [[Property:P3221]]: subject/dogs',create,claim,382691765
+280,Q144,1961360,2016-10-08T14:33:49Z,b'/* clientsitelink-update:0|glkwiki|glkwiki:\xd8\xb3\xda\xaf|glkwiki:\xd8\xb3\xda\xa9 */',update,sitelink,383376233
+280,Q144,66982,2016-10-13T14:43:09Z,b'/* wbsetsitelink-add:1|olowiki */ Koiru',add,sitelink,384993671
+280,Q144,940976,2016-10-14T12:24:59Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Hond, #quickstatements'",create,claim,387999599
+280,Q144,940976,2016-10-14T12:25:00Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Hond, #quickstatements'",add,reference,388483068
+280,Q144,940976,2016-10-14T12:25:00Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Okraman, #quickstatements'",create,claim,388483075
+280,Q144,940976,2016-10-14T12:25:01Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Okraman, #quickstatements'",add,reference,388483081
+280,Q144,940976,2016-10-14T12:25:03Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xd9\x83\xd9\x84\xd8\xa8, #quickstatements'",create,claim,388483089
+280,Q144,940976,2016-10-14T12:25:03Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xd9\x83\xd9\x84\xd8\xa8, #quickstatements'",add,reference,388483106
+280,Q144,940976,2016-10-14T12:25:04Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xd0\x9a\xd1\x83\xd1\x87\xd0\xb5, #quickstatements'",create,claim,388483113
+280,Q144,940976,2016-10-14T12:25:05Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xd0\x9a\xd1\x83\xd1\x87\xd0\xb5, #quickstatements'",add,reference,388483123
+280,Q144,940976,2016-10-14T12:25:05Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe0\xa6\x95\xe0\xa7\x81\xe0\xa6\x95\xe0\xa7\x81\xe0\xa6\xb0, #quickstatements'",create,claim,388483127
+280,Q144,940976,2016-10-14T12:25:06Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe0\xa6\x95\xe0\xa7\x81\xe0\xa6\x95\xe0\xa7\x81\xe0\xa6\xb0, #quickstatements'",add,reference,388483133
+280,Q144,940976,2016-10-14T12:25:07Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Pas, #quickstatements'",create,claim,388483142
+280,Q144,940976,2016-10-14T12:25:07Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Pas, #quickstatements'",add,reference,388483149
+280,Q144,940976,2016-10-14T12:25:08Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Gos, #quickstatements'",create,claim,388483153
+280,Q144,940976,2016-10-14T12:25:09Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Gos, #quickstatements'",add,reference,388483159
+280,Q144,940976,2016-10-14T12:25:09Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Oe\xc5\xa1kese, #quickstatements'",create,claim,388483163
+280,Q144,940976,2016-10-14T12:25:10Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Oe\xc5\xa1kese, #quickstatements'",add,reference,388483168
+280,Q144,940976,2016-10-14T12:25:11Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Pes, #quickstatements'",create,claim,388483177
+280,Q144,940976,2016-10-14T12:25:12Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Hund, #quickstatements'",create,claim,388483192
+280,Q144,940976,2016-10-14T12:25:13Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Hund, #quickstatements'",add,reference,388483197
+280,Q144,940976,2016-10-14T12:25:14Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Hund, #quickstatements'",create,claim,388483201
+280,Q144,940976,2016-10-14T12:25:14Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Hund, #quickstatements'",add,reference,388483208
+280,Q144,940976,2016-10-14T12:25:15Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Avu, #quickstatements'",create,claim,388483213
+280,Q144,940976,2016-10-14T12:25:16Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Avu, #quickstatements'",add,reference,388483222
+280,Q144,940976,2016-10-14T12:25:17Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xce\xa3\xce\xba\xcf\x8d\xce\xbb\xce\xbf\xcf\x82, #quickstatements'",create,claim,388483230
+280,Q144,940976,2016-10-14T12:25:17Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xce\xa3\xce\xba\xcf\x8d\xce\xbb\xce\xbf\xcf\x82, #quickstatements'",add,reference,388483235
+280,Q144,940976,2016-10-14T12:25:18Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Dog, #quickstatements'",create,claim,388483242
+280,Q144,940976,2016-10-14T12:25:19Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Dog, #quickstatements'",add,reference,388483249
+280,Q144,940976,2016-10-14T12:25:20Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Hundo, #quickstatements'",undo,claim,388483259
+280,Q144,940976,2016-10-14T12:25:20Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Hundo, #quickstatements'",undo,reference,388483268
+280,Q144,940976,2016-10-14T12:25:21Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Kodukoer, #quickstatements'",create,claim,388483272
+280,Q144,940976,2016-10-14T12:25:22Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Kodukoer, #quickstatements'",add,reference,388483281
+280,Q144,940976,2016-10-14T12:25:23Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Koer, #quickstatements'",create,claim,388483288
+280,Q144,940976,2016-10-14T12:25:23Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Koer, #quickstatements'",add,reference,388483296
+280,Q144,940976,2016-10-14T12:25:24Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Peni, #quickstatements'",create,claim,388483306
+280,Q144,940976,2016-10-14T12:25:25Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Peni, #quickstatements'",add,reference,388483317
+280,Q144,940976,2016-10-14T12:25:26Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Txakur, #quickstatements'",create,claim,388483323
+280,Q144,940976,2016-10-14T12:25:27Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Txakur, #quickstatements'",add,reference,388483330
+280,Q144,940976,2016-10-14T12:25:27Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Zakur, #quickstatements'",create,claim,388483337
+280,Q144,940976,2016-10-14T12:25:28Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Zakur, #quickstatements'",add,reference,388483344
+280,Q144,940976,2016-10-14T12:25:29Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xd8\xb3\xda\xaf, #quickstatements'",create,claim,388483351
+280,Q144,940976,2016-10-14T12:25:30Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xd8\xb3\xda\xaf, #quickstatements'",add,reference,388483363
+280,Q144,940976,2016-10-14T12:25:31Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: kesykoira, #quickstatements'",create,claim,388483374
+280,Q144,940976,2016-10-14T12:25:32Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: kesykoira, #quickstatements'",add,reference,388483384
+280,Q144,940976,2016-10-14T12:25:32Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Koira, #quickstatements'",create,claim,388483391
+280,Q144,940976,2016-10-14T12:25:33Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Koira, #quickstatements'",add,reference,388483397
+280,Q144,940976,2016-10-14T12:25:34Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Chien, #quickstatements'",create,claim,388483404
+280,Q144,940976,2016-10-14T12:25:35Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Chien, #quickstatements'",add,reference,388483414
+280,Q144,940976,2016-10-14T12:25:36Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: (H\xc3\xbcs)h\xc3\xbcnj, #quickstatements'",create,claim,388483427
+280,Q144,940976,2016-10-14T12:25:36Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: (H\xc3\xbcs)h\xc3\xbcnj, #quickstatements'",add,reference,388483435
+280,Q144,940976,2016-10-14T12:25:37Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Can, #quickstatements'",create,claim,388483441
+280,Q144,940976,2016-10-14T12:25:38Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Can, #quickstatements'",add,reference,388483447
+280,Q144,940976,2016-10-14T12:25:39Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe2\x80\x98\xc4\xaalio, #quickstatements'",create,claim,388483458
+280,Q144,940976,2016-10-14T12:25:40Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe2\x80\x98\xc4\xaalio, #quickstatements'",add,reference,388483466
+280,Q144,940976,2016-10-14T12:25:40Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xd7\x9b\xd7\x9c\xd7\x91, #quickstatements'",create,claim,388483476
+280,Q144,940976,2016-10-14T12:25:42Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xd7\x9b\xd7\x9c\xd7\x91, #quickstatements'",add,reference,388483485
+280,Q144,940976,2016-10-14T12:25:43Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe0\xa4\x95\xe0\xa5\x81\xe0\xa4\xa4\xe0\xa5\x8d\xe0\xa4\xa4\xe0\xa4\xbe, #quickstatements'",create,claim,388483499
+280,Q144,940976,2016-10-14T12:25:44Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe0\xa4\x95\xe0\xa5\x81\xe0\xa4\xa4\xe0\xa5\x8d\xe0\xa4\xa4\xe0\xa4\xbe, #quickstatements'",add,reference,388483510
+280,Q144,940976,2016-10-14T12:25:45Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Pas, #quickstatements'",create,claim,388483520
+280,Q144,940976,2016-10-14T12:25:46Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Pas, #quickstatements'",add,reference,388483532
+280,Q144,940976,2016-10-14T12:25:47Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: chyen, #quickstatements'",create,claim,388483539
+280,Q144,940976,2016-10-14T12:25:48Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: chyen, #quickstatements'",add,reference,388483549
+280,Q144,940976,2016-10-14T12:25:49Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Kutya, #quickstatements'",create,claim,388483556
+280,Q144,940976,2016-10-14T12:25:50Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Kutya, #quickstatements'",add,reference,388483563
+280,Q144,940976,2016-10-14T12:25:51Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Anjing, #quickstatements'",create,claim,388483572
+280,Q144,940976,2016-10-14T12:25:52Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Anjing, #quickstatements'",add,reference,388483586
+280,Q144,940976,2016-10-14T12:25:52Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Madra, #quickstatements'",create,claim,388483598
+280,Q144,940976,2016-10-14T12:25:53Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Madra, #quickstatements'",add,reference,388483608
+280,Q144,940976,2016-10-14T12:25:54Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Hundur, #quickstatements'",create,claim,388483622
+280,Q144,940976,2016-10-14T12:25:55Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Hundur, #quickstatements'",add,reference,388483629
+280,Q144,940976,2016-10-14T12:25:56Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Cane, #quickstatements'",create,claim,388483639
+280,Q144,940976,2016-10-14T12:25:57Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Cane, #quickstatements'",add,reference,388483649
+280,Q144,940976,2016-10-14T12:25:58Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe3\x82\xa4\xe3\x83\x8c, #quickstatements'",create,claim,388483659
+280,Q144,940976,2016-10-14T12:25:59Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe3\x82\xa4\xe3\x83\x8c, #quickstatements'",add,reference,388483669
+280,Q144,940976,2016-10-14T12:26:00Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xea\xb0\x9c, #quickstatements'",create,claim,388483678
+280,Q144,940976,2016-10-14T12:26:00Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xea\xb0\x9c, #quickstatements'",add,reference,388483686
+280,Q144,940976,2016-10-14T12:26:01Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Can, #quickstatements'",create,claim,388483695
+280,Q144,940976,2016-10-14T12:26:02Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Can, #quickstatements'",add,reference,388483705
+280,Q144,940976,2016-10-14T12:26:03Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xd0\x9a\xd1\x83\xd1\x87\xd0\xb5, #quickstatements'",create,claim,388483714
+280,Q144,940976,2016-10-14T12:26:04Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xd0\x9a\xd1\x83\xd1\x87\xd0\xb5, #quickstatements'",add,reference,388483727
+280,Q144,940976,2016-10-14T12:26:05Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe0\xb4\xa8\xe0\xb4\xbe\xe0\xb4\xaf, #quickstatements'",create,claim,
+280,Q144,940976,2016-10-14T12:26:06Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe0\xb4\xa8\xe0\xb4\xbe\xe0\xb4\xaf, #quickstatements'",add,reference,388483745
+280,Q144,940976,2016-10-14T12:26:06Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe0\xb4\xaa\xe0\xb4\x9f\xe0\xb5\x8d\xe0\xb4\x9f\xe0\xb4\xbf, #quickstatements'",create,claim,388483752
+280,Q144,940976,2016-10-14T12:26:07Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe0\xb4\xaa\xe0\xb4\x9f\xe0\xb5\x8d\xe0\xb4\x9f\xe0\xb4\xbf, #quickstatements'",add,reference,388483766
+280,Q144,940976,2016-10-14T12:26:08Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xd0\x9d\xd0\xbe\xd1\x85\xd0\xbe\xd0\xb9, #quickstatements'",create,claim,388483779
+280,Q144,940976,2016-10-14T12:26:09Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xd0\x9d\xd0\xbe\xd1\x85\xd0\xbe\xd0\xb9, #quickstatements'",add,reference,388483793
+280,Q144,940976,2016-10-14T12:26:10Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Anjing, #quickstatements'",create,claim,388483806
+280,Q144,940976,2016-10-14T12:26:11Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Anjing, #quickstatements'",add,reference,388483815
+280,Q144,940976,2016-10-14T12:26:12Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Kelb, #quickstatements'",create,claim,388483822
+280,Q144,940976,2016-10-14T12:26:13Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Kelb, #quickstatements'",add,reference,388483832
+280,Q144,940976,2016-10-14T12:26:14Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Hond, #quickstatements'",create,claim,388483840
+280,Q144,940976,2016-10-14T12:26:15Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Hond, #quickstatements'",add,reference,388483850
+280,Q144,940976,2016-10-14T12:26:16Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Hund, #quickstatements'",create,claim,388483857
+280,Q144,940976,2016-10-14T12:26:17Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Hund, #quickstatements'",add,reference,388483870
+280,Q144,940976,2016-10-14T12:26:19Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Hund, #quickstatements'",create,claim,388483881
+280,Q144,940976,2016-10-14T12:26:19Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Hund, #quickstatements'",add,reference,388483893
+280,Q144,940976,2016-10-14T12:26:20Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xc5\x81\xc3\xa9\xc3\xa9ch\xc4\x85\xc4\x85\xca\xbc\xc3\xad, #quickstatements'",create,claim,388483904
+280,Q144,940976,2016-10-14T12:26:21Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xc5\x81\xc3\xa9\xc3\xa9ch\xc4\x85\xc4\x85\xca\xbc\xc3\xad, #quickstatements'",add,reference,388483914
+280,Q144,940976,2016-10-14T12:26:24Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Pies, #quickstatements'",create,claim,388483920
+280,Q144,940976,2016-10-14T12:26:25Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Pies, #quickstatements'",add,reference,388483944
+280,Q144,940976,2016-10-14T12:26:26Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: cachorro, #quickstatements'",create,claim,388483962
+280,Q144,940976,2016-10-14T12:26:27Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: cachorro, #quickstatements'",add,reference,388483969
+280,Q144,940976,2016-10-14T12:26:28Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: cadela (female), #quickstatements'",create,claim,388483982
+280,Q144,940976,2016-10-14T12:26:29Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: cadela (female), #quickstatements'",add,reference,388483989
+280,Q144,940976,2016-10-14T12:26:30Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: C\xc3\xa3o, #quickstatements'",create,claim,388483996
+280,Q144,940976,2016-10-14T12:26:31Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: C\xc3\xa3o, #quickstatements'",add,reference,388484004
+280,Q144,940976,2016-10-14T12:26:32Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: c\xc3\xa2ine, #quickstatements'",create,claim,388484016
+280,Q144,940976,2016-10-14T12:26:33Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: c\xc3\xa2ine, #quickstatements'",add,reference,388484024
+280,Q144,940976,2016-10-14T12:26:34Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xd1\x81\xd0\xbe\xd0\xb1\xd0\xb0\xd0\xba\xd0\xb0, #quickstatements'",create,claim,388484034
+280,Q144,940976,2016-10-14T12:26:35Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xd1\x81\xd0\xbe\xd0\xb1\xd0\xb0\xd0\xba\xd0\xb0, #quickstatements'",add,reference,388484047
+280,Q144,940976,2016-10-14T12:26:36Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: cani, #quickstatements'",create,claim,388484056
+280,Q144,940976,2016-10-14T12:26:37Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: cani, #quickstatements'",add,reference,388484065
+280,Q144,940976,2016-10-14T12:26:38Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe0\xb6\xb6\xe0\xb6\xbd\xe0\xb7\x8a\xe0\xb6\xbd\xe0\xb7\x8f, #quickstatements'",create,claim,388484077
+280,Q144,940976,2016-10-14T12:26:39Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe0\xb6\xb6\xe0\xb6\xbd\xe0\xb7\x8a\xe0\xb6\xbd\xe0\xb7\x8f, #quickstatements'",add,reference,388484087
+280,Q144,940976,2016-10-14T12:26:40Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe0\xb7\x83\xe0\xb7\x94\xe0\xb6\xb1\xe0\xb6\x9b\xe0\xb6\xba\xe0\xb7\x8f, #quickstatements'",create,claim,388484094
+280,Q144,940976,2016-10-14T12:26:41Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe0\xb7\x83\xe0\xb7\x94\xe0\xb6\xb1\xe0\xb6\x9b\xe0\xb6\xba\xe0\xb7\x8f, #quickstatements'",add,reference,388484104
+280,Q144,940976,2016-10-14T12:26:42Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Qen, #quickstatements'",create,claim,388484119
+280,Q144,940976,2016-10-14T12:26:43Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Qen, #quickstatements'",add,reference,388484129
+280,Q144,940976,2016-10-14T12:26:44Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xd0\x9f\xd0\xb0\xd1\x81, #quickstatements'",create,claim,388484139
+280,Q144,940976,2016-10-14T12:26:45Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xd0\x9f\xd0\xb0\xd1\x81, #quickstatements'",add,reference,388484152
+280,Q144,940976,2016-10-14T12:26:46Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Hund, #quickstatements'",create,claim,388484158
+280,Q144,940976,2016-10-14T12:26:47Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Hund, #quickstatements'",add,reference,388484172
+280,Q144,940976,2016-10-14T12:26:48Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Tamhund, #quickstatements'",create,claim,388484183
+280,Q144,940976,2016-10-14T12:26:49Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Tamhund, #quickstatements'",add,reference,388484192
+280,Q144,940976,2016-10-14T12:26:51Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe0\xae\xa8\xe0\xae\xbe\xe0\xae\xaf\xe0\xaf\x8d, #quickstatements'",create,claim,388484201
+280,Q144,940976,2016-10-14T12:26:52Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe0\xae\xa8\xe0\xae\xbe\xe0\xae\xaf\xe0\xaf\x8d, #quickstatements'",add,reference,388484221
+280,Q144,940976,2016-10-14T12:26:53Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe0\xb0\x95\xe0\xb1\x81\xe0\xb0\x95\xe0\xb1\x8d\xe0\xb0\x95, #quickstatements'",create,claim,388484233
+280,Q144,940976,2016-10-14T12:26:54Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe0\xb0\x95\xe0\xb1\x81\xe0\xb0\x95\xe0\xb1\x8d\xe0\xb0\x95, #quickstatements'",add,reference,388484245
+280,Q144,940976,2016-10-14T12:26:55Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe0\xb8\xaa\xe0\xb8\xb8\xe0\xb8\x99\xe0\xb8\xb1\xe0\xb8\x82/\xe0\xb8\xab\xe0\xb8\xa1\xe0\xb8\xb2, #quickstatements'",create,claim,388484253
+280,Q144,940976,2016-10-14T12:26:56Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe0\xb8\xaa\xe0\xb8\xb8\xe0\xb8\x99\xe0\xb8\xb1\xe0\xb8\x82/\xe0\xb8\xab\xe0\xb8\xa1\xe0\xb8\xb2, #quickstatements'",add,reference,388484268
+280,Q144,940976,2016-10-14T12:26:57Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Aso, #quickstatements'",create,claim,388484276
+280,Q144,940976,2016-10-14T12:26:58Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Aso, #quickstatements'",add,reference,388484285
+280,Q144,940976,2016-10-14T12:26:59Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: K\xc3\xb6pek, #quickstatements'",create,claim,388484294
+280,Q144,940976,2016-10-14T12:27:01Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: K\xc3\xb6pek, #quickstatements'",add,reference,388484304
+280,Q144,940976,2016-10-14T12:27:02Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Can, #quickstatements'",create,claim,388484316
+280,Q144,940976,2016-10-14T12:27:02Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Can, #quickstatements'",add,reference,388484321
+280,Q144,940976,2016-10-14T12:27:04Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: dog, #quickstatements'",create,claim,388484329
+280,Q144,940976,2016-10-14T12:27:05Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: dog, #quickstatements'",add,reference,388484337
+280,Q144,940976,2016-10-14T12:27:06Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe7\x8b\x97, #quickstatements'",create,claim,388484351
+280,Q144,940976,2016-10-14T12:27:07Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe7\x8b\x97, #quickstatements'",add,reference,388484362
+280,Q144,397294268,2016-10-28T09:26:25Z,b'/* wbsetlabel-set:1|en */ Dog',set,label,388484369
+280,Q144,397294271,2016-10-28T09:26:27Z,b'/* wbsetlabel-set:1|nl */ Hond',set,label,397294268
+280,Q144,397294279,2016-10-28T09:26:28Z,b'/* wbsetdescription-set:1|nl */ ondersoort uit de soort wolfachtige',set,description,397294271
+280,Q144,,2016-10-28T09:26:29Z,b'/* wbsetaliases-add:1|nl */ Puppie',add,aliase,397294279
+280,Q144,109099,2016-10-28T09:27:01Z,b'/* restore:0||388484369|Reinheitsgebot */',restore,,397294285
+280,Q144,275508,2016-10-30T16:03:53Z,b'/* wbsetdescription-set:1|nb */ rovpattedyr',set,description,397294422
+280,Q144,275508,2016-10-30T16:05:06Z,b'/* wbsetlabel-set:1|nb */ Tamhund',set,label,398426679
+280,Q144,275508,2016-10-30T16:05:07Z,b'/* wbsetdescription-set:1|nb */ rovpattedyr (Carnivora)',set,description,398427046
+280,Q144,275508,2016-10-30T16:05:08Z,"b'/* wbsetaliases-set:3|nb */ bikkje, kj\xc3\xb8ter, hund'",set,aliase,398427053
+280,Q144,109099,2016-11-02T15:19:27Z,"b'/* wbsetsitelink-remove:1|specieswiki */ Canis lupus familiaris, Moving sitelink to [[Q26972265]]'",remove,sitelink,398427059
+280,Q144,400199279,2016-11-02T23:44:42Z,b'/* wbsetlabel-set:1|en */ cow',set,label,400019359
+280,Q144,400199285,2016-11-02T23:44:44Z,b'/* wbsetlabel-set:1|fr */ chat',set,label,400199279
+280,Q144,109099,2016-11-02T23:47:43Z,b'/* undo:0||400199285|135.19.41.240 */',undo,,400199285
+280,Q144,2496,2016-11-03T06:56:01Z,b'/* undo:0||400199279|135.19.41.240 */',undo,,400200085
+280,Q144,91653,2016-11-03T17:49:16Z,b'/* wbsetlabel-add:1|pag */ aso',add,label,400303746
+280,Q144,2222233,2016-11-12T00:56:50Z,b'/* wbremoveclaims-remove:1| */ [[Property:P1282]]: Key:dog',remove,claim,400450957
+280,Q144,1795741,2016-11-13T11:46:04Z,b'/* wbmergeitems-from:0||Q25682308 */',merge,mergeitems,405940865
+280,Q144,406814751,2016-11-13T17:39:10Z,b'/* wbsetlabel-set:1|en */ dtoh',set,label,406703409
+280,Q144,109099,2016-11-13T17:45:20Z,b'/* undo:0||406814751|177.232.121.183 */',undo,,406814751
+280,Q144,406888959,2016-11-13T21:01:05Z,b'/* wbsetclaim-update:2||1 */ [[Property:P1245]]: 8888888',update,claim,406817471
+280,Q144,109099,2016-11-13T21:05:57Z,b'/* undo:0||406888959|178.204.125.255 */',undo,,406888959
+280,Q144,407766639,2016-11-15T09:02:35Z,b'/* wbsetclaim-update:2||1 */ [[Property:P508]]: MINECRAFT',update,claim,406890747
+280,Q144,109099,2016-11-15T09:53:47Z,b'/* undo:0||407766639|212.86.17.91 */',undo,,407766639
+280,Q144,407934584,2016-11-15T19:23:31Z,b'/* wbremoveclaims-remove:1| */ [[Property:P1036]]: 636.7',remove,claim,407776498
+280,Q144,407934683,2016-11-15T19:23:46Z,b'/* wbremoveclaims-remove:1| */ [[Property:P366]]: [[Q39201]]',remove,claim,407934584
+280,Q144,407934709,2016-11-15T19:23:50Z,b'/* wbremoveclaims-remove:1| */ [[Property:P366]]: [[Q36963]]',remove,claim,407934683
+280,Q144,407934738,2016-11-15T19:23:54Z,b'/* wbremoveclaims-remove:1| */ [[Property:P366]]: [[Q680928]]',remove,claim,407934709
+280,Q144,109099,2016-11-15T19:27:04Z,b'/* restore:0||407776498|Succu */',restore,,407934738
+280,Q144,125965,2016-11-20T08:24:23Z,b'/* wbsetsitelink-add:1|biwiki */ Dok',add,sitelink,407935696
+280,Q144,410118450,2016-11-21T20:58:20Z,b'/* wbsetclaim-update:2||1 */ [[Property:P366]]: [[Q738303]]',update,claim,409584029
+280,Q144,109099,2016-11-21T21:00:09Z,b'/* undo:0||410118450|186.86.185.193 */',undo,,410118450
+280,Q144,768608,2016-11-26T00:21:56Z,b'/* wbcreateclaim-create:1| */ [[Property:P2959]]: [[Q21286839]]',create,claim,410118935
+280,Q144,768608,2016-11-26T00:21:59Z,b'/* wbsetreference-add:2| */ [[Property:P2959]]: [[Q21286839]]',add,reference,411444189
+280,Q144,412066747,2016-11-28T12:52:44Z,b'/* wbsetclaim-update:2||1 */ [[Property:P366]]: [[Q18225153]]',update,claim,411444199
+280,Q144,412066856,2016-11-28T12:53:11Z,b'/* wbsetclaim-update:2||1 */ [[Property:P366]]: [[Q9351]]',update,claim,412066747
+280,Q144,109099,2016-11-28T13:01:21Z,b'/* restore:0||411444199|\xd4\xb1\xd5\xb7\xd5\xb8\xd5\xbf\xd5\x8f\xd5\x86\xd5\x82 */',restore,,412066856
+280,Q144,865942,2016-12-05T02:29:19Z,b'/* wbsetaliases-add:1|uk */ \xd1\x81\xd0\xbe\xd0\xb1\xd0\xb0\xd0\xba\xd0\xb8',add,aliase,412068759
+280,Q144,865942,2016-12-05T02:29:51Z,b'/* wbsetaliases-add:1|uk */ \xd1\x81\xd0\xbe\xd0\xb1\xd0\xb0\xd0\xba\xd0\xb0',add,aliase,414007318
+280,Q144,865942,2016-12-05T02:31:01Z,b'/* wbsetaliases-add:1|uk */ \xd1\x81\xd0\xbe\xd0\xb1\xd0\xb0\xd0\xba\xd0\xb0 \xd1\x81\xd0\xb2\xd1\x96\xd0\xb9\xd1\x81\xd1\x8c\xd0\xba\xd0\xb8\xd0\xb9',add,aliase,414007338
+280,Q144,865942,2016-12-05T02:31:30Z,b'/* wbsetaliases-add:1|uk */ \xd0\xb4\xd0\xbe\xd0\xbc\xd0\xb0\xd1\x88\xd0\xbd\xd1\x96\xd0\xb9 \xd1\x81\xd0\xbe\xd0\xb1\xd0\xb0\xd0\xba\xd0\xb0',add,aliase,414007408
+280,Q144,865942,2016-12-05T02:32:03Z,b'/* wbsetaliases-add:1|uk */ \xd1\x81\xd0\xbe\xd0\xb1\xd0\xb0\xd0\xba\xd0\xb0 \xd0\xb4\xd0\xbe\xd0\xbc\xd0\xb0\xd1\x88\xd0\xbd\xd1\x96\xd0\xb9',add,aliase,414007429
+280,Q144,865942,2016-12-05T02:32:43Z,b'/* wbsetaliases-add:1|uk */ \xd1\x81\xd0\xb2\xd1\x96\xd0\xb9\xd1\x81\xd1\x8c\xd0\xba\xd0\xb8\xd0\xb9 \xd1\x81\xd0\xbe\xd0\xb1\xd0\xb0\xd0\xba\xd0\xb0',add,aliase,414007452
+280,Q144,865942,2016-12-05T02:33:15Z,b'/* wbsetaliases-add:1|uk */ Canis lupus familiaris',add,aliase,414007489
+280,Q144,865942,2016-12-05T02:34:27Z,b'/* wbsetaliases-add:1|uk */ Canis familiaris',add,aliase,414007516
+280,Q144,865942,2016-12-05T02:34:56Z,b'/* wbsetaliases-add:1|uk */ \xf0\x9f\x90\xb6',add,aliase,414007579
+280,Q144,865942,2016-12-05T02:35:31Z,b'/* wbsetsitelink-add:1|ukwikiquote */ \xd0\x9f\xd0\xb5\xd1\x81 \xd1\x81\xd0\xb2\xd1\x96\xd0\xb9\xd1\x81\xd1\x8c\xd0\xba\xd0\xb8\xd0\xb9',add,sitelink,414007605
+280,Q144,414153810,2016-12-05T21:19:45Z,b'/* wbsetclaim-update:2||1 */ [[Property:P1245]]: helo',update,claim,414007632
+280,Q144,2496,2016-12-05T21:20:43Z,b'Reverted edits by [[Special:Contributions/2601:40A:8100:9BCF:2421:EE8F:24DA:6703|2601:40A:8100:9BCF:2421:EE8F:24DA:6703]] ([[User talk:2601:40A:8100:9BCF:2421:EE8F:24DA:6703|talk]]) to last revision by [[User:\xd0\xa1\xd0\xb5\xd1\x80\xd0\xb3\xd1\x96\xd0\xb9 \xd0\x9b\xd0\xb8\xd0\xbf\xd0\xba\xd0\xbe|\xd0\xa1\xd0\xb5\xd1\x80\xd0\xb3\xd1\x96\xd0\xb9 \xd0\x9b\xd0\xb8\xd0\xbf...',revert,,414153810
+280,Q144,414412449,2016-12-06T15:34:31Z,b'/* wbsetlabel-set:1|en */ Guau guau',set,label,414154312
+280,Q144,414412731,2016-12-06T15:35:22Z,b'/* wbsetaliases-set:1|en */ Perri',set,aliase,414412449
+280,Q144,109099,2016-12-06T15:49:53Z,b'/* restore:0||414154312|YMS */',restore,,414412731
+280,Q144,1472562,2016-12-17T07:22:35Z,b'/* wbsetsitelink-add:1|maiwiki */ \xe0\xa4\x95\xe0\xa5\x81\xe0\xa4\xa4\xe0\xa5\x8d\xe0\xa4\xa4\xe0\xa4\xbe',add,sitelink,414417983
+280,Q144,533014,2016-12-23T12:53:44Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3395]]: 95\xc2\xb125 beats per minute',create,claim,417332930
+280,Q144,533014,2016-12-23T12:55:51Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P3395]]: 95\xc2\xb125 beats per minute',update,claim,419131783
+280,Q144,533014,2016-12-23T12:57:49Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3395]]: 115\xc2\xb115 beats per minute',create,claim,419132671
+280,Q144,158703,2016-12-24T12:09:24Z,"b""/* wbcreateclaim-create:1| */ [[Property:P3417]]: Dogs-pets-1, #mix'n'match""",create,claim,419133535
+280,Q144,986390,2016-12-24T14:05:45Z,b'/* wbsetsitelink-add:1|trwikiquote */ K\xc3\xb6pek',add,sitelink,419623526
+280,Q144,2728610,2016-12-30T16:32:11Z,b'/* wbcreateclaim-create:1| */ [[Property:P1424]]: [[Q10986195]]',create,claim,419687189
+280,Q144,423283402,2017-01-01T21:49:57Z,b'/* wbsetlabel-set:1|en */ Pita',set,label,422654013
+280,Q144,53613,2017-01-01T21:58:16Z,b'Reverted edits by [[Special:Contributions/213.4.166.79|213.4.166.79]] ([[User talk:213.4.166.79|talk]]) to last revision by [[User:DeltaBot|DeltaBot]]',revert,,423283402
+280,Q144,26459,2017-01-03T02:29:47Z,b'/* wbsetlabel-set:1|eu */ txakur',set,label,423286223
+280,Q144,26459,2017-01-03T02:30:58Z,b'/* wbsetaliases-add:1|en */ Canis lupus familiaris',add,aliase,423627525
+280,Q144,26459,2017-01-03T02:30:59Z,b'/* wbsetaliases-add:1|eu */ Canis lupus familiaris',add,aliase,423627641
+280,Q144,424269256,2017-01-04T20:33:13Z,b'/* wbsetaliases-add:1|en */ emanuel te amo',add,aliase,423627644
+280,Q144,424269603,2017-01-04T20:35:50Z,b'/* wbsetlabel-set:1|es */ perro emanuel te amo',set,label,424269256
+280,Q144,424269608,2017-01-04T20:35:52Z,b'/* wbsetaliases-remove:1|en */ emanuel te amo',remove,aliase,424269603
+280,Q144,424269670,2017-01-04T20:36:31Z,b'/* wbsetlabel-set:1|es */ perro',set,label,424269608
+280,Q144,424269676,2017-01-04T20:36:33Z,b'/* wbsetdescription-set:1|es */ mam\xc3\xadfero carn\xc3\xadvoro dom\xc3\xa9stico de la familia de los c\xc3\xa1ninos emanuel te amo',set,description,424269670
+280,Q144,424269813,2017-01-04T20:37:51Z,b'/* wbsetaliases-add:1|es */ emanuel',add,aliase,424269676
+280,Q144,2496,2017-01-04T20:40:54Z,b'Reverted edits by [[Special:Contributions/186.151.60.205|186.151.60.205]] ([[User talk:186.151.60.205|talk]]) to last revision by [[User:Asierog|Asierog]]',revert,,424269813
+280,Q144,23104,2017-01-12T10:44:37Z,b'/* wbsetlabel-set:1|el */ \xcf\x83\xce\xba\xcf\x8d\xce\xbb\xce\xbf\xcf\x82',set,label,424270148
+280,Q144,428018147,2017-01-13T02:28:00Z,b'/* wbsetlabel-set:1|en */ Dog',set,label,427655853
+280,Q144,428018153,2017-01-13T02:28:03Z,b'/* wbsetlabel-set:1|fr */ Chien',set,label,428018147
+280,Q144,428018158,2017-01-13T02:28:04Z,b'/* wbsetlabel-set:1|it */ Cane',set,label,428018153
+280,Q144,208803,2017-01-13T04:57:05Z,b'/* restore:0||427655853|Geraki */',restore,,428018158
+280,Q144,208803,2017-01-13T04:58:21Z,b'/* wbsetaliases-remove:1|en */ Canis lupus familiaris',remove,aliase,428043650
+280,Q144,208803,2017-01-13T04:59:07Z,b'/* wbsetdescription-set:1|en */ domestic animal',set,description,428044201
+280,Q144,533014,2017-01-15T20:36:15Z,"b'/* wbcreateclaim-create:1| */ [[Property:P3485]]: 117\xc2\xb10, #quickstatements'",create,claim,428044578
+280,Q144,533014,2017-01-15T20:36:18Z,"b'/* wbsetreference-add:2| */ [[Property:P3485]]: 117\xc2\xb10, #quickstatements'",add,reference,430376431
+280,Q144,431359128,2017-01-16T23:22:27Z,b'/* wbsetclaim-update:2||1 */ [[Property:P1245]]: la banana es grande',update,claim,430376445
+280,Q144,8831,2017-01-17T18:53:21Z,b'Reverted edits by [[Special:Contributions/187.253.123.15|187.253.123.15]] ([[User talk:187.253.123.15|talk]]) to last revision by [[User:Tubezlob|Tubezlob]]',revert,,431359128
+280,Q144,432484044,2017-01-18T14:08:19Z,b'/* wbsetclaim-update:2||1 */ [[Property:P508]]: 1254',update,claim,432026333
+280,Q144,129322,2017-01-18T14:25:41Z,b'Reverted edits by [[Special:Contributions/82.199.198.120|82.199.198.120]] ([[User talk:82.199.198.120|talk]]) to last revision by [[User:Infovarius|Infovarius]]',revert,,432484044
+280,Q144,77817,2017-01-20T12:22:23Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3479]]: b2d0ab32-ad92-486a-8ff3-c85fc06bdb01',create,claim,432490444
+280,Q144,147176,2017-01-22T13:40:03Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1282]]: Key:dog',create,claim,433378720
+280,Q144,109099,2017-01-22T15:07:01Z,b'/* undo:0||434437862|Reclus */ ?',undo,,434437862
+280,Q144,2580335,2017-01-23T01:03:37Z,b'/* wbsetdescription-add:1|ar */ \xd8\xad\xd9\x8a\xd9\x88\xd8\xa7\xd9\x86 \xd8\xa3\xd9\x84\xd9\x8a\xd9\x81',add,description,434488160
+280,Q144,533014,2017-01-28T11:23:10Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3387]]: 67 hertz',create,claim,434831141
+280,Q144,533014,2017-01-28T11:23:47Z,"b'/* wbsetclaim-create:2||1 */ [[Property:P3465]]: 45,000 hertz'",create,claim,437639003
+280,Q144,533014,2017-01-28T11:24:05Z,"b'/* wbsetclaim-update:2||1|1 */ [[Property:P3465]]: 45,000 hertz'",update,claim,437639414
+280,Q144,109099,2017-01-29T10:48:35Z,b'/* wbremoveclaims-remove:1| */ [[Property:P31]]: [[Q16521]]',remove,claim,437639615
+280,Q144,439431076,2017-01-30T15:25:40Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3417]]: Dogs are the commonly used pets. We might have seen different types of dog. They are used as  our guards. These came from wolves family actually the are domesticated wolves. Dogs even reproduce. The...',create,claim,438453224
+280,Q144,439431605,2017-01-30T15:26:56Z,b'/* wbsetclaim-update:2||1 */ [[Property:P3417]]: basic information on dogs',update,claim,439431076
+280,Q144,109099,2017-01-30T15:50:31Z,b'/* restore:0||438453224|Succu */',restore,,439431605
+281,Q145,124251,2016-10-05T16:15:49Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3106]]: uk-news',create,claim,382904270
+281,Q145,201849,2016-10-05T18:47:03Z,"b'/* wbcreateclaim-create:1| */ [[Property:P2959]]: [[Q27103361]], #quickstatements'",create,claim,383990514
+281,Q145,2719836,2016-10-06T19:09:09Z,"b'/* wbcreateclaim-create:1| */ [[Property:P2046]]: 242,495.406794 square kilometre'",create,claim,384025523
+281,Q145,2719836,2016-10-06T19:09:19Z,"b'/* wbsetreference-add:2| */ [[Property:P2046]]: 242,495.406794 square kilometre'",add,reference,384413794
+281,Q145,51323,2016-10-07T11:20:08Z,b'/* wbsetlabel-set:1|fa */ \xd8\xa8\xd8\xb1\xdb\x8c\xd8\xaa\xd8\xa7\xd9\x86\xdb\x8c\xd8\xa7',set,label,384413824
+281,Q145,609373,2016-10-08T11:00:07Z,"b'/* wbcreateclaim-create:1| */ [[Property:P3270]]: 5, #quickstatements'",create,claim,384551643
+281,Q145,609373,2016-10-08T11:00:10Z,"b'/* wbsetreference-add:2| */ [[Property:P3270]]: 5, #quickstatements'",add,reference,384905193
+281,Q145,609373,2016-10-08T11:16:42Z,"b'/* wbcreateclaim-create:1| */ [[Property:P3271]]: 18, #quickstatements'",create,claim,384905211
+281,Q145,609373,2016-10-08T11:16:45Z,"b'/* wbsetreference-add:2| */ [[Property:P3271]]: 18, #quickstatements'",add,reference,384913465
+281,Q145,609373,2016-10-08T12:50:11Z,"b'/* wbcreateclaim-create:1| */ [[Property:P2997]]: 18, #quickstatements'",create,claim,384913481
+281,Q145,609373,2016-10-08T12:50:17Z,"b'/* wbsetreference-add:2| */ [[Property:P2997]]: 18, #quickstatements'",add,reference,384952977
+281,Q145,37250,2016-10-09T14:43:06Z,b'/* wbsetlabel-set:1|cbk-zam */ Reinos Unidos',set,label,384953016
+281,Q145,37250,2016-10-09T14:43:09Z,b'/* wbsetlabel-set:1|nds */ Vereenigt K\xc3\xb6nigriek',set,label,385521253
+281,Q145,37250,2016-10-09T14:43:11Z,b'/* wbsetlabel-set:1|rmy */ Phandlo Thagaripen',set,label,385521262
+281,Q145,37250,2016-10-09T14:43:14Z,b'/* wbsetlabel-set:1|ro */ Regatul Unit',set,label,385521268
+281,Q145,37250,2016-10-09T14:43:17Z,b'/* wbsetlabel-set:1|stq */ Fereeniged K\xc3\xb6\xc3\xb6nichriek',set,label,385521283
+281,Q145,37250,2016-10-09T14:43:20Z,"b'/* wbsetaliases-set:6|en */ UK, United Kingdom of Great Britain and Northern Ireland, UKGBNI, Great Britain, GB, GBR'",set,aliase,385521292
+281,Q145,37250,2016-10-09T14:43:22Z,"b'/* wbsetaliases-add:2|en-gb */ GB, GBR'",add,aliase,385521303
+281,Q145,37250,2016-10-09T14:43:25Z,b'/* wbsetaliases-add:1|it */ GB',add,aliase,385521311
+281,Q145,37250,2016-10-09T14:43:28Z,b'/* wbsetaliases-add:1|fi */ GB',add,aliase,385521330
+281,Q145,37250,2016-10-09T14:43:31Z,"b'/* wbsetaliases-add:2|fr */ GB, GBR'",add,aliase,385521339
+281,Q145,37250,2016-10-09T14:43:33Z,"b'/* wbsetaliases-add:2|es */ GB, GBR'",add,aliase,385521352
+281,Q145,37250,2016-10-09T14:43:35Z,b'/* wbsetaliases-add:1|ro */ Regatul Unit al Marii Britanii \xc8\x99i al Irlandei de Nord',add,aliase,385521358
+281,Q145,37250,2016-10-09T14:43:37Z,b'/* wbsetaliases-add:1|cbk-zam */ Reinos Unidos de Gran Britania y Norte Irelandia',add,aliase,385521364
+281,Q145,37250,2016-10-09T14:43:39Z,b'',,,385521374
+281,Q145,37250,2016-10-09T14:43:41Z,b'/* wbsetaliases-add:1|nds */ Vereenigt K\xc3\xb6nigriek vun Grootbritannien un Noordirland',add,aliase,385521384
+281,Q145,37250,2016-10-09T14:43:44Z,b'/* wbsetaliases-add:1|rmy */ Phandlo Thagaripen la Bare Britaniyako thai le Nordutne Irlandesko',add,aliase,385521395
+281,Q145,37250,2016-10-09T14:43:46Z,b'/* wbsetaliases-add:1|stq */ Fereeniged K\xc3\xb6\xc3\xb6nichriek fon Groot-Britannien un Noudirlound',add,aliase,385521404
+281,Q145,8831,2016-10-11T14:47:38Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1448]]: \xd0\xa1\xd0\xbe\xd0\xb5\xd0\xb4\xd0\xb8\xd0\xbd\xd1\x91\xd0\xbd\xd0\xbd\xd0\xbe\xd0\xb5 \xd0\xba\xd0\xbe\xd1\x80\xd0\xbe\xd0\xbb\xd0\xb5\xd0\xb2\xd1\x81\xd1\x82\xd0\xb2\xd0\xbe \xd0\x92\xd0\xb5\xd0\xbb\xd0\xb8\xd0\xba\xd0\xbe\xd0\xb1\xd1\x80\xd0\xb8\xd1\x82\xd0\xb0\xd0\xbd\xd0\xb8\xd0\xb8 \xd0\xb8 \xd0\xa1\xd0\xb5\xd0\xb2\xd0\xb5\xd1\x80\xd0\xbd\xd0\xbe\xd0\xb9 \xd0\x98\xd1\x80\xd0\xbb\xd0\xb0\xd0\xbd\xd0\xb4\xd0\xb8\xd0\xb8',create,claim,385521413
+281,Q145,8831,2016-10-11T14:48:29Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1813]]: \xd0\x92\xd0\xb5\xd0\xbb\xd0\xb8\xd0\xba\xd0\xbe\xd0\xb1\xd1\x80\xd0\xb8\xd1\x82\xd0\xb0\xd0\xbd\xd0\xb8\xd1\x8f',create,claim,386798960
+281,Q145,8831,2016-10-11T14:48:39Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1813]]: \xd0\xa1\xd0\xbe\xd0\xb5\xd0\xb4\xd0\xb8\xd0\xbd\xd1\x91\xd0\xbd\xd0\xbd\xd0\xbe\xd0\xb5 \xd0\x9a\xd0\xbe\xd1\x80\xd0\xbe\xd0\xbb\xd0\xb5\xd0\xb2\xd1\x81\xd1\x82\xd0\xb2\xd0\xbe',create,claim,386799342
+281,Q145,2336219,2016-10-12T06:50:40Z,b'/* wbeditentity-update:0| */ Added sitelink to [[w:olo:Yhtys Kuningaskundu]]',update,entity,386799408
+281,Q145,296229,2016-10-21T09:25:30Z,b'/* clientsitelink-update:0|lrcwiki|lrcwiki:\xd8\xa8\xd8\xb1\xdb\x8c\xd8\xaa\xd8\xa7\xd9\x86\xdb\x8c\xd8\xa7|lrcwiki:\xd8\xa8\xd8\xb1\xd9\x8a\xd8\xaa\xd8\xa7\xd9\x86\xd9\x8a\xd8\xa7 */',update,sitelink,387182161
+281,Q145,71094,2016-10-22T00:04:41Z,b'/* wbeditentity-update:0| */ BOT:Add labels (Upper case)',update,label,392181015
+281,Q145,24059,2016-10-23T06:03:12Z,b'/* wbeditentity-update:0| */ Bot: setting proper label for bh',update,label,392490642
+281,Q145,161984,2016-10-24T01:26:22Z,b'/* wbeditentity-update:0| */ fix language codes: bh -> bho',update,entity,393088933
+281,Q145,150965,2016-10-24T21:51:33Z,b'/* wbsetclaimvalue:1| */ [[Property:P2959]]: [[Q22828650]]',,claim,393768711
+281,Q145,110062,2016-10-27T01:45:37Z,b'/* wbcreateclaim-create:1| */ [[Property:P2013]]: TheBritishMonarchy',create,claim,394533281
+281,Q145,110062,2016-10-27T01:45:40Z,b'/* wbsetreference-add:2| */ [[Property:P2013]]: TheBritishMonarchy',add,reference,396523664
+281,Q145,2452446,2016-10-27T07:14:09Z,b'/* clientsitelink-update:0|urwiki|urwiki:\xd9\x85\xd9\x85\xd9\x84\xda\xa9\xd8\xaa \xd9\x85\xd8\xaa\xd8\xad\xd8\xaf\xdb\x81|urwiki:\xd9\x85\xd9\x85\xd9\x84\xda\xa9\xd8\xaa \xd9\x85\xd8\xaa\xd8\xad\xd8\xaf\xdb\x81 \xd8\xb9\xd8\xb8\xd9\x85\xdb\x8c \xd8\xa8\xd8\xb1\xd8\xb7\xd8\xa7\xd9\x86\xdb\x8c\xdb\x81 */',update,sitelink,396523672
+281,Q145,18275,2016-10-27T07:30:14Z,b'/* clientsitelink-update:0|urwiki|urwiki:\xd9\x85\xd9\x85\xd9\x84\xda\xa9\xd8\xaa \xd9\x85\xd8\xaa\xd8\xad\xd8\xaf\xdb\x81 \xd8\xb9\xd8\xb8\xd9\x85\xdb\x8c \xd8\xa8\xd8\xb1\xd8\xb7\xd8\xa7\xd9\x86\xdb\x8c\xdb\x81|urwiki:\xd9\x85\xd9\x85\xd9\x84\xda\xa9\xd8\xaa \xd9\x85\xd8\xaa\xd8\xad\xd8\xaf\xdb\x81 */',update,sitelink,396661188
+281,Q145,161984,2016-10-31T17:28:02Z,b'/* wbeditentity-update:0| */ set unit',update,entity,396668871
+281,Q145,161984,2016-10-31T18:08:11Z,b'/* wbeditentity-update:0| */ set unit',update,entity,398956756
+281,Q145,161984,2016-10-31T18:09:15Z,b'/* wbeditentity-update:0| */ set unit',update,entity,398970379
+281,Q145,405964224,2016-11-12T02:09:49Z,"b'/* wbsetlabeldescriptionaliases:3|en */ Argentina, Guitarra, UK, United Kingdom of Great Britain and Northern Ireland, UKGBNI, Great Britain, GB, GBR'",,label,398970740
+281,Q145,440134,2016-11-12T02:11:04Z,b'/* undo:0||405964224|190.30.138.143 */',undo,,405964224
+281,Q145,2752187,2016-11-23T17:53:28Z,b'/* wbcreateclaim-create:1| */ [[Property:P3348]]: 239558',create,claim,405964587
+281,Q145,201849,2016-12-02T13:06:28Z,"b'/* wbsetsitelink-add:1|fiwikivoyage */ Iso-Britannia, #quickstatements'",add,sitelink,410678987
+281,Q145,1787661,2016-12-03T16:14:44Z,b'/* wbsetclaim-update:2||1 */ [[Property:P1081]]: 0.738',update,claim,413142506
+281,Q145,1787661,2016-12-03T16:15:00Z,b'/* wbsetclaim-update:2||1 */ [[Property:P1081]]: 0.753',update,claim,413580999
+281,Q145,1787661,2016-12-03T16:15:13Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.773',create,claim,413581089
+281,Q145,1787661,2016-12-03T16:15:28Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.837',create,claim,413581159
+281,Q145,1787661,2016-12-03T16:15:39Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.865',create,claim,413581251
+281,Q145,1787661,2016-12-03T16:15:50Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.890',create,claim,413581321
+281,Q145,1787661,2016-12-03T16:16:02Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.906',create,claim,413581378
+281,Q145,1787661,2016-12-03T16:16:14Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.901',create,claim,413581450
+281,Q145,1787661,2016-12-03T16:16:25Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.901',create,claim,413581519
+281,Q145,1787661,2016-12-03T16:16:36Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.902',create,claim,413581582
+281,Q145,1787661,2016-12-03T16:16:47Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.907',create,claim,413581651
+281,Q145,1787661,2016-12-03T16:16:57Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.907',update,claim,413581718
+281,Q145,1787661,2016-12-03T16:17:01Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.902',update,claim,413581784
+281,Q145,1787661,2016-12-03T16:17:06Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.901',update,claim,413581804
+281,Q145,1787661,2016-12-03T16:17:11Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.901',update,claim,413581825
+281,Q145,1787661,2016-12-03T16:17:14Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.906',update,claim,413581859
+281,Q145,1787661,2016-12-03T16:17:19Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.865',update,claim,413581877
+281,Q145,1787661,2016-12-03T16:17:23Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.773',update,claim,413581911
+281,Q145,201849,2016-12-06T11:53:58Z,b'/* wbremoveclaims-remove:1| */ [[Property:P460]]: [[Q22828650]]',remove,claim,413581930
+281,Q145,414856197,2016-12-08T09:52:18Z,b'/* wbsetsitelink-add:1|enwikibooks */ Pinyin/UK',add,sitelink,414353131
+281,Q145,18347,2016-12-09T15:09:18Z,"b'/* wbsetsitelink-set:1|ptwiki */ Reino Unido de Gr\xc3\xa3-Bretanha Irlanda do Norte, Updated: [[pt:Reino Unido]] -> [[pt:Reino Unido de Gr\xc3\xa3-Bretanha Irlanda do Norte]]'",set,sitelink,414856197
+281,Q145,42334,2016-12-09T20:51:03Z,b'/* clientsitelink-update:0|ptwiki|ptwiki:Reino Unido de Gr\xc3\xa3-Bretanha Irlanda do Norte|ptwiki:Reino Unido */',update,sitelink,415125948
+281,Q145,2774699,2016-12-17T07:44:38Z,b'/* wbsetlabel-add:1|tk */ Birle\xc5\x9fen Paty\xc5\x9falyk',add,label,415211323
+281,Q145,2732206,2016-12-17T20:12:54Z,"b""/* wbcreateclaim-create:1| */ [[Property:P2468]]: 157, #mix'n'match""",create,claim,417338154
+281,Q145,158703,2016-12-24T11:31:22Z,"b""/* wbcreateclaim-create:1| */ [[Property:P3417]]: The-United-Kingdom-1, #mix'n'match""",create,claim,417585407
+281,Q145,24059,2016-12-27T06:26:09Z,"b'/* wbsetclaim-update:2||1 */ [[Property:P2046]]: 242,495.406794 square kilometre'",update,claim,419604337
+281,Q145,109841,2017-01-01T08:53:10Z,b'/* wbsetsitelink-add:1|fawikiquote */ \xd8\xa8\xd8\xb1\xdb\x8c\xd8\xaa\xd8\xa7\xd9\x86\xdb\x8c\xd8\xa7',add,sitelink,421188793
+281,Q145,18347,2017-01-05T07:06:15Z,"b'/* wbsetsitelink-set:1|pawiki */ \xe0\xa8\xaf\xe0\xa9\x82\xe0\xa8\xa8\xe0\xa8\xbe\xe0\xa8\x88\xe0\xa8\x9f\xe0\xa8\xa1 \xe0\xa8\x95\xe0\xa8\xbf\xe0\xa9\xb0\xe0\xa8\x97\xe0\xa8\xa1\xe0\xa8\xae, Updated: [[pa:\xe0\xa8\xb8\xe0\xa9\xb0\xe0\xa8\xaf\xe0\xa9\x81\xe0\xa8\x95\xe0\xa8\xa4 \xe0\xa8\xac\xe0\xa8\xbe\xe0\xa8\xa6\xe0\xa8\xb8\xe0\xa8\xbc\xe0\xa8\xbe\xe0\xa8\xb9\xe0\xa9\x80]] -> [[pa:\xe0\xa8\xaf\xe0\xa9\x82\xe0\xa8\xa8\xe0\xa8\xbe\xe0\xa8\x88\xe0\xa8\x9f\xe0\xa8\xa1 \xe0\xa8\x95\xe0\xa8\xbf\xe0\xa9\xb0\xe0\xa8\x97\xe0\xa8\xa1\xe0\xa8\xae]]'",set,sitelink,423137683
+281,Q145,54239,2017-01-05T16:11:30Z,b'/* wbsetdescription-add:1|bg */ \xd0\xb4\xd1\x8a\xd1\x80\xd0\xb6\xd0\xb0\xd0\xb2\xd0\xb0 \xd0\xb2 \xd0\x97\xd0\xb0\xd0\xbf\xd0\xb0\xd0\xb4\xd0\xbd\xd0\xb0 \xd0\x95\xd0\xb2\xd1\x80\xd0\xbe\xd0\xbf\xd0\xb0',add,description,424411410
+281,Q145,54239,2017-01-05T16:12:20Z,"b'/* wbsetaliases-add:3|bg */ \xd0\x92\xd0\xb5\xd0\xbb\xd0\xb8\xd0\xba\xd0\xbe\xd0\xb1\xd1\x80\xd0\xb8\xd1\x82\xd0\xb0\xd0\xbd\xd0\xb8\xd1\x8f, \xd0\x91\xd1\x80\xd0\xb8\xd1\x82\xd0\xb0\xd0\xbd\xd0\xb8\xd1\x8f, \xd0\x9e\xd0\xb1\xd0\xb5\xd0\xb4\xd0\xb8\xd0\xbd\xd0\xb5\xd0\xbd\xd0\xbe\xd1\x82\xd0\xbe \xd0\xba\xd1\x80\xd0\xb0\xd0\xbb\xd1\x81\xd1\x82\xd0\xb2\xd0\xbe'",add,aliase,424535370
+281,Q145,8831,2017-01-06T22:28:12Z,b'/* undo:0||414856197|113.250.222.222 */ not only pinyin',undo,,424535564
+281,Q145,533014,2017-01-08T12:21:17Z,"b'/* wbcreateclaim-create:1| */ [[Property:P3422]]: 99132, #quickstatements'",create,claim,425083107
+281,Q145,288472,2017-01-28T10:10:47Z,"b'/* wbsetclaim-create:2||1 */ [[Property:P1333]]: 49\xc2\xb057\'36""N, 5\xc2\xb012\'36""W'",create,claim,425600105
+281,Q145,288472,2017-01-28T10:13:19Z,"b'/* wbsetclaim-create:2||1 */ [[Property:P1334]]: 52\xc2\xb028\'48""N, 1\xc2\xb045\'36""E'",create,claim,437588385
+281,Q145,288472,2017-01-28T10:13:25Z,"b'/* wbsetclaim-create:2||1 */ [[Property:P1335]]: 56\xc2\xb048\'0""N, 7\xc2\xb040\'12""W'",create,claim,437589971
+282,Q146,1398606,2016-10-03T01:02:58Z,b'/* wbcreateclaim-create:1| */ [[Property:P3221]]: subject/cats',create,claim,382692193
+282,Q146,66982,2016-10-13T14:56:23Z,b'/* wbsetsitelink-add:1|olowiki */ Ka\xc5\xbei',add,sitelink,383364572
+282,Q146,388220987,2016-10-14T01:09:37Z,"b'/* wbsetaliases-set:4|es */ Felis catus, minino, hacen miau, cagan'",set,aliase,388005985
+282,Q146,143824,2016-10-14T02:46:28Z,b'/* restore:0||388005985|Hugo.arg */ rv',restore,,388220987
+282,Q146,940976,2016-10-14T14:51:51Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Kat, #quickstatements'",create,claim,388251488
+282,Q146,940976,2016-10-14T14:51:51Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Kat, #quickstatements'",add,reference,388554555
+282,Q146,940976,2016-10-14T14:51:52Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Agyinamoa/ )kra, #quickstatements'",create,claim,388554559
+282,Q146,940976,2016-10-14T14:51:53Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Agyinamoa/ )kra, #quickstatements'",add,reference,388554564
+282,Q146,940976,2016-10-14T14:51:54Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Hauskotz, #quickstatements'",create,claim,388554568
+282,Q146,940976,2016-10-14T14:51:54Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Hauskotz, #quickstatements'",add,reference,388554574
+282,Q146,940976,2016-10-14T14:51:55Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Kotz, #quickstatements'",create,claim,388554580
+282,Q146,940976,2016-10-14T14:51:56Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Kotz, #quickstatements'",add,reference,388554582
+282,Q146,940976,2016-10-14T14:51:57Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xd0\x9a\xd0\xbe\xd1\x82\xd0\xba\xd0\xb0, #quickstatements'",create,claim,388554587
+282,Q146,940976,2016-10-14T14:51:58Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xd0\x9a\xd0\xbe\xd1\x82\xd0\xba\xd0\xb0, #quickstatements'",add,reference,388554589
+282,Q146,940976,2016-10-14T14:51:58Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Kazh, #quickstatements'",create,claim,388554594
+282,Q146,940976,2016-10-14T14:52:00Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Kazh, #quickstatements'",add,reference,388554598
+282,Q146,940976,2016-10-14T14:52:01Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Gat, #quickstatements'",create,claim,388554607
+282,Q146,940976,2016-10-14T14:52:02Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Gat, #quickstatements'",add,reference,388554611
+282,Q146,940976,2016-10-14T14:52:03Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Iring, #quickstatements'",create,claim,388554616
+282,Q146,940976,2016-10-14T14:52:04Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Iring, #quickstatements'",add,reference,388554624
+282,Q146,940976,2016-10-14T14:52:04Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Huskat, #quickstatements'",create,claim,388554627
+282,Q146,940976,2016-10-14T14:52:05Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Huskat, #quickstatements'",add,reference,388554632
+282,Q146,940976,2016-10-14T14:52:06Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Hauskatze, #quickstatements'",create,claim,388554638
+282,Q146,940976,2016-10-14T14:52:07Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Hauskatze, #quickstatements'",add,reference,388554642
+282,Q146,940976,2016-10-14T14:52:08Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Dadi, #quickstatements'",create,claim,388554650
+282,Q146,940976,2016-10-14T14:52:08Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Dadi, #quickstatements'",add,reference,388554655
+282,Q146,940976,2016-10-14T14:52:09Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xce\x93\xce\xac\xcf\x84\xce\xb1, #quickstatements'",create,claim,388554660
+282,Q146,940976,2016-10-14T14:52:10Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xce\x93\xce\xac\xcf\x84\xce\xb1, #quickstatements'",add,reference,388554665
+282,Q146,940976,2016-10-14T14:52:11Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Domestic cat, #quickstatements'",create,claim,388554671
+282,Q146,940976,2016-10-14T14:52:12Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Domestic cat, #quickstatements'",add,reference,388554677
+282,Q146,940976,2016-10-14T14:52:13Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Kato, #quickstatements'",create,claim,388554681
+282,Q146,940976,2016-10-14T14:52:13Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Kato, #quickstatements'",add,reference,388554687
+282,Q146,940976,2016-10-14T14:52:14Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Gato dom\xc3\xa9stico, #quickstatements'",create,claim,388554694
+282,Q146,940976,2016-10-14T14:52:15Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Gato dom\xc3\xa9stico, #quickstatements'",add,reference,388554700
+282,Q146,940976,2016-10-14T14:52:16Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Kass, #quickstatements'",create,claim,388554706
+282,Q146,940976,2016-10-14T14:52:18Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Kass, #quickstatements'",add,reference,388554711
+282,Q146,940976,2016-10-14T14:52:18Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Kodukass, #quickstatements'",create,claim,388554718
+282,Q146,940976,2016-10-14T14:52:19Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Kodukass, #quickstatements'",add,reference,388554724
+282,Q146,940976,2016-10-14T14:52:20Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Kat u, #quickstatements'",create,claim,388554728
+282,Q146,940976,2016-10-14T14:52:21Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Kat u, #quickstatements'",add,reference,388554732
+282,Q146,940976,2016-10-14T14:52:22Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xda\xaf\xd8\xb1\xd8\xa8\xd9\x87, #quickstatements'",create,claim,388554738
+282,Q146,940976,2016-10-14T14:52:23Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xda\xaf\xd8\xb1\xd8\xa8\xd9\x87, #quickstatements'",add,reference,388554745
+282,Q146,940976,2016-10-14T14:52:24Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Kesykissa, #quickstatements'",create,claim,388554751
+282,Q146,940976,2016-10-14T14:52:25Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Kesykissa, #quickstatements'",add,reference,388554757
+282,Q146,940976,2016-10-14T14:52:25Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Chat domestique, #quickstatements'",create,claim,388554764
+282,Q146,940976,2016-10-14T14:52:26Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Chat domestique, #quickstatements'",add,reference,388554768
+282,Q146,940976,2016-10-14T14:52:27Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: P\xc5\x8dpoki, #quickstatements'",create,claim,388554775
+282,Q146,940976,2016-10-14T14:52:28Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: P\xc5\x8dpoki, #quickstatements'",add,reference,388554778
+282,Q146,940976,2016-10-14T14:52:29Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xd7\x97\xd7\xaa\xd7\x95\xd7\x9c \xd7\x94\xd7\x91\xd7\x99\xd7\xaa, #quickstatements'",create,claim,388554786
+282,Q146,940976,2016-10-14T14:52:30Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xd7\x97\xd7\xaa\xd7\x95\xd7\x9c \xd7\x94\xd7\x91\xd7\x99\xd7\xaa, #quickstatements'",add,reference,388554791
+282,Q146,940976,2016-10-14T14:52:30Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe0\xa4\xac\xe0\xa4\xbf\xe0\xa4\xb2\xe0\xa5\x8d\xe0\xa4\xb2\xe0\xa5\x80, #quickstatements'",create,claim,388554797
+282,Q146,940976,2016-10-14T14:52:31Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe0\xa4\xac\xe0\xa4\xbf\xe0\xa4\xb2\xe0\xa5\x8d\xe0\xa4\xb2\xe0\xa5\x80, #quickstatements'",add,reference,388554800
+282,Q146,940976,2016-10-14T14:52:32Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Doma\xc4\x87a ma\xc4\x8dka, #quickstatements'",create,claim,388554803
+282,Q146,940976,2016-10-14T14:52:33Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Doma\xc4\x87a ma\xc4\x8dka, #quickstatements'",add,reference,388554807
+282,Q146,940976,2016-10-14T14:52:34Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: H\xc3\xa1zimacska, #quickstatements'",create,claim,388554813
+282,Q146,940976,2016-10-14T14:52:35Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: H\xc3\xa1zimacska, #quickstatements'",add,reference,388554818
+282,Q146,940976,2016-10-14T14:52:36Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xd4\xbf\xd5\xa1\xd5\xbf\xd5\xb8\xd6\x82, #quickstatements'",create,claim,388554825
+282,Q146,940976,2016-10-14T14:52:37Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xd4\xbf\xd5\xa1\xd5\xbf\xd5\xb8\xd6\x82, #quickstatements'",add,reference,388554830
+282,Q146,940976,2016-10-14T14:52:38Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Kucing, #quickstatements'",create,claim,388554835
+282,Q146,940976,2016-10-14T14:52:39Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Kucing, #quickstatements'",add,reference,388554840
+282,Q146,940976,2016-10-14T14:52:40Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: H\xc3\xbask\xc3\xb6ttur, #quickstatements'",create,claim,388554844
+282,Q146,940976,2016-10-14T14:52:41Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: H\xc3\xbask\xc3\xb6ttur, #quickstatements'",add,reference,388554846
+282,Q146,940976,2016-10-14T14:52:42Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Gatto domestico, #quickstatements'",create,claim,388554852
+282,Q146,940976,2016-10-14T14:52:44Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Gatto domestico, #quickstatements'",add,reference,388554858
+282,Q146,940976,2016-10-14T14:52:45Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe3\x83\x8d\xe3\x82\xb3, #quickstatements'",create,claim,388554868
+282,Q146,940976,2016-10-14T14:52:46Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe3\x83\x8d\xe3\x82\xb3, #quickstatements'",add,reference,388554874
+282,Q146,940976,2016-10-14T14:52:47Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xea\xb3\xa0\xec\x96\x91\xec\x9d\xb4, #quickstatements'",create,claim,388554877
+282,Q146,940976,2016-10-14T14:52:48Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xea\xb3\xa0\xec\x96\x91\xec\x9d\xb4, #quickstatements'",add,reference,388554882
+282,Q146,940976,2016-10-14T14:52:49Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Gatto, #quickstatements'",create,claim,388554888
+282,Q146,940976,2016-10-14T14:52:50Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Gatto, #quickstatements'",add,reference,388554891
+282,Q146,940976,2016-10-14T14:52:51Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: M\xc4\x81jas ka\xc4\xb7is, #quickstatements'",create,claim,388554892
+282,Q146,940976,2016-10-14T14:52:52Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: M\xc4\x81jas ka\xc4\xb7is, #quickstatements'",add,reference,388554898
+282,Q146,940976,2016-10-14T14:52:53Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe0\xb4\xaa\xe0\xb5\x82\xe0\xb4\x9a\xe0\xb5\x8d\xe0\xb4\x9a, #quickstatements'",create,claim,388554904
+282,Q146,940976,2016-10-14T14:52:54Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe0\xb4\xaa\xe0\xb5\x82\xe0\xb4\x9a\xe0\xb5\x8d\xe0\xb4\x9a, #quickstatements'",add,reference,388554908
+282,Q146,940976,2016-10-14T14:52:55Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Qattus, #quickstatements'",create,claim,388554912
+282,Q146,940976,2016-10-14T14:52:56Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Qattus, #quickstatements'",add,reference,388554915
+282,Q146,940976,2016-10-14T14:52:57Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Huiskat, #quickstatements'",create,claim,388554920
+282,Q146,940976,2016-10-14T14:52:58Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Huiskat, #quickstatements'",add,reference,388554928
+282,Q146,940976,2016-10-14T14:52:59Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Huskatt, #quickstatements'",create,claim,388554934
+282,Q146,940976,2016-10-14T14:53:00Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Huskatt, #quickstatements'",add,reference,388554936
+282,Q146,940976,2016-10-14T14:53:02Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Kot domowy, #quickstatements'",create,claim,388554939
+282,Q146,940976,2016-10-14T14:53:03Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Kot domowy, #quickstatements'",add,reference,388554948
+282,Q146,940976,2016-10-14T14:53:04Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Gato dom\xc3\xa9stico, #quickstatements'",create,claim,388554954
+282,Q146,940976,2016-10-14T14:53:05Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Gato dom\xc3\xa9stico, #quickstatements'",add,reference,388554959
+282,Q146,940976,2016-10-14T14:53:07Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: pisic\xc4\x83 domestic\xc4\x83, #quickstatements'",create,claim,388554965
+282,Q146,940976,2016-10-14T14:53:08Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: pisic\xc4\x83 domestic\xc4\x83, #quickstatements'",add,reference,388554971
+282,Q146,940976,2016-10-14T14:53:08Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xd0\x94\xd0\xbe\xd0\xbc\xd0\xb0\xd1\x88\xd0\xbd\xd1\x8f\xd1\x8f \xd0\xba\xd0\xbe\xd1\x88\xd0\xba\xd0\xb0, #quickstatements'",create,claim,388554977
+282,Q146,940976,2016-10-14T14:53:09Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xd0\x94\xd0\xbe\xd0\xbc\xd0\xb0\xd1\x88\xd0\xbd\xd1\x8f\xd1\x8f \xd0\xba\xd0\xbe\xd1\x88\xd0\xba\xd0\xb0, #quickstatements'",add,reference,388554983
+282,Q146,940976,2016-10-14T14:53:10Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Gattu, #quickstatements'",create,claim,388554988
+282,Q146,940976,2016-10-14T14:53:11Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Gattu, #quickstatements'",add,reference,388554993
+282,Q146,940976,2016-10-14T14:53:13Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xd0\x9c\xd0\xb0\xd1\x87\xd0\xba\xd0\xb0, #quickstatements'",create,claim,388554998
+282,Q146,940976,2016-10-14T14:53:14Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xd0\x9c\xd0\xb0\xd1\x87\xd0\xba\xd0\xb0, #quickstatements'",add,reference,388555006
+282,Q146,940976,2016-10-14T14:53:15Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Likati, #quickstatements'",create,claim,388555009
+282,Q146,940976,2016-10-14T14:53:16Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Likati, #quickstatements'",add,reference,388555013
+282,Q146,940976,2016-10-14T14:53:17Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Tamkatt, #quickstatements'",create,claim,388555018
+282,Q146,940976,2016-10-14T14:53:18Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Tamkatt, #quickstatements'",add,reference,388555023
+282,Q146,940976,2016-10-14T14:53:19Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe0\xae\xaa\xe0\xaf\x82\xe0\xae\xa9\xe0\xaf\x88, #quickstatements'",create,claim,388555032
+282,Q146,940976,2016-10-14T14:53:21Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe0\xae\xaa\xe0\xaf\x82\xe0\xae\xa9\xe0\xaf\x88, #quickstatements'",add,reference,388555040
+282,Q146,940976,2016-10-14T14:53:22Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe0\xb9\x81\xe0\xb8\xa1\xe0\xb8\xa7, #quickstatements'",create,claim,388555049
+282,Q146,940976,2016-10-14T14:53:23Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe0\xb9\x81\xe0\xb8\xa1\xe0\xb8\xa7, #quickstatements'",add,reference,388555056
+282,Q146,940976,2016-10-14T14:53:24Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Pusi, #quickstatements'",create,claim,388555064
+282,Q146,940976,2016-10-14T14:53:25Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Pusi, #quickstatements'",add,reference,388555066
+282,Q146,940976,2016-10-14T14:53:26Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: Kedi, #quickstatements'",create,claim,388555070
+282,Q146,940976,2016-10-14T14:53:27Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: Kedi, #quickstatements'",add,reference,388555073
+282,Q146,940976,2016-10-14T14:53:29Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xd0\x9a\xd1\x96\xd1\x82 \xd1\x81\xd0\xb2\xd1\x96\xd0\xb9\xd1\x81\xd1\x8c\xd0\xba\xd0\xb8\xd0\xb9, #quickstatements'",create,claim,388555074
+282,Q146,940976,2016-10-14T14:53:31Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xd0\x9a\xd1\x96\xd1\x82 \xd1\x81\xd0\xb2\xd1\x96\xd0\xb9\xd1\x81\xd1\x8c\xd0\xba\xd0\xb8\xd0\xb9, #quickstatements'",add,reference,388555083
+282,Q146,940976,2016-10-14T14:53:33Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: gat, #quickstatements'",create,claim,388555086
+282,Q146,940976,2016-10-14T14:53:34Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: gat, #quickstatements'",add,reference,388555092
+282,Q146,940976,2016-10-14T14:53:35Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: m\xc3\xa8o, #quickstatements'",create,claim,388555095
+282,Q146,940976,2016-10-14T14:53:37Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: m\xc3\xa8o, #quickstatements'",add,reference,388555097
+282,Q146,940976,2016-10-14T14:53:38Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1843]]: \xe7\x8c\xab, #quickstatements'",create,claim,388555102
+282,Q146,940976,2016-10-14T14:53:39Z,"b'/* wbsetreference-add:2| */ [[Property:P1843]]: \xe7\x8c\xab, #quickstatements'",add,reference,388555105
+282,Q146,391703247,2016-10-20T16:41:40Z,b'/* wbsetlabel-set:1|en */ BEEP BEEP LETTUCE',set,label,388555107
+282,Q146,391703258,2016-10-20T16:41:42Z,b'/* wbsetlabel-set:1|es */ bip bip lechuga',set,label,391703247
+282,Q146,391703268,2016-10-20T16:41:43Z,b'/* wbsetlabel-set:1|zh */ :D',set,label,391703258
+282,Q146,391703454,2016-10-20T16:42:09Z,b'/* wbsetlabel-set:1|zh-hant */ >:)',set,label,391703268
+282,Q146,391703911,2016-10-20T16:43:05Z,b'/* wbsetlabel-set:1|en */ beep_beep_lettuce',set,label,391703454
+282,Q146,391703944,2016-10-20T16:43:10Z,b'/* wbsetdescription-set:1|en */ whazzup bruh',set,description,391703911
+282,Q146,391704538,2016-10-20T16:44:36Z,b'/* wbsetlabel-set:1|en */ Beep. Beep. Lettuce!',set,label,391703944
+282,Q146,391704561,2016-10-20T16:44:39Z,b'/* wbsetlabel-remove:1|zh */ :D',remove,label,391704538
+282,Q146,391704573,2016-10-20T16:44:41Z,b'/* wbsetdescription-set:1|es */ hi',set,description,391704561
+282,Q146,391704584,2016-10-20T16:44:43Z,b'/* wbsetdescription-add:1|zh-hant */ O<O',add,description,391704573
+282,Q146,129322,2016-10-20T16:45:39Z,b'Reverted edits by [[Special:Contributions/164.116.142.25|164.116.142.25]] ([[User talk:164.116.142.25|talk]]) to last revision by [[User:Reinheitsgebot|Reinheitsgebot]]',revert,,391704584
+282,Q146,91653,2016-11-03T17:48:43Z,b'/* wbsetlabel-add:1|pag */ pusa',add,label,391704916
+282,Q146,2700716,2016-11-07T15:38:25Z,"b'/* wbsetsitelink-set-both:2|mswiki */ Kucing, [[Q17437796]]'",set,sitelink,400450778
+282,Q146,158926,2016-11-28T20:04:52Z,b'/* wbsetlabel-add:1|aeb-arab */ \xd9\x82\xd8\xb7\xd9\x88\xd8\xb5',add,label,403149576
+282,Q146,158926,2016-11-28T20:50:11Z,b'/* wbsetlabel-add:1|aeb-latn */ 9a66ouc',add,label,412144200
+282,Q146,415273845,2016-12-10T02:42:33Z,b'/* wbsetlabel-set:1|en */ KIKI',set,label,412154234
+282,Q146,415273853,2016-12-10T02:42:36Z,b'/* wbsetaliases-add:1|en */ kiki',add,aliase,415273845
+282,Q146,415274526,2016-12-10T02:47:02Z,b'/* wbsetlabel-set:1|zh-hant */ \xe8\xb2\x93sdzxvb',set,label,415273853
+282,Q146,1354709,2016-12-10T04:05:34Z,b'Reverted edits by [[Special:Contributions/2601:404:C204:1C0:48F4:FC04:C63D:F39E|2601:404:C204:1C0:48F4:FC04:C63D:F39E]] ([[User talk:2601:404:C204:1C0:48F4:FC04:C63D:F39E|talk]]) to last revision by [[User:Csisc|Csisc]]',revert,,415274526
+282,Q146,415830721,2016-12-12T05:43:35Z,b'/* wbsetlabel-set:1|en */ Un no tobi *-*',set,label,415286418
+282,Q146,129322,2016-12-12T05:59:00Z,b'Reverted edits by [[Special:Contributions/189.193.137.66|189.193.137.66]] ([[User talk:189.193.137.66|talk]]) to last revision by [[User:Tulsi Bhagat|Tulsi Bhagat]]',revert,,415830721
+282,Q146,533014,2016-12-23T12:24:27Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3395]]: 125\xc2\xb115 beats per minute',create,claim,415831414
+282,Q146,533014,2016-12-23T12:44:37Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3395]]: 130\xc2\xb110 beats per minute',create,claim,419121174
+282,Q146,533014,2016-12-23T12:44:59Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P3395]]: 130\xc2\xb110 beats per minute',update,claim,419128170
+282,Q146,4279,2016-12-24T10:05:28Z,"b""/* wbcreateclaim-create:1| */ [[Property:P3417]]: Cats, #mix'n'match""",create,claim,419128313
+282,Q146,26459,2017-01-03T02:30:03Z,b'/* wbsetlabel-set:1|eu */ katu',set,label,419577195
+282,Q146,26459,2017-01-03T02:30:27Z,"b'/* wbsetaliases-set:5|eu */ Felis silvestris catus, Felis catus, etxe katu, katua, etxeko katu'",set,aliase,423627533
+282,Q146,54239,2017-01-05T16:12:52Z,b'/* wbsetdescription-add:1|bg */ \xd0\xb4\xd0\xbe\xd0\xbc\xd0\xb0\xd1\x88\xd0\xbd\xd0\xbe \xd0\xb6\xd0\xb8\xd0\xb2\xd0\xbe\xd1\x82\xd0\xbd\xd0\xbe',add,description,423627574
+282,Q146,533014,2017-01-15T20:21:15Z,"b'/* wbcreateclaim-create:1| */ [[Property:P3485]]: 58\xc2\xb10, #quickstatements'",create,claim,424535695
+282,Q146,533014,2017-01-15T20:21:17Z,"b'/* wbsetqualifier-add:1| */ [[Property:P143]]: [[Q328]], #quickstatements'",add,qualifier,430369479
+282,Q146,533014,2017-01-15T20:23:31Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P3485]]: 58\xc2\xb10',update,claim,430369494
+282,Q146,2345063,2017-01-22T12:36:58Z,b'/* wbsetaliases-add:1|ak */ )kra',add,aliase,430370515
+282,Q146,507629,2017-01-24T23:28:32Z,b'/* wbsetclaim-update:2||1 */ [[Property:P3063]]: 64 day',update,claim,434394778
+282,Q146,533014,2017-01-28T12:17:44Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3387]]: 45 hertz',create,claim,435806349
+282,Q146,533014,2017-01-28T12:18:09Z,"b'/* wbsetclaim-create:2||1 */ [[Property:P3465]]: 64,000 hertz'",create,claim,437681665
+282,Q146,533014,2017-01-28T12:18:26Z,"b'/* wbsetclaim-update:2||1|1 */ [[Property:P3465]]: 64,000 hertz'",update,claim,437681949
+283,Q147,416697550,2016-12-15T16:03:21Z,b'/* wbsetclaim-update:2||1 */ [[Property:P373]]: Kittens bestaan niet',update,claim,354826693
+283,Q147,416697590,2016-12-15T16:03:46Z,b'/* wbsetclaim-update:2||1 */ [[Property:P279]]: [[Q1050154]]',update,claim,416697550
+283,Q147,416697667,2016-12-15T16:04:28Z,b'/* wbsetclaim-update:2||1 */ [[Property:P935]]: Kittenlol',update,claim,416697590
+283,Q147,416697749,2016-12-15T16:05:08Z,b'/* wbsetlabel-set:1|en */ poep',set,label,416697667
+283,Q147,416697796,2016-12-15T16:05:43Z,b'/* wbsetlabel-set:1|de */ loven',set,label,416697749
+283,Q147,416697799,2016-12-15T16:05:43Z,b'/* wbsetlabel-set:1|nl */ poes',set,label,416697796
+283,Q147,416697800,2016-12-15T16:05:44Z,b'/* wbsetdescription-set:1|en */ poep',set,description,416697799
+283,Q147,416697803,2016-12-15T16:05:44Z,b'/* wbsetdescription-set:1|de */ lovn',set,description,416697800
+283,Q147,416697805,2016-12-15T16:05:45Z,b'/* wbsetdescription-set:1|nl */ poes',set,description,416697803
+283,Q147,2496,2016-12-15T18:39:28Z,b'Reverted edits by [[Special:Contributions/94.211.108.101|94.211.108.101]] ([[User talk:94.211.108.101|talk]]) to last revision by [[User:Bjankuloski06|Bjankuloski06]]',revert,,416697805
+283,Q147,417928343,2016-12-18T21:51:46Z,b'/* wbsetlabel-set:1|sv */ kattunge',set,label,416718768
+283,Q147,417928345,2016-12-18T21:51:47Z,b'/* wbsetdescription-add:1|sv */ en katts avkomma',add,description,417928343
+283,Q147,54239,2017-01-05T16:15:15Z,b'/* wbsetlabel-add:1|bg */ \xd0\xba\xd0\xbe\xd1\x82\xd0\xb5\xd0\xbd\xd1\x86\xd0\xb5',add,label,417928345
+283,Q147,54239,2017-01-05T16:15:16Z,b'/* wbsetdescription-add:1|bg */ \xd0\xbc\xd0\xb0\xd0\xbb\xd0\xba\xd0\xb0 \xd0\xba\xd0\xbe\xd1\x82\xd0\xba\xd0\xb0',add,description,424536325
+284,Q148,1398606,2016-10-03T01:36:50Z,b'/* wbcreateclaim-create:1| */ [[Property:P3221]]: destination/china',create,claim,382703982
+284,Q148,88398,2016-10-05T08:44:22Z,b'/* wbsetsitelink-add:1|avwiki */ \xd0\xa7\xd0\xb8\xd0\xbd',add,sitelink,383371948
+284,Q148,197855,2016-10-05T09:34:02Z,b'/* wbsetclaim-create:2||1 */ [[Property:P18]]: Badaling China Great-Wall-of-China-01.jpg',create,claim,383900691
+284,Q148,124251,2016-10-05T17:38:03Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3106]]: world/china',create,claim,383910815
+284,Q148,16474,2016-10-07T14:17:30Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3270]]: 6',create,claim,384007891
+284,Q148,1895734,2016-10-08T12:07:56Z,b'/* wbcreateclaim-create:1| */ [[Property:P214]]: 122542607',create,claim,384588262
+284,Q148,1895734,2016-10-08T12:07:58Z,b'/* wbsetreference-add:2| */ [[Property:P214]]: 122542607',add,reference,384935911
+284,Q148,609373,2016-10-08T12:39:47Z,"b'/* wbcreateclaim-create:1| */ [[Property:P2997]]: 18, #quickstatements'",create,claim,384935923
+284,Q148,609373,2016-10-08T12:39:49Z,"b'/* wbsetreference-add:2| */ [[Property:P2997]]: 18, #quickstatements'",add,reference,384949109
+284,Q148,161984,2016-10-09T14:16:46Z,b'/* wbcreateclaim-create:1| */ [[Property:P3238]]: 0',create,claim,384949126
+284,Q148,2336219,2016-10-12T07:18:57Z,b'/* wbeditentity-update:0| */ Added sitelink to [[w:olo:Kitai]]',update,entity,385512306
+284,Q148,71094,2016-10-14T18:52:19Z,b'/* wbeditentity-update:0| */ BOT:Add labels (Upper case)',update,label,387189260
+284,Q148,390509669,2016-10-17T23:10:30Z,"b""/* wbsetlabel-set:1|en */ People's Republic of China workss""",set,label,388641416
+284,Q148,390509731,2016-10-17T23:11:21Z,"b""/* wbsetlabel-set:1|en */ People's Republic of China""",set,label,390509669
+284,Q148,2496,2016-10-18T05:48:33Z,b'Reverted edits by [[Special:Contributions/2A03:2880:2030:CFED:FACE:B00C:0:8000|2A03:2880:2030:CFED:FACE:B00C:0:8000]] ([[User talk:2A03:2880:2030:CFED:FACE:B00C:0:8000|talk]]) to last revision by [[User:2A03:2880:2030:CFEC:FACE:B00C:0:8000|2A03:2880:20...',revert,,390509731
+284,Q148,2496,2016-10-18T05:50:10Z,b'/* undo:0||390509669|2A03:2880:2030:CFEC:FACE:B00C:0:8000 */',undo,,390533114
+284,Q148,24059,2016-10-23T06:03:25Z,b'/* wbeditentity-update:0| */ Bot: setting proper label for bh',update,label,390533298
+284,Q148,742954,2016-10-23T21:23:50Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1549]]: Tsyin\xc3\xa4nan, #quickstatements'",create,claim,393089015
+284,Q148,161984,2016-10-24T01:26:25Z,b'/* wbeditentity-update:0| */ fix language codes: bh -> bho',update,entity,393554507
+284,Q148,146776,2016-10-24T20:05:51Z,b'/* wbsetsitelink-remove:1|etwiki */ Hiina',remove,sitelink,393768738
+284,Q148,91653,2016-10-28T22:46:21Z,b'/* wbsetaliases-add:1|pam */ Pangmaldang Republika ning Tsina',add,aliase,394466956
+284,Q148,99141,2016-10-29T20:29:34Z,"b'/* wbsetclaim-create:2||1 */ [[Property:P2046]]: 9,596,961\xc2\xb11 square kilometre'",create,claim,397547555
+284,Q148,161984,2016-10-31T17:30:14Z,b'/* wbeditentity-update:0| */ set unit',update,entity,398063711
+284,Q148,161984,2016-10-31T18:06:31Z,b'/* wbeditentity-update:0| */ set unit',update,entity,398957391
+284,Q148,91653,2016-11-02T16:35:44Z,"b'/* wbsetaliases-add:2|tl */ Pangmadlang Republika ng Tsina, Republikang Bayan ng Tsina'",add,aliase,398969737
+284,Q148,7430,2016-11-04T21:01:28Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1549]]: \xd0\xba\xd0\xb8\xd1\x82\xd0\xb0\xd1\x94\xd1\x86\xd1\x8c',create,claim,400036990
+284,Q148,7430,2016-11-04T21:03:28Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1549]]: \xd0\xba\xd0\xb8\xd1\x82\xd0\xb0\xd1\x8f\xd0\xbd\xd0\xba\xd0\xb0',create,claim,401152353
+284,Q148,1794382,2016-11-05T21:39:02Z,b'/* wbsetsitelink-add:1|cawikiquote */ Xina',add,sitelink,401153050
+284,Q148,201849,2016-11-07T08:34:00Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1549]]: Chinese',create,claim,401789321
+284,Q148,7682,2016-11-23T19:00:43Z,b'/* wbsetaliases-remove:1|zh */ \xe4\xb8\xad\xe8\x8f\xaf\xe4\xba\xba\xe6\xb0\x91\xe5\x85\xb1\xe5\x92\x8c\xe5\x9c\x8b\xef\xbc\x8f\xe4\xb8\xad\xe5\x8d\x8e\xe4\xba\xba\xe6\xb0\x91\xe5\x85\xb1\xe5\x92\x8c\xe5\x9b\xbd',remove,aliase,402843025
+284,Q148,20033,2016-11-24T16:26:40Z,b'/* wbsetlabel-set:1|ka */ \xe1\x83\xa9\xe1\x83\x98\xe1\x83\x9c\xe1\x83\x94\xe1\x83\x97\xe1\x83\x98\xe1\x83\xa1 \xe1\x83\xa1\xe1\x83\x90\xe1\x83\xae\xe1\x83\x90\xe1\x83\x9a\xe1\x83\xae\xe1\x83\x9d \xe1\x83\xa0\xe1\x83\x94\xe1\x83\xa1\xe1\x83\x9e\xe1\x83\xa3\xe1\x83\x91\xe1\x83\x9a\xe1\x83\x98\xe1\x83\x99\xe1\x83\x90',set,label,410701148
+284,Q148,20033,2016-11-24T16:26:43Z,b'/* wbsetdescription-add:1|ka */ \xe1\x83\xa5\xe1\x83\x95\xe1\x83\x94\xe1\x83\xa7\xe1\x83\x90\xe1\x83\x9c\xe1\x83\x90 \xe1\x83\x90\xe1\x83\x96\xe1\x83\x98\xe1\x83\x90\xe1\x83\xa8\xe1\x83\x98',add,description,410918938
+284,Q148,20033,2016-11-24T16:26:46Z,b'/* wbsetaliases-add:1|ka */ \xe1\x83\xa9\xe1\x83\x98\xe1\x83\x9c\xe1\x83\x94\xe1\x83\x97\xe1\x83\x98',add,aliase,410918945
+284,Q148,1787661,2016-11-25T22:03:23Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.430',create,claim,410918950
+284,Q148,1787661,2016-11-25T22:03:36Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.467',create,claim,411399570
+284,Q148,1787661,2016-11-25T22:03:48Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.501',create,claim,411399631
+284,Q148,1787661,2016-11-25T22:04:02Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.545',create,claim,411399694
+284,Q148,1787661,2016-11-25T22:04:15Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.588',create,claim,411399761
+284,Q148,1787661,2016-11-25T22:04:32Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.641',create,claim,411399830
+284,Q148,1787661,2016-11-25T22:04:44Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.699',create,claim,411399929
+284,Q148,1787661,2016-11-25T22:04:57Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.707',create,claim,411399997
+284,Q148,1787661,2016-11-25T22:05:14Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.718',create,claim,411400069
+284,Q148,1787661,2016-11-25T22:05:27Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.723',create,claim,411400142
+284,Q148,1787661,2016-11-25T22:05:39Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.728',create,claim,411400198
+284,Q148,1787661,2016-11-25T22:05:54Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.501',update,claim,411400249
+284,Q148,1787661,2016-11-25T22:06:03Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.588',update,claim,411400308
+284,Q148,1787661,2016-11-25T22:06:08Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.699',update,claim,411400346
+284,Q148,1787661,2016-11-25T22:06:13Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.707',update,claim,411400370
+284,Q148,1787661,2016-11-25T22:06:19Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.718',update,claim,411400395
+284,Q148,1787661,2016-11-25T22:06:22Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.723',update,claim,411400420
+284,Q148,1787661,2016-11-25T22:06:26Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.728',update,claim,411400436
+284,Q148,952293,2016-11-25T22:33:04Z,b'/* wbsetdescription-add:1|bg */ \xd0\xb4\xd1\x8a\xd1\x80\xd0\xb6\xd0\xb0\xd0\xb2\xd0\xb0 \xd0\xb2 \xd0\x90\xd0\xb7\xd0\xb8\xd1\x8f',add,description,411400455
+284,Q148,952293,2016-11-25T22:33:07Z,b'/* wbsetaliases-add:1|bg */ \xd0\x9a\xd0\x9d\xd0\xa0',add,aliase,411408659
+284,Q148,768608,2016-11-26T00:11:25Z,b'/* wbcreateclaim-create:1| */ [[Property:P2959]]: [[Q22828645]]',create,claim,411408673
+284,Q148,768608,2016-11-26T00:11:29Z,b'/* wbsetreference-add:2| */ [[Property:P2959]]: [[Q22828645]]',add,reference,411440948
+284,Q148,1586771,2016-11-26T12:09:30Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1549]]: Chi\xc5\x84czyk',create,claim,411440967
+284,Q148,411684213,2016-11-26T17:29:32Z,b'/* wbsetaliases-add:1|ko */ \xec\xa4\x91\xea\xb5\xad',add,aliase,411586231
+284,Q148,201849,2016-12-02T12:55:38Z,"b'/* wbsetsitelink-add:1|fiwikivoyage */ Kiina, #quickstatements'",add,sitelink,411684213
+284,Q148,201849,2016-12-06T11:54:18Z,b'/* wbremoveclaims-remove:1| */ [[Property:P460]]: [[Q22828645]]',remove,claim,413139767
+284,Q148,2746202,2016-12-07T01:43:49Z,b'/* wbsetaliases-add:1|tr */ \xc3\x87in',add,aliase,414353225
+284,Q148,414833450,2016-12-08T02:40:52Z,"b""/* wbsetsitelink-add:1|enwikibooks */ Pinyin/People's Republic Of China""",add,sitelink,414618404
+284,Q148,415912152,2016-12-12T16:21:06Z,b'/* wbsetsitelink-add:1|kmwiki */ \xe1\x9e\x85\xe1\x9e\xb7\xe1\x9e\x93',add,sitelink,414833450
+284,Q148,2685735,2016-12-12T16:35:59Z,b'/* clientsitelink-update:0|kmwiki|kmwiki:\xe1\x9e\x85\xe1\x9e\xb7\xe1\x9e\x93|kmwiki:\xe1\x9e\x94\xe1\x9f\x92\xe1\x9e\x9a\xe1\x9e\x91\xe1\x9f\x81\xe1\x9e\x9f\xe1\x9e\x85\xe1\x9e\xb7\xe1\x9e\x93 */',update,sitelink,415912152
+284,Q148,889167,2016-12-14T16:40:47Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1549]]: kinesisk',create,claim,415913697
+284,Q148,40201,2016-12-17T11:27:42Z,b'/* wbsetclaim-create:2||1 */ [[Property:P2924]]: 2068564',create,claim,416318064
+284,Q148,71094,2016-12-23T06:32:29Z,b'/* wbeditentity-update:0| */ BOT:Add labels (Upper case)',update,label,417398752
+284,Q148,2732206,2016-12-24T01:18:04Z,"b""/* wbcreateclaim-create:1| */ [[Property:P3417]]: China, #mix'n'match""",create,claim,419005523
+284,Q148,2697391,2016-12-24T13:25:32Z,b'/* wbsetlabel-set:1|tl */ Republikang Bayan ng Tsina',set,label,419421375
+284,Q148,2697391,2016-12-24T13:25:35Z,b'/* wbsetdescription-add:1|tl */ Bansa sa Silangang Asya',add,description,419664041
+284,Q148,2697391,2016-12-24T13:26:56Z,b'/* wbsetdescription-set:1|tl */ bansa sa Silangang Asya',set,description,419664059
+284,Q148,2578184,2016-12-26T14:16:28Z,b'/* wbsetsitelink-add:1|etwiki */ Hiina Rahvavabariik',add,sitelink,419664718
+284,Q148,2746202,2017-01-04T20:33:33Z,"b""/* wbsetdescription-add:1|tr */ Do\xc4\x9fu Asya'da bir \xc3\xbclke""",add,description,420874640
+284,Q148,533014,2017-01-08T12:15:16Z,"b'/* wbcreateclaim-create:1| */ [[Property:P3422]]: 99216, #quickstatements'",create,claim,424269299
+284,Q148,6145,2017-01-20T14:22:53Z,b'/* clientsitelink-update:0|bgwiki|bgwiki:\xd0\x9a\xd0\xb8\xd1\x82\xd0\xb0\xd0\xb9\xd1\x81\xd0\xba\xd0\xb0 \xd0\xbd\xd0\xb0\xd1\x80\xd0\xbe\xd0\xb4\xd0\xbd\xd0\xb0 \xd1\x80\xd0\xb5\xd0\xbf\xd1\x83\xd0\xb1\xd0\xbb\xd0\xb8\xd0\xba\xd0\xb0|bgwiki:\xd0\x9a\xd0\xb8\xd1\x82\xd0\xb0\xd0\xb9 */',update,sitelink,425597274
+284,Q148,435782522,2017-01-24T22:11:49Z,b'/* wbsetdescription-set:1|en */ Country in East Asia',set,description,433414490
+284,Q148,435820525,2017-01-25T00:26:23Z,b'/* wbsetdescription-set:1|en */ state in East Asia',set,description,435782522
+284,Q148,288472,2017-01-28T10:15:39Z,"b'/* wbsetclaim-create:2||1 */ [[Property:P1333]]: 18\xc2\xb09\'36""N, 109\xc2\xb034\'48""E'",create,claim,435820525
+284,Q148,288472,2017-01-28T10:16:36Z,"b'/* wbsetclaim-create:2||1 */ [[Property:P1334]]: 47\xc2\xb044\'24""N, 134\xc2\xb046\'12""E'",create,claim,437591369
+284,Q148,288472,2017-01-28T10:20:22Z,"b'/* wbsetclaim-create:2||1 */ [[Property:P1335]]: 39\xc2\xb022\'48""N, 73\xc2\xb030\'0""E'",create,claim,437591914
+284,Q148,2778583,2017-01-31T21:27:17Z,b'/* wbsetdescription-add:1|he */ \xd7\x9e\xd7\x93\xd7\x99\xd7\xa0\xd7\x94 \xd7\x91\xd7\x90\xd7\xa1\xd7\x99\xd7\x94',add,description,437594218
+285,Q149,6409,2016-10-15T11:45:11Z,b'/* wbsetclaim-update:2||1 */ [[Property:P31]]: [[Q27303676]]',update,claim,350068685
+285,Q149,4279,2016-12-24T10:05:40Z,"b""/* wbcreateclaim-create:1| */ [[Property:P3417]]: Nyan-Cat, #mix'n'match""",create,claim,388965623
+286,Q150,69760,2016-10-11T10:31:10Z,b'/* wbsetlabel-set:1|sah */ \xd0\xb1\xd0\xbe\xd1\x80\xd0\xbe\xd0\xbd\xd1\x81\xd1\x83\xd1\x83\xd1\x81 \xd1\x82\xd1\x8b\xd0\xbb\xd0\xb0',set,label,377972797
+286,Q150,69760,2016-10-11T10:31:12Z,b'/* wbsetdescription-add:1|sah */ \xd1\x80\xd0\xbe\xd0\xbc\xd0\xb0\xd0\xbd\xd1\x81\xd0\xba\xd0\xb0\xd0\xb9 \xd0\xb1\xd3\xa9\xd0\xbb\xd3\xa9\xd1\x85\xd1\x85\xd3\xa9 \xd0\xba\xd0\xb8\xd0\xb8\xd1\x80\xd1\x8d\xd1\x80 \xd0\xbe\xd0\xbc\xd1\x83\xd0\xba \xd1\x82\xd1\x8b\xd0\xbb\xd0\xb0',add,description,386674596
+286,Q150,69760,2016-10-11T10:31:13Z,b'/* wbsetaliases-add:1|sah */ \xd1\x84\xd1\x80\xd0\xb0\xd0\xbd\xd1\x86\xd1\x83\xd0\xb7 \xd1\x82\xd1\x8b\xd0\xbb\xd0\xb0',add,aliase,386674607
+286,Q150,2336219,2016-10-12T07:27:30Z,b'/* wbeditentity-update:0| */ Added sitelink to [[w:olo:Frantsien kieli]]',update,entity,386674626
+286,Q150,24059,2016-10-23T06:03:27Z,"b'/* wbeditentity-update:0| */ Bot: setting proper label for olo,bh,tcy'",update,label,387191816
+286,Q150,393130783,2016-10-23T08:07:50Z,b'/* wbsetsitelink-add:1|kkwikibooks */ \xd0\xa4\xd1\x80\xd0\xb0\xd0\xbd\xd1\x86\xd1\x83\xd0\xb7 \xd1\x82\xd1\x96\xd0\xbb\xd1\x96',add,sitelink,393089032
+286,Q150,161984,2016-10-24T01:26:26Z,b'/* wbeditentity-update:0| */ fix language codes: bh -> bho',update,entity,393130783
+286,Q150,150965,2016-10-24T17:04:31Z,b'/* wbsetclaimvalue:1| */ [[Property:P2959]]: [[Q22828635]]',,claim,393768754
+286,Q150,205345,2016-10-27T11:20:07Z,b'/* wbsetlabel-set:1|tg */ \xd1\x84\xd0\xb0\xd1\x80\xd0\xbe\xd0\xbd\xd1\x81\xd0\xb0\xd0\xb2\xd3\xa3',set,label,394366577
+286,Q150,205345,2016-10-27T11:20:09Z,b'/* wbsetaliases-add:1|tg */ \xd0\xb7\xd0\xb0\xd0\xb1\xd0\xbe\xd0\xbd\xd0\xb8 \xd1\x84\xd0\xb0\xd1\x80\xd0\xbe\xd0\xbd\xd1\x81\xd0\xb0\xd0\xb2\xd3\xa3',add,aliase,396783309
+286,Q150,8887,2016-10-31T06:11:20Z,"b""/* wbcreateclaim-create:1| */ [[Property:P3222]]: franska, #mix'n'match""",create,claim,396783323
+286,Q150,234858,2016-11-02T13:42:12Z,b'/* wbsetlabel-set:1|ia */ francese',set,label,398757883
+286,Q150,234858,2016-11-02T13:42:15Z,b'/* wbsetdescription-add:1|ia */ lingua romanic parlate in Francia e altere regiones',add,description,399993913
+286,Q150,234858,2016-11-02T13:42:16Z,b'/* wbsetaliases-add:1|ia */ lingua francese',add,aliase,399993929
+286,Q150,103218,2016-11-09T14:00:15Z,b'/* wbsetsitelink-add:1|elwikivoyage */ \xce\x93\xce\xb1\xce\xbb\xce\xbb\xce\xb9\xce\xba\xcf\x8c\xcf\x82 \xce\xb3\xce\xbb\xcf\x89\xcf\x83\xcf\x83\xce\xb9\xce\xba\xcf\x8c\xcf\x82 \xce\xbf\xce\xb4\xce\xb7\xce\xb3\xcf\x8c\xcf\x82',add,sitelink,399993935
+286,Q150,158926,2016-11-10T09:29:40Z,b'/* wbsetlabel-add:1|aeb-arab */ \xd8\xa7\xd9\x84\xd9\x81\xd8\xb1\xd8\xa7\xd9\x86\xd8\xb3\xd8\xa7\xd9\x88\xd9\x8a\xd8\xa9',add,label,404527712
+286,Q150,158926,2016-11-10T09:29:42Z,"b'/* wbsetaliases-add:2|aeb-arab */ \xd8\xa7\xd9\x84\xd8\xb3\xd9\x88\xd8\xb1\xd9\x8a, \xd8\xa7\xd9\x84\xd9\x84\xd9\x88\xd8\xba\xd8\xa9 \xd8\xa7\xd9\x84\xd9\x81\xd8\xb1\xd8\xa7\xd9\x86\xd8\xb3\xd8\xa7\xd9\x88\xd9\x8a\xd8\xa9'",add,aliase,405040864
+286,Q150,2735454,2016-11-11T10:30:29Z,b'/* wbsetsitelink-set:1|ugwiki */ \xda\xa7\xd8\xb1\xd8\xa7\xd9\x86\xd8\xb3\xdb\x87\xd8\xb2 \xd8\xaa\xd9\x89\xd9\x84\xd9\x89',set,sitelink,405040883
+286,Q150,1822,2016-11-25T12:54:23Z,b'/* wbsetlabel-set:1|el */ \xce\xb3\xce\xb1\xce\xbb\xce\xbb\xce\xb9\xce\xba\xce\xae \xce\xb3\xce\xbb\xcf\x8e\xcf\x83\xcf\x83\xce\xb1',set,label,405643075
+286,Q150,153082,2016-11-27T23:23:36Z,b'/* wbsetlabel-set:1|eu */ frantsesa',set,label,411176840
+286,Q150,201849,2016-12-02T15:08:48Z,"b'/* wbsetsitelink-add:1|fiwikivoyage */ Ranskan matkasanakirja, #quickstatements'",add,sitelink,411928994
+286,Q150,201849,2016-12-06T11:54:27Z,b'/* wbremoveclaims-remove:1| */ [[Property:P460]]: [[Q22828635]]',remove,claim,413186548
+286,Q150,201849,2016-12-09T13:07:41Z,b'/* wbsetlabel-add:1|ug-arab */ \xd9\x81\xd8\xb1\xd8\xa7\xd9\x86\xd8\xb3\xdb\x87\xd8\xb2 \xd8\xaa\xd9\x89\xd9\x84\xd9\x89',add,label,414353261
+286,Q150,201849,2016-12-09T13:07:42Z,b'/* wbsetlabel-add:1|ug-latn */ Fransuz tili',add,label,415095262
+286,Q150,66676,2016-12-10T08:52:15Z,b'/* wbsetaliases-add:1|ca */ franc\xc3\xa9s',add,aliase,415095266
+286,Q150,201849,2016-12-11T11:13:27Z,b'/* wbsetclaim-create:2||1 */ [[Property:P2959]]: [[Q27966180]]',create,claim,415347926
+286,Q150,257876,2016-12-13T09:53:29Z,b'/* wbsetdescription-add:1|te */ \xe0\xb0\x92\xe0\xb0\x95 \xe0\xb0\xaa\xe0\xb1\x8d\xe0\xb0\xb0\xe0\xb0\xaa\xe0\xb0\x82\xe0\xb0\x9a \xe0\xb0\xad\xe0\xb0\xbe\xe0\xb0\xb7',add,description,415662524
+286,Q150,257876,2016-12-13T09:53:39Z,b'/* wbsetaliases-add:1|te */ \xe0\xb0\xab\xe0\xb1\x8d\xe0\xb0\xb0\xe0\xb1\x86\xe0\xb0\x82\xe0\xb0\x9a\xe0\xb1\x8d',add,aliase,416075595
+286,Q150,18347,2016-12-23T06:56:44Z,"b'/* wbsetsitelink-set:1|lowiki */ \xe0\xba\x9e\xe0\xba\xb2\xe0\xba\xaa\xe0\xba\xb2\xe0\xba\x9d\xe0\xba\xb0\xe0\xba\xa3\xe0\xba\xb1\xe0\xbb\x88\xe0\xba\x87, Updated: [[lo:\xe0\xba\x9e\xe0\xba\xb2\xe0\xba\xaa\xe0\xba\xb2\xe0\xba\x9d\xe0\xba\xb0\xe0\xba\xa5\xe0\xba\xb1\xe0\xbb\x88\xe0\xba\x87]] -> [[lo:\xe0\xba\x9e\xe0\xba\xb2\xe0\xba\xaa\xe0\xba\xb2\xe0\xba\x9d\xe0\xba\xb0\xe0\xba\xa3\xe0\xba\xb1\xe0\xbb\x88\xe0\xba\x87]]'",set,sitelink,416075609
+286,Q150,422726142,2016-12-30T20:18:45Z,b'/* wbsetlabel-remove:1|en */ French',remove,label,419009870
+286,Q150,1830432,2016-12-30T20:41:51Z,b'Reverted edits by [[Special:Contributions/116.96.82.176|116.96.82.176]] ([[User talk:116.96.82.176|talk]]) to last revision by [[User:EmausBot|EmausBot]]',revert,,422726142
+286,Q150,424325282,2017-01-05T03:09:53Z,b'/* wbsetlabel-set:1|en */ Frances',set,label,422731196
+286,Q150,622902,2017-01-05T04:55:20Z,b'Reverted edits by [[Special:Contributions/2001:1388:803:B1E4:A4DF:9166:C471:414E|2001:1388:803:B1E4:A4DF:9166:C471:414E]] ([[User talk:2001:1388:803:B1E4:A4DF:9166:C471:414E|talk]]) to last revision by [[User:M\xc3\xa1t\xc3\xa9|M\xc3\xa1t\xc3\xa9]]',revert,,424325282
+286,Q150,54239,2017-01-05T16:16:53Z,b'/* wbsetdescription-add:1|bg */ \xd0\xb5\xd0\xb7\xd0\xb8\xd0\xba \xd0\xbe\xd1\x82 \xd1\x80\xd0\xbe\xd0\xbc\xd0\xb0\xd0\xbd\xd1\x81\xd0\xba\xd0\xb0\xd1\x82\xd0\xb0 \xd0\xb5\xd0\xb7\xd0\xb8\xd0\xba\xd0\xbe\xd0\xb2\xd0\xb0 \xd0\xb3\xd1\x80\xd1\x83\xd0\xbf\xd0\xb0',add,description,424365024
+286,Q150,424545125,2017-01-05T17:02:36Z,b'/* wbsetclaim-update:2||1 */ [[Property:P373]]: Frenc espacia\xc3\xb1',update,claim,424536606
+286,Q150,2496,2017-01-05T18:10:53Z,b'Reverted edits by [[Special:Contributions/186.146.37.72|186.146.37.72]] ([[User talk:186.146.37.72|talk]]) to last revision by [[User:\xd0\xa1\xd0\xbf\xd0\xb0\xd1\x81\xd0\xb8\xd0\xbc\xd0\xb8\xd1\x80|\xd0\xa1\xd0\xbf\xd0\xb0\xd1\x81\xd0\xb8\xd0\xbc\xd0\xb8\xd1\x80]]',revert,,424545125
+286,Q150,430617800,2017-01-16T03:39:20Z,b'/* wbsetlabel-set:1|en */ Petit sappin',set,label,424559243
+286,Q150,121598,2017-01-16T05:28:27Z,b'/* undo:0||430617800|24.114.90.41 */',undo,,430617800
+286,Q150,2778583,2017-01-19T20:11:20Z,b'/* wbsetdescription-add:1|he */ \xd7\xa9\xd7\xa4\xd7\x94',add,description,430675641
+286,Q150,2699434,2017-01-29T14:42:38Z,b'/* wbsetdescription-set:1|en */ Romance language spoken in France and more 28 countries',set,description,433068396
+286,Q150,2699434,2017-01-29T14:42:40Z,b'/* wbsetdescription-set:1|el */ \xcf\x81\xce\xbf\xce\xbc\xce\xb1\xce\xbd\xce\xb9\xce\xba\xce\xae \xce\xb3\xce\xbb\xcf\x8e\xcf\x83\xcf\x83\xce\xb1 \xce\xbf\xce\xbc\xce\xb9\xce\xbb\xce\xbf\xcf\x8d\xce\xbc\xce\xb5\xce\xbd\xce\xb7 \xcf\x83\xcf\x84\xce\xb7 \xce\x93\xce\xb1\xce\xbb\xce\xbb\xce\xaf\xce\xb1 \xce\xba\xce\xb1\xce\xb9 \xce\xac\xce\xbb\xce\xbb\xce\xb5\xcf\x82 28 \xcf\x87\xcf\x8e\xcf\x81\xce\xb5\xcf\x82',set,description,438607924
+286,Q150,2699434,2017-01-29T14:42:41Z,b'/* wbsetaliases-add:1|el */ fr',add,aliase,438607944
+286,Q150,439383411,2017-01-30T13:31:21Z,b'/* wbsetclaim-update:2||1 */ [[Property:P1705]]: colombiano',update,claim,438607962
+286,Q150,91742,2017-01-30T18:18:08Z,b'Reverted edits by [[Special:Contributions/181.60.121.39|181.60.121.39]] ([[User talk:181.60.121.39|talk]]) to last revision by [[User:Gmentis|Gmentis]]',revert,,439383411
+287,Q151,2496,2016-10-17T10:45:42Z,b'/* wbmergeitems-from:0||Q25679969 */ [[MediaWiki:Gadget-Merge.js|merge.js]]',merge,mergeitems,376502464
+287,Q151,4279,2016-12-24T10:06:06Z,"b""/* wbcreateclaim-create:1| */ [[Property:P3417]]: Wiktionary, #mix'n'match""",create,claim,390394548
+287,Q151,2123122,2017-01-10T09:48:58Z,b'/* wbsetdescription-add:1|hr */ rje\xc4\x8dnik slobodnog sadr\xc5\xbeaja kojeg svatko mo\xc5\xbee ure\xc4\x91ivati',add,description,419577370
+287,Q151,40939,2017-01-21T18:18:07Z,b'/* wbsetdescription-set:1|hr */ rje\xc4\x8dnik slobodnog sadr\xc5\xbeaja koji svatko mo\xc5\xbee ure\xc4\x91ivati',set,description,426282150
+287,Q151,40939,2017-01-21T18:18:10Z,"b'/* wbsetaliases-add:3|hr */ wikirje\xc4\x8dnik, wje\xc4\x8dnik, wikcionar'",add,aliase,434053689
+287,Q151,247971,2017-01-26T00:07:15Z,b'/* wbcreateclaim-create:1| */ [[Property:P3418]]: org.wiktionary',create,claim,434053696
+287,Q151,247971,2017-01-26T00:07:16Z,b'/* wbsetreference-add:2| */ [[Property:P3418]]: org.wiktionary',add,reference,436216597
+288,Q152,1398606,2016-10-03T02:26:04Z,b'/* wbcreateclaim-create:1| */ [[Property:P3221]]: subject/fish-and-other-marine-life',create,claim,377847412
+288,Q152,2288635,2016-10-13T17:43:57Z,b'/* wbsetsitelink-add:1|jamwiki */ Fish',add,sitelink,383379299
+288,Q152,4279,2016-10-26T12:16:08Z,b'/* wbremoveclaims-remove:1| */ [[Property:P1821]]: fishes',remove,claim,388072649
+288,Q152,4279,2016-10-26T20:21:01Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1672]]: [[Q600396]]',create,claim,395994173
+288,Q152,208803,2016-11-27T09:35:15Z,b'/* wbsetclaim-update:2||1 */ [[Property:P31]]: [[Q2612572]]',update,claim,396332155
+288,Q152,77149,2016-12-10T09:03:12Z,b'/* wbsetdescription-add:1|sv */ grupp av vattenlevande ryggradsdjur',add,description,411803719
+288,Q152,77149,2016-12-10T09:03:23Z,b'/* wbsetdescription-set:1|en */ type of living organism typified by living in water and (most often) having gills',set,description,415350291
+288,Q152,2717577,2016-12-11T08:26:57Z,b'/* wbsetdescription-add:1|he */ \xd7\x91\xd7\xa2\xd7\x9c \xd7\x97\xd7\x99\xd7\x99\xd7\x9d',add,description,415350328
+288,Q152,2775169,2016-12-17T10:52:49Z,b'/* wbsetlabel-add:1|gom */ \xe0\xb2\xae\xe0\xb2\xb8\xe0\xb3\x8d\xe0\xb2\xb3\xe0\xb3\x80',add,label,415647887
+288,Q152,2775169,2016-12-17T10:52:51Z,b'/* wbsetdescription-add:1|gom */ \xe0\xb2\x89\xe0\xb2\xa6\xe0\xb3\x8d\xe0\xb2\x95\xe0\xb2\xbe\xe0\xb3\xa6\xe0\xb2\xa4\xe0\xb3\x8d \xe0\xb2\x85\xe0\xb2\xb8\xe0\xb3\x8d\xe0\xb2\x9b\xe0\xb2\xbf \xe0\xb2\xae\xe0\xb3\x81\xe0\xb2\xa8\xe0\xb3\x8d\xe0\xb2\x9c\xe0\xb2\xbc\xe0\xb2\xbe\xe0\xb2\xa4\xe0\xb3\x8d',add,description,417387939
+288,Q152,2775169,2016-12-17T10:52:52Z,b'/* wbsetaliases-add:1|gom */ \xe0\xb2\xae\xe0\xb2\xb9\xe0\xb2\xb2\xe0\xb2\xbf',add,aliase,417387943
+288,Q152,2775169,2016-12-17T10:54:37Z,b'/* wbsetaliases-set:1|gom */ \xe0\xb2\xae\xe0\xb2\xb9\xe0\xb2\xb3\xe0\xb2\xbf',set,aliase,417387951
+288,Q152,4279,2016-12-24T19:34:52Z,"b""/* wbcreateclaim-create:1| */ [[Property:P3417]]: Fish, #mix'n'match""",create,claim,417388317
+288,Q152,1529466,2016-12-27T20:57:23Z,b'/* wbsetaliases-add:1|en */ Pisces',add,aliase,419886370
+288,Q152,2123122,2017-01-10T09:47:12Z,b'/* wbsetdescription-add:1|hr */ hladnokrvne \xc5\xbeivotinje iz skupine kralje\xc5\xbenjaka koje \xc5\xbeive gotovo isklju\xc4\x8divo u vodi i di\xc5\xa1u uz pomo\xc4\x87 \xc5\xa1krga',add,description,421375275
+288,Q152,2123122,2017-01-10T09:47:14Z,b'/* wbsetaliases-add:1|hr */ Pisces',add,aliase,426281483
+288,Q152,3238,2017-01-20T02:48:15Z,b'/* wbsetsitelink-remove:1|nvwiki */ \xc5\x81\xc3\xb3\xc3\xb3\xca\xbc',remove,sitelink,426281491
+288,Q152,3238,2017-01-20T02:49:03Z,b'/* wbsetlabel-remove:1|nv */ \xc5\x81\xc3\xb3\xc3\xb3\xca\xbc',remove,label,433137695
+288,Q152,39038,2017-01-25T03:11:06Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3512]]: [[Q3467704]]',create,claim,433137769
+288,Q152,39038,2017-01-25T03:15:09Z,b'/* wbsetclaim-update:2||1 */ [[Property:P3512]]: [[Q5454646]]',update,claim,435854281
+289,Q153,395539,2016-10-02T06:23:56Z,b'/* wbsetclaim-update:2||1 */ [[Property:P2566]]: 100.000.527',update,claim,382923478
+289,Q153,395539,2016-10-02T06:24:11Z,b'/* restore:0||382923478|Jogo.obb */',restore,,383099729
+289,Q153,1398606,2016-10-03T02:16:28Z,b'/* wbcreateclaim-create:1| */ [[Property:P3221]]: subject/ethanol',create,claim,383099763
+289,Q153,1320883,2016-10-03T15:38:22Z,b'/* wbeditentity-update:0| */',update,entity,383378159
+289,Q153,1433337,2016-10-09T12:29:21Z,"b'/* wbsetreference-set:2| */ [[Property:P995]]: 0, replacing [[Property:P357]] with [[Property:P1476]], based on [[Property:P364]] in the reference'",set,reference,383529742
+289,Q153,1433337,2016-10-09T12:29:26Z,"b'/* wbsetreference-set:2| */ [[Property:P877]]: no value, replacing [[Property:P357]] with [[Property:P1476]], based on [[Property:P364]] in the reference'",set,reference,385465200
+289,Q153,2748272,2016-10-19T13:19:02Z,"b'/* wbeditentity-update:0| */ Added/verified PubChem CID, ChemSpider, ChEMBL, UNII, DrugBank IDs, mass, InChI key, InChI, canonical SMILES, isomeric SMILES. Updated references.'",update,reference,385465243
+289,Q153,398536721,2016-10-30T20:02:04Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P527]]: [[Q7485453]]',update,claim,391059273
+289,Q153,1795741,2016-11-11T18:44:09Z,b'/* wbmergeitems-from:0||Q25682316 */',merge,mergeitems,398536721
+289,Q153,161984,2016-11-27T11:32:04Z,b'/* wbsetclaimvalue:1| */ [[Property:P679]]: 10420',,claim,405815102
+289,Q153,1229135,2016-12-03T12:06:22Z,b'/* wbsetclaim-update:2||1 */ [[Property:P31]]: [[Q27949287]]',update,claim,411825043
+289,Q153,17221,2016-12-06T13:49:47Z,b'/* wbsetclaim-create:2||1 */ [[Property:P279]]: [[Q1383944]]',create,claim,413483295
+289,Q153,17221,2016-12-06T14:19:15Z,b'/* wbsetaliases-add:1|ru */ \xd0\xb2\xd0\xb8\xd0\xbd\xd0\xbd\xd1\x8b\xd0\xb9 \xd1\x81\xd0\xbf\xd0\xb8\xd1\x80\xd1\x82',add,aliase,414383446
+289,Q153,2772770,2016-12-10T10:36:35Z,b'/* wbsetsitelink-add:1|lezwiki */ \xd0\xad\xd1\x82\xd0\xb0\xd0\xbd\xd0\xbe\xd0\xbb',add,sitelink,414391601
+289,Q153,417494043,2016-12-17T16:05:04Z,b'/* wbsetlabel-set:1|en */ ethanol (1522467)',set,label,415372079
+289,Q153,2496,2016-12-17T16:09:15Z,b'Reverted edits by [[Special:Contributions/80.103.215.86|80.103.215.86]] ([[User talk:80.103.215.86|talk]]) to last revision by [[User:Raa555|Raa555]]',revert,,417494043
+289,Q153,4279,2016-12-26T11:36:54Z,"b""/* wbcreateclaim-create:1| */ [[Property:P3417]]: Ethanol, #mix'n'match""",create,claim,417496377
+289,Q153,17304,2016-12-28T08:15:00Z,"b'/* wbcreateclaim-create:1| */ [[Property:P3117]]: DTXSID9020584, #quickstatements'",create,claim,420825358
+289,Q153,17304,2016-12-28T08:15:02Z,"b'/* wbsetreference-add:2| */ [[Property:P3117]]: DTXSID9020584, #quickstatements'",add,reference,421490212
+289,Q153,768608,2017-01-04T11:37:44Z,b'/* wbsetdescription-add:1|hy */ \xd6\x84\xd5\xab\xd5\xb4\xd5\xab\xd5\xa1\xd5\xaf\xd5\xa1\xd5\xb6 \xd5\xb4\xd5\xab\xd5\xa1\xd6\x81\xd5\xb8\xd6\x82\xd5\xa9\xd5\xb5\xd5\xb8\xd6\x82\xd5\xb6',add,description,421490218
+289,Q153,54239,2017-01-05T16:21:32Z,b'/* wbsetdescription-add:1|bg */ \xd1\x85\xd0\xb8\xd0\xbc\xd0\xb8\xd1\x87\xd0\xbd\xd0\xbe \xd1\x81\xd1\x8a\xd0\xb5\xd0\xb4\xd0\xb8\xd0\xbd\xd0\xb5\xd0\xbd\xd0\xb8\xd0\xb5',add,description,424178530
+289,Q153,54239,2017-01-05T16:21:33Z,b'/* wbsetaliases-add:1|bg */ \xd0\xb5\xd1\x82\xd0\xb8\xd0\xbb\xd0\xbe\xd0\xb2 \xd0\xb0\xd0\xbb\xd0\xba\xd0\xbe\xd1\x85\xd0\xbe\xd0\xbb',add,aliase,424537306
+289,Q153,2123122,2017-01-10T09:45:30Z,b'/* wbsetdescription-add:1|hr */ kemijski element',add,description,424537313
+289,Q153,2123122,2017-01-10T09:45:43Z,b'/* wbsetdescription-set:1|hr */ kemijski spoj',set,description,426280895
+289,Q153,131530,2017-01-24T15:50:12Z,b'/* wbsetlabel-set:1|oc */ etan\xc3\xb2l',set,label,426280990
+290,Q154,1398606,2016-10-03T02:21:07Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3221]]: subject/alcoholic-beverages',create,claim,378019955
+290,Q154,1002827,2016-10-05T08:20:57Z,b'/* wbsetsitelink-add:1|xmfwiki */ \xe1\x83\x90\xe1\x83\x9a\xe1\x83\x99\xe1\x83\x9d\xe1\x83\xb0\xe1\x83\x9d\xe1\x83\x9a\xe1\x83\xa3\xe1\x83\xa0\xe1\x83\x98 \xe1\x83\x9d\xe1\x83\xa8\xe1\x83\xa3\xe1\x83\x9b\xe1\x83\x90\xe1\x83\x9a\xe1\x83\x94\xe1\x83\xa4\xe1\x83\x98',add,sitelink,383378681
+290,Q154,1002827,2016-10-05T08:21:16Z,b'/* clientsitelink-update:0|xmfwiki|xmfwiki:\xe1\x83\x90\xe1\x83\x9a\xe1\x83\x99\xe1\x83\x9d\xe1\x83\xb0\xe1\x83\x9d\xe1\x83\x9a\xe1\x83\xa3\xe1\x83\xa0\xe1\x83\x98 \xe1\x83\x9d\xe1\x83\xa8\xe1\x83\xa3\xe1\x83\x9b\xe1\x83\x90\xe1\x83\x9a\xe1\x83\x94\xe1\x83\xa4\xe1\x83\x98|xmfwiki:\xe1\x83\x90\xe1\x83\x9a\xe1\x83\x99\xe1\x83\x9d\xe1\x83\xb0\xe1\x83\x9d\xe1\x83\x9a\xe1\x83\xa3\xe1\x83\xa0\xe1\x83\x98 \xe1\x83\x9d\xe1\x83\xa8\xe1\x83\xa3\xe1\x83\x9b\xe1\x83\x90\xe1\x83\x9a\xe1\x83\x98 */',update,sitelink,383895458
+290,Q154,2336219,2016-10-12T07:50:39Z,b'/* wbeditentity-update:0| */ Added sitelink to [[w:olo:Alkogoulijuomine]]',update,entity,383895533
+290,Q154,24059,2016-10-23T06:03:32Z,"b'/* wbeditentity-update:0| */ Bot: setting proper label for xmf,olo,an'",update,label,387202117
+290,Q154,199889,2016-11-21T19:40:24Z,b'/* wbsetsitelink-add:1|frwikiquote */ Alcool',add,sitelink,393089063
+290,Q154,414304897,2016-12-06T07:58:27Z,b'/* wbsetlabel-set:1|en */ alcoholic beverage',set,label,410098388
+290,Q154,414304901,2016-12-06T07:58:29Z,b'/* wbsetaliases-set:1|en */ alcoholic drink',set,aliase,414304897
+290,Q154,2123122,2017-01-10T09:44:06Z,"b'/* wbsetdescription-add:1|hr */ pi\xc4\x87e koje sadr\xc5\xbei alkohol, tipi\xc4\x8dno etanol'",add,description,414304901
+291,Q155,277856,2016-10-02T10:18:13Z,b'/* wbsetsitelink-add:1|nsowiki */ Brazil',add,sitelink,381762445
+291,Q155,865942,2016-10-02T17:58:54Z,b'/* wbsetaliases-add:1|uk */ \xd0\x91\xd1\x80\xd0\xb0\xd0\xb7\xd1\x96\xd0\xbb\xd1\x96\xd1\x8f',add,aliase,383137609
+291,Q155,865942,2016-10-02T17:59:14Z,b'/* wbsetsitelink-add:1|ukwikiquote */ \xd0\x91\xd1\x80\xd0\xb0\xd0\xb7\xd0\xb8\xd0\xbb\xd1\x96\xd1\x8f',add,sitelink,383240466
+291,Q155,865942,2016-10-02T18:02:29Z,b'/* wbsetaliases-add:1|uk */ \xd0\xa4\xd0\xb5\xd0\xb4\xd0\xb5\xd1\x80\xd0\xb0\xd1\x82\xd0\xb8\xd0\xb2\xd0\xbd\xd0\xb0 \xd0\xa0\xd0\xb5\xd1\x81\xd0\xbf\xd1\x83\xd0\xb1\xd0\xbb\xd1\x96\xd0\xba\xd0\xb0 \xd0\x91\xd1\x80\xd0\xb0\xd0\xb7\xd0\xb8\xd0\xbb\xd1\x96\xd1\x8f',add,aliase,383240558
+291,Q155,1398606,2016-10-03T00:53:23Z,b'/* wbcreateclaim-create:1| */ [[Property:P3221]]: destination/brazil',create,claim,383241588
+291,Q155,201849,2016-10-05T18:47:06Z,"b'/* wbcreateclaim-create:1| */ [[Property:P2959]]: [[Q27103827]], #quickstatements'",create,claim,383362295
+291,Q155,150965,2016-10-07T05:12:04Z,b'/* wbsetclaimvalue:1| */ [[Property:P2959]]: [[Q21286972]]',,claim,384025534
+291,Q155,201849,2016-10-07T07:52:54Z,b'/* wbremoveclaims-remove:1| */ [[Property:P460]]: [[Q21286972]]',remove,claim,384491616
+291,Q155,71094,2016-10-07T19:42:55Z,b'/* wbeditentity-update:0| */ BOT:Add labels (Upper case)',update,label,384515746
+291,Q155,609373,2016-10-08T10:57:02Z,"b'/* wbcreateclaim-create:1| */ [[Property:P3270]]: 7, #quickstatements'",create,claim,384639601
+291,Q155,609373,2016-10-08T10:57:06Z,"b'/* wbsetreference-add:2| */ [[Property:P3270]]: 7, #quickstatements'",add,reference,384903770
+291,Q155,609373,2016-10-08T11:13:44Z,"b'/* wbcreateclaim-create:1| */ [[Property:P3271]]: 14, #quickstatements'",create,claim,384903795
+291,Q155,609373,2016-10-08T11:13:48Z,"b'/* wbsetreference-add:2| */ [[Property:P3271]]: 14, #quickstatements'",add,reference,384912001
+291,Q155,609373,2016-10-08T12:39:16Z,"b'/* wbcreateclaim-create:1| */ [[Property:P2997]]: 18, #quickstatements'",create,claim,384912035
+291,Q155,609373,2016-10-08T12:39:19Z,"b'/* wbsetreference-add:2| */ [[Property:P2997]]: 18, #quickstatements'",add,reference,384948904
+291,Q155,161984,2016-10-09T14:43:01Z,b'/* wbcreateclaim-create:1| */ [[Property:P3238]]: no value',create,claim,384948917
+291,Q155,2336219,2016-10-12T07:29:59Z,b'/* wbeditentity-update:0| */ Added sitelink to [[w:olo:Braziilii]]',update,entity,385521238
+291,Q155,609373,2016-10-20T12:43:50Z,"b'/* wbcreateclaim-create:1| */ [[Property:P3000]]: 18, #quickstatements'",create,claim,387193019
+291,Q155,609373,2016-10-20T12:43:53Z,"b'/* wbsetqualifier-add:1| */ [[Property:P518]]: [[Q27177113]], #quickstatements'",add,qualifier,391632809
+291,Q155,742954,2016-10-21T21:07:47Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1549]]: Braziliano, #quickstatements'",create,claim,391632825
+291,Q155,742954,2016-10-21T21:07:50Z,"b'/* wbsetqualifier-add:1| */ [[Property:P518]]: [[Q110786]], #quickstatements'",add,qualifier,392421212
+291,Q155,742954,2016-10-21T21:53:47Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1549]]: Braziliano',update,claim,392421235
+291,Q155,71094,2016-10-21T22:25:49Z,b'/* wbeditentity-update:0| */ BOT:Add labels (Upper case)',update,label,392441520
+291,Q155,742954,2016-10-22T12:56:25Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1549]]: brazilano',create,claim,392453830
+291,Q155,24059,2016-10-23T06:03:37Z,b'/* wbeditentity-update:0| */ Bot: setting proper label for bh',update,label,392749839
+291,Q155,742954,2016-10-23T21:23:55Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1549]]: Brasil\xc3\xa4nan, #quickstatements'",create,claim,393089097
+291,Q155,161984,2016-10-24T01:26:28Z,b'/* wbeditentity-update:0| */ fix language codes: bh -> bho',update,entity,393554563
+291,Q155,99141,2016-10-29T20:18:34Z,"b'/* wbsetclaim-create:2||1 */ [[Property:P2046]]: 8,515,767\xc2\xb11 square kilometre'",create,claim,393768785
+291,Q155,2725685,2016-10-30T00:22:29Z,b'/* wbsetclaim-create:2||1 */ [[Property:P155]]: [[Q2088324]]',create,claim,398058885
+291,Q155,161984,2016-10-31T17:30:03Z,b'/* wbeditentity-update:0| */ set unit',update,entity,398146859
+291,Q155,161984,2016-10-31T18:05:05Z,b'/* wbeditentity-update:0| */ set unit',update,entity,398957336
+291,Q155,161984,2016-10-31T18:07:41Z,b'/* wbeditentity-update:0| */ set unit',update,entity,398969206
+291,Q155,161984,2016-10-31T18:08:45Z,b'/* wbeditentity-update:0| */ set unit',update,entity,398970204
+291,Q155,296229,2016-11-02T15:37:44Z,b'/* clientsitelink-update:0|lrcwiki|lrcwiki:\xd8\xa8\xd8\xa6\xd8\xb1\xd8\xa6\xd8\xb2\xdb\x8c\xd9\x84|lrcwiki:\xd8\xa8\xd8\xb1\xd8\xb2\xd9\x8a\xd9\x84 */',update,sitelink,398970585
+291,Q155,91653,2016-11-09T15:40:12Z,b'/* wbsetlabel-set:1|pam */ Brasil',set,label,400022848
+291,Q155,91653,2016-11-09T15:40:16Z,b'/* wbsetdescription-add:1|pam */ bangsa king Mauling Amerika',add,description,404559884
+291,Q155,91653,2016-11-09T15:40:19Z,"b'/* wbsetaliases-add:2|pam */ Republikang Pederatibu ning Brasil, Republikang Pederatiba ning Brasil'",add,aliase,404559897
+291,Q155,91653,2016-11-09T15:41:57Z,b'/* wbsetdescription-add:1|tl */ bansa sa Timog Amerika',add,description,404559913
+291,Q155,91653,2016-11-09T15:42:01Z,"b'/* wbsetaliases-add:4|tl */ Republikang Pederatibo ng Brasil, Pederatibong Republika ng Brasil, Republikang Pederatiba ng Brasil, Pederatibang Republika ng Brasil'",add,aliase,404560409
+291,Q155,424521,2016-11-19T17:46:48Z,"b'/* wbsetaliases-set:10|ar */ \xd8\xa8\xd8\xb1\xd8\xa7\xd8\xb2\xd9\x8a\xd9\x84\xd9\x8a, \xd8\xa8\xd8\xb1\xd8\xa7\xd8\xb2\xd9\x8a\xd9\x84, \xd8\xa8\xd8\xb1\xd8\xa7\xd8\xb2\xd9\x8a\xd9\x84\xd9\x8a\xd8\xa9, \xd8\xa7\xd9\x84\xd8\xa8\xd8\xb1\xd8\xa7\xd8\xb2\xd9\x8a\xd9\x84\xd9\x8a, \xd8\xb4\xd8\xb1\xd9\x82 \xd8\xa3\xd9\x85\xd8\xb1\xd9\x8a\xd9\x83\xd8\xa7 \xd8\xa7\xd9\x84\xd8\xac\xd9\x86\xd9\x88\xd8\xa8\xd9\x8a\xd8\xa9, \xd8\xac\xd9\x85\xd9\x87\xd9\x88\xd8\xb1\xd9\x8a\xd8\xa9 \xd8\xa7\xd9\x84\xd8\xa8\xd8\xb1\xd8\xa7\xd8\xb2\xd9\x8a\xd9\x84 \xd8\xa7\xd9\x84\xd8\xa5\xd8\xaa\xd8\xad\xd8\xa7\xd8\xaf\xd9\x8a\xd8\xa9, \xd8\xac\xd9\x85\xd9\x87\xd9\x88\xd8\xb1\xd9\x8a\xd8\xa9 \xd8\xa7\xd9\x84\xd8\xa8\xd8\xb1\xd8\xa7\xd8\xb2\xd9\x8a\xd9\x84 \xd8\xa7\xd9\x84\xd8\xa7\xd8\xaa\xd8\xad\xd8\xa7\xd8\xaf\xd9\x8a\xd8\xa9, \xd8\xa7\xd9\x84\xd8\xa8\xd8\xb1...'",set,aliase,404560424
+291,Q155,1787661,2016-11-25T17:28:05Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.547',create,claim,409415590
+291,Q155,1787661,2016-11-25T17:28:25Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.576',create,claim,411281302
+291,Q155,1787661,2016-11-25T17:28:47Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.608',create,claim,411281441
+291,Q155,1787661,2016-11-25T17:29:37Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.648',create,claim,411281605
+291,Q155,1787661,2016-11-25T17:29:54Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.683',create,claim,411281978
+291,Q155,1787661,2016-11-25T17:30:07Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.702',create,claim,411282113
+291,Q155,1787661,2016-11-25T17:30:27Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.737',create,claim,411282206
+291,Q155,1787661,2016-11-25T17:30:53Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.742',create,claim,411282361
+291,Q155,1787661,2016-11-25T17:31:19Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.746',create,claim,411282555
+291,Q155,1787661,2016-11-25T17:31:35Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.752',create,claim,411282748
+291,Q155,1787661,2016-11-25T17:32:08Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.755',create,claim,411282862
+291,Q155,1787661,2016-11-25T17:32:55Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.608',update,claim,411283116
+291,Q155,1787661,2016-11-25T17:33:06Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.683',update,claim,411283470
+291,Q155,1787661,2016-11-25T17:33:11Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.737',update,claim,411283555
+291,Q155,1787661,2016-11-25T17:33:20Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.742',update,claim,411283597
+291,Q155,1787661,2016-11-25T17:33:25Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.746',update,claim,411283664
+291,Q155,1787661,2016-11-25T17:33:32Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.752',update,claim,411283699
+291,Q155,1787661,2016-11-25T17:33:55Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.755',update,claim,411283756
+291,Q155,411930662,2016-11-27T23:42:39Z,b'/* wbsetlabel-set:1|en */ Haiti',set,label,411283924
+291,Q155,121570,2016-11-28T00:26:32Z,b'/* undo:0||411930662|191.125.25.117 */ Vandalisme',undo,vandalism,411930662
+291,Q155,201849,2016-12-02T13:24:36Z,"b'/* wbsetsitelink-add:1|fiwikivoyage */ Brasilia, #quickstatements'",add,sitelink,411934937
+291,Q155,414841878,2016-12-08T07:20:06Z,b'/* wbsetsitelink-add:1|enwikiversity */ Comparative law and justice/Brazil',add,sitelink,413147674
+291,Q155,417290083,2016-12-17T03:33:26Z,b'/* wbsetlabel-set:1|en */ Chilw',set,label,414841878
+291,Q155,1830432,2016-12-17T06:08:35Z,b'Reverted edits by [[Special:Contributions/179.4.83.242|179.4.83.242]] ([[User talk:179.4.83.242|talk]]) to last revision by [[User:113.250.222.222|113.250.222.222]]',revert,,417290083
+291,Q155,1465,2016-12-17T15:23:26Z,"b'Protected ""[[Q155]]"": Excessive vandalism ([Edit=Allow only autoconfirmed users] (expires 15:23, 17 March 2017 (UTC)))'",,vandalism,417315140
+291,Q155,40201,2016-12-18T06:50:03Z,b'/* wbsetclaim-create:2||1 */ [[Property:P2924]]: 1881226',create,claim,417467096
+291,Q155,2749719,2016-12-21T20:40:14Z,b'/* wbsetsitelink-add:1|map_bmswiki */ Brasil',add,sitelink,417713037
+291,Q155,2209100,2016-12-22T03:30:46Z,b'/* wbsetdescription-add:1|sd */ \xda\x8f\xda\xa9\xda\xbb \xd8\xa2\xd9\x85\xd8\xb1\xd9\x8a\xda\xaa\xd8\xa7 \xdb\xbe \xd9\x88\xd9\x81\xd8\xa7\xd9\x82\xd9\x8a \xd8\xac\xd9\x85\xda\xbe\xd9\x88\xd8\xb1\xd9\x8a\xdb\x81',add,description,418578401
+291,Q155,2209100,2016-12-22T03:30:49Z,b'/* wbsetaliases-add:1|sd */ \xd9\x88\xd9\x81\xd8\xa7\xd9\x82\xd9\x8a \xd8\xac\xd9\x85\xda\xbe\xd9\x88\xd8\xb1\xd9\x8a\xdb\x81 \xd8\xa8\xd8\xb1\xd8\xa7\xd8\xb2\xd9\x8a\xd9\x84',add,aliase,418643190
+291,Q155,3328,2016-12-24T11:42:02Z,"b""/* wbcreateclaim-create:1| */ [[Property:P3417]]: Brazil, #mix'n'match""",create,claim,418643199
+291,Q155,71094,2016-12-27T10:42:05Z,b'/* wbeditentity-update:0| */ BOT:Add labels (Upper case)',update,label,419609249
+291,Q155,109841,2017-01-04T22:13:23Z,b'/* wbsetsitelink-add:1|fawikiquote */ \xd8\xa8\xd8\xb1\xd8\xb2\xdb\x8c\xd9\x84',add,sitelink,421231354
+291,Q155,54239,2017-01-05T16:26:43Z,b'/* wbsetdescription-add:1|bg */ \xd0\xb4\xd1\x8a\xd1\x80\xd0\xb6\xd0\xb0\xd0\xb2\xd0\xb0 \xd0\xb2 \xd0\xae\xd0\xb6\xd0\xbd\xd0\xb0 \xd0\x90\xd0\xbc\xd0\xb5\xd1\x80\xd0\xb8\xd0\xba\xd0\xb0',add,description,424283435
+291,Q155,54239,2017-01-05T16:26:47Z,b'/* wbsetaliases-add:1|bg */ \xd0\xa4\xd0\xb5\xd0\xb4\xd0\xb5\xd1\x80\xd0\xb0\xd0\xbb\xd0\xbd\xd0\xb0 \xd1\x80\xd0\xb5\xd0\xbf\xd1\x83\xd0\xb1\xd0\xbb\xd0\xb8\xd0\xba\xd0\xb0 \xd0\x91\xd1\x80\xd0\xb0\xd0\xb7\xd0\xb8\xd0\xbb\xd0\xb8\xd1\x8f',add,aliase,424538287
+291,Q155,533014,2017-01-08T12:14:50Z,"b'/* wbcreateclaim-create:1| */ [[Property:P3422]]: 99416, #quickstatements'",create,claim,424538303
+291,Q155,4279,2017-01-25T15:24:09Z,"b""/* wbcreateclaim-create:1| */ [[Property:P1617]]: 15f1bcf6-b6ab-48e8-b708-efed41e43d31, #mix'n'match""",create,claim,425597065
+291,Q155,288472,2017-01-28T10:25:25Z,"b'/* wbsetclaim-create:2||1 */ [[Property:P1333]]: 33\xc2\xb045\'0""S, 53\xc2\xb023\'24""W'",create,claim,436070920
+291,Q155,288472,2017-01-28T10:26:40Z,"b'/* wbsetclaim-create:2||1 */ [[Property:P1334]]: 7\xc2\xb09\'0""S, 34\xc2\xb047\'24""W'",create,claim,437597265
+291,Q155,288472,2017-01-28T10:27:30Z,"b'/* wbsetclaim-create:2||1 */ [[Property:P1335]]: 7\xc2\xb031\'48""S, 73\xc2\xb058\'48""W'",create,claim,437598078
+292,Q156,2702810,2016-10-04T11:03:37Z,"b""/* wbsetsitelink-add:1|aswiki */ \xe0\xa6\x8f\xe0\xa6\xb2\xe0\xa6\x95'\xe0\xa6\xb9\xe0\xa6\xb2""",add,sitelink,380925077
+292,Q156,17221,2016-10-05T10:45:10Z,b'/* wbsetclaim-create:2||1 */ [[Property:P2670]]: [[Q415812]]',create,claim,383692617
+292,Q156,17221,2016-10-05T10:45:33Z,b'/* wbsetclaim-create:2||1 */ [[Property:P2670]]: [[Q19790488]]',create,claim,383926392
+292,Q156,24059,2016-10-23T06:03:40Z,"b'/* wbeditentity-update:0| */ Bot: setting proper label for as,jam'",update,label,383926503
+292,Q156,2729855,2016-11-24T01:10:32Z,b'/* wbsetsitelink-add:1|azbwiki */ \xd8\xa7\xd9\x84\xda\xa9\xd9\x88\xd9\x84',add,sitelink,393089113
+292,Q156,1896704,2017-01-12T22:32:18Z,b'/* clientsitelink-update:0|jamwiki|jamwiki:Alkowal|jamwiki:Alkoal */',update,sitelink,410789788
+292,Q156,768608,2017-01-24T20:18:04Z,b'/* wbsetlabel-set:1|hy */ \xd5\xbd\xd5\xba\xd5\xab\xd6\x80\xd5\xbf',set,label,427952939
+293,Q157,1398606,2016-10-03T01:46:16Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3221]]: person/francois-hollande',create,claim,382750550
+293,Q157,201767,2016-10-10T03:37:18Z,b'/* wbsetsitelink-add:1|mnwiki */ \xd0\xa4\xd1\x80\xd0\xb0\xd0\xbd\xd1\x81\xd1\x83\xd0\xb0 \xd0\x9e\xd0\xbb\xd0\xbb\xd0\xb0\xd0\xbd\xd0\xb4',add,sitelink,383373464
+293,Q157,71094,2016-10-21T23:15:24Z,b'/* wbeditentity-update:0| */ BOT:Add labels (Upper case)',update,label,385893329
+293,Q157,197855,2016-10-29T15:08:29Z,b'/* wbcreateclaim-create:1| */ [[Property:P1749]]: viz7cqwdxqze',create,claim,392474314
+293,Q157,398678245,2016-10-31T01:37:32Z,b'/* wbsetsitelink-add:1|biwiki */ Fran\xc3\xa7ois Hollande',add,sitelink,397936336
+293,Q157,71094,2016-11-01T12:44:31Z,b'/* wbeditentity-update:0| */ BOT:Add labels (Upper case)',update,label,398678245
+293,Q157,533014,2016-11-20T13:36:17Z,b'/* wbsetclaim-create:2||1 */ [[Property:P2048]]: 1.73 metre',create,claim,399394907
+293,Q157,533014,2016-11-20T13:38:47Z,b'/* wbsetclaim-create:2||1 */ [[Property:P2048]]: 1.74 metre',create,claim,409657767
+293,Q157,107982,2016-12-02T15:06:57Z,b'/* wbcreateclaim-create:1| */ [[Property:P396]]: IT\\ICCU\\TO0V\\557603',create,claim,409658247
+293,Q157,107982,2016-12-02T15:06:59Z,b'/* wbcreateclaim-create:1| */ [[Property:P691]]: osa2016923052',create,claim,413185957
+293,Q157,598,2016-12-02T16:40:06Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3106]]: world/francois-hollande',create,claim,413185968
+293,Q157,2694228,2016-12-11T17:27:11Z,b'/* wbsetsitelink-add:1|papwiki */ Fran\xc3\xa7ois Hollande',add,sitelink,413216162
+293,Q157,161984,2016-12-11T21:38:46Z,b'/* wbeditentity-update:0| */ move claim [[Property:P7]] -> [[Property:P3373]]',update,entity,415715276
+293,Q157,71094,2016-12-17T06:29:41Z,b'/* wbeditentity-update:0| */ BOT:Add labels (Upper case)',update,label,415762405
+293,Q157,3328,2016-12-24T11:42:06Z,"b""/* wbcreateclaim-create:1| */ [[Property:P3417]]: Fran\xc3\xa7ois-Hollande, #mix'n'match""",create,claim,417319991
+293,Q157,54239,2017-01-05T16:29:13Z,"b'/* wbsetreference-add:2| */ [[Property:P27]]: [[Q142]], Added via [[Wikidata:Primary sources tool]]'",add,reference,419609283
+293,Q157,54239,2017-01-05T16:30:28Z,"b'/* wbsetreference-add:2| */ [[Property:P27]]: [[Q142]], Added via [[Wikidata:Primary sources tool]]'",add,reference,424538973
+293,Q157,425422268,2017-01-07T14:52:57Z,b'/* wbsetclaim-update:2||1 */ [[Property:P1559]]: Le grand Monarque',update,claim,424539264
+293,Q157,622902,2017-01-07T19:54:53Z,b'Reverted edits by [[Special:Contributions/78.115.31.214|78.115.31.214]] ([[User talk:78.115.31.214|talk]]) to last revision by [[User:\xd0\xa1\xd0\xbf\xd0\xb0\xd1\x81\xd0\xb8\xd0\xbc\xd0\xb8\xd1\x80|\xd0\xa1\xd0\xbf\xd0\xb0\xd1\x81\xd0\xb8\xd0\xbc\xd0\xb8\xd1\x80]]',revert,,425422268
+293,Q157,12278,2017-01-09T14:15:53Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3438]]: [[Q193234]]',create,claim,425478686
+293,Q157,469872,2017-01-18T13:54:23Z,b'/* wbsetsitelink-add:1|dewikinews */ Kategorie:Fran\xc3\xa7ois Hollande',add,sitelink,425934124
+293,Q157,469872,2017-01-18T13:54:28Z,b'/* wbsetsitelink-add:1|eswikinews */ Categor\xc3\xada:Fran\xc3\xa7ois Hollande',add,sitelink,432478326
+293,Q157,469872,2017-01-18T13:54:33Z,b'/* wbsetsitelink-add:1|itwikinews */ Categoria:Fran\xc3\xa7ois Hollande',add,sitelink,432478363
+293,Q157,247971,2017-01-19T00:03:00Z,"b'/* wbcreateclaim-create:1| */ [[Property:P463]]: [[Q3075672]], #quickstatements'",create,claim,432478396
+293,Q157,247971,2017-01-19T00:03:01Z,"b'/* wbsetreference-add:2| */ [[Property:P463]]: [[Q3075672]], #quickstatements'",add,reference,432716249
+293,Q157,469872,2017-01-22T16:52:15Z,b'/* wbsetsitelink-add:1|arwikinews */ \xd8\xaa\xd8\xb5\xd9\x86\xd9\x8a\xd9\x81:\xd9\x81\xd8\xb1\xd8\xa7\xd9\x86\xd8\xb3\xd9\x88\xd8\xa7 \xd8\xa3\xd9\x88\xd9\x84\xd8\xa7\xd9\x86\xd8\xaf',add,sitelink,432716253
+293,Q157,2778583,2017-01-26T18:31:32Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1705]]: Fran\xc3\xa7ois Hollande, #quickstatements'",create,claim,434546961
+293,Q157,2778583,2017-01-26T18:44:07Z,"b'/* wbremoveclaims-remove:1| */ [[Property:P1705]]: Fran\xc3\xa7ois Hollande, #petscan'",remove,claim,436368397
+295,Q159,1398606,2016-10-03T04:50:20Z,b'/* wbcreateclaim-create:1| */ [[Property:P3221]]: destination/russia',create,claim,382428891
+295,Q159,124251,2016-10-05T17:20:02Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3106]]: world/russia',create,claim,383404388
+295,Q159,609373,2016-10-08T10:59:24Z,"b'/* wbcreateclaim-create:1| */ [[Property:P3270]]: 6, #quickstatements'",create,claim,384003898
+295,Q159,609373,2016-10-08T10:59:28Z,"b'/* wbsetreference-add:2| */ [[Property:P3270]]: 6, #quickstatements'",add,reference,384904848
+295,Q159,609373,2016-10-08T11:15:54Z,"b'/* wbcreateclaim-create:1| */ [[Property:P3271]]: 17, #quickstatements'",create,claim,384904873
+295,Q159,609373,2016-10-08T11:15:58Z,"b'/* wbsetreference-add:2| */ [[Property:P3271]]: 17, #quickstatements'",add,reference,384913097
+295,Q159,296229,2016-10-08T17:21:59Z,b'/* clientsitelink-update:0|lrcwiki|lrcwiki:\xd8\xb1\xdb\x88\xd8\xb3\xdb\x8c\xd8\xa3|lrcwiki:\xd8\xb1\xdb\x88\xd8\xb3\xd9\x8a\xd8\xa3 */',update,sitelink,384913131
+295,Q159,8831,2016-10-08T18:46:06Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3270]]: 6\xc2\xb11 years old',create,claim,385049020
+295,Q159,8831,2016-10-08T18:46:29Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3271]]: 15\xc2\xb11 years old',create,claim,385076354
+295,Q159,8831,2016-10-08T18:49:36Z,b'/* wbremoveclaims-remove:1| */ [[Property:P3270]]: 6\xc2\xb11 years old',remove,claim,385076510
+295,Q159,8831,2016-10-08T18:49:45Z,b'/* wbremoveclaims-remove:1| */ [[Property:P3271]]: 15\xc2\xb11 years old',remove,claim,385077545
+295,Q159,8831,2016-10-08T18:50:09Z,b'/* wbsetclaim-create:2||1 */ [[Property:P2997]]: 18 years old',create,claim,385077605
+295,Q159,8831,2016-10-08T18:52:37Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3000]]: 16 years old',create,claim,385077760
+295,Q159,8831,2016-10-08T18:53:39Z,b'/* wbsetclaim-create:2||1 */ [[Property:P2999]]: 16 years old',create,claim,385078694
+295,Q159,8831,2016-10-08T18:54:50Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3086]]: 90 kilometre per hour',create,claim,385079117
+295,Q159,8831,2016-10-08T18:55:43Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3086]]: 60 kilometre per hour',create,claim,385079622
+295,Q159,8831,2016-10-08T18:56:08Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3086]]: 110 kilometre per hour',create,claim,385079988
+295,Q159,609373,2016-10-10T08:33:14Z,b'/* wbsetclaim-update:2||1|2 */ [[Property:P3000]]: 16 years old',update,claim,385080164
+295,Q159,609373,2016-10-10T08:33:37Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3000]]: 18',create,claim,386002454
+295,Q159,609373,2016-10-11T09:59:50Z,"b""/* wbsetsitelink-add:1|olowiki */ Ven'a""",add,sitelink,386002611
+295,Q159,8831,2016-10-11T10:07:32Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P3000]]: 18',update,claim,386655895
+295,Q159,8831,2016-10-11T10:08:36Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P3000]]: 16 years old',update,claim,386660799
+295,Q159,8831,2016-10-11T10:09:07Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P3000]]: 18',update,claim,386661465
+295,Q159,8831,2016-10-11T10:10:30Z,b'/* wbsetclaim-update:2||1|3 */ [[Property:P3000]]: 16 years old',update,claim,386661763
+295,Q159,8831,2016-10-11T10:10:59Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P3000]]: 16 years old',update,claim,386662661
+295,Q159,8831,2016-10-11T10:11:50Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3000]]: 15\xc2\xb11 years old',create,claim,386662938
+295,Q159,8831,2016-10-11T10:18:05Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3000]]: 14\xc2\xb11 years old',create,claim,386663396
+295,Q159,8831,2016-10-11T10:20:23Z,b'/* wbsetclaim-update:2||1|9 */ [[Property:P3000]]: 15\xc2\xb11 years old',update,claim,386667297
+295,Q159,8831,2016-10-11T10:21:58Z,b'/* wbsetclaim-update:2||1 */ [[Property:P3000]]: 15 years old',update,claim,386668791
+295,Q159,8831,2016-10-11T10:22:02Z,b'/* wbsetclaim-update:2||1 */ [[Property:P3000]]: 14 years old',update,claim,386669580
+295,Q159,148056,2016-10-14T18:27:30Z,b'/* wbsetclaim-create:2||1 */ [[Property:P3238]]: 8',create,claim,386669625
+295,Q159,742954,2016-10-21T22:57:49Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1549]]: Rusiano, #quickstatements'",create,claim,389157565
+295,Q159,6409,2016-10-22T05:31:22Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1549]]: Rusiano',create,claim,392466653
+295,Q159,6409,2016-10-22T05:31:37Z,b'/* wbremoveclaims-remove:1| */ [[Property:P1549]]: ruso',remove,claim,392567758
+295,Q159,742954,2016-10-22T12:51:44Z,b'/* wbsetclaim-update:2||1 */ [[Property:P1549]]: ruso',update,claim,392567796
+295,Q159,6409,2016-10-22T18:32:53Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1549]]: Rusiano',create,claim,392747687
+295,Q159,6409,2016-10-22T18:33:04Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1549]]: Rusujano',create,claim,392871536
+295,Q159,6409,2016-10-22T18:33:16Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1549]]: Ruslandano',create,claim,392871608
+295,Q159,6409,2016-10-22T18:35:08Z,b'/* wbsetclaim-update:2||1 */ [[Property:P1549]]: Rusiano',update,claim,392871689
+295,Q159,6409,2016-10-22T18:35:14Z,b'/* wbsetclaim-update:2||1 */ [[Property:P1549]]: ruso',update,claim,392872365
+295,Q159,6409,2016-10-22T18:38:26Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1549]]: Ruslandano',update,claim,392872408
+295,Q159,6409,2016-10-22T18:38:46Z,b'/* wbsetclaim-update:2||1|2 */ [[Property:P1549]]: Ruslandano',update,claim,392873897
+295,Q159,6409,2016-10-22T18:41:18Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1549]]: Rusujano',update,claim,392874052
+295,Q159,6409,2016-10-22T18:43:06Z,b'/* wbsetclaim-update:2||1|3 */ [[Property:P1549]]: Ruslandano',update,claim,392875297
+295,Q159,6409,2016-10-22T18:45:55Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1549]]: Rusiano',update,claim,392876178
+295,Q159,6409,2016-10-22T18:46:59Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1549]]: Ruslandano',update,claim,392877625
+295,Q159,24059,2016-10-23T06:03:44Z,b'/* wbeditentity-update:0| */ Bot: setting proper label for bh',update,label,392878176
+295,Q159,1337611,2016-10-23T15:16:31Z,b'/* wbsetdescription-set:1|ru */ \xd1\x81\xd1\x82\xd1\x80\xd0\xb0\xd0\xbd\xd0\xb0 \xd0\xb2 \xd0\xa0\xd0\xbe\xd1\x81\xd1\x81\xd0\xb8\xd1\x8f \xd0\xa0\xd0\xbe\xd1\x81\xd1\x81\xd0\xb8\xd1\x8f \xd0\xa0\xd0\xbe\xd1\x81\xd1\x81\xd0\xb8\xd0\xb8',set,description,393089147
+295,Q159,742954,2016-10-23T21:23:58Z,"b'/* wbcreateclaim-create:1| */ [[Property:P1549]]: Rus\xc3\xa4nan, #quickstatements'",create,claim,393320201
+295,Q159,161984,2016-10-24T01:26:31Z,b'/* wbeditentity-update:0| */ fix language codes: bh -> bho',update,entity,393554610
+295,Q159,5261,2016-10-24T09:26:38Z,b'/* undo:0||393320201|TemirovBot */',undo,,393768824
+295,Q159,237362,2016-10-25T18:40:17Z,"b'/* wbsetclaim-create:2||1 */ [[Property:P2046]]: 17,100,000\xc2\xb11 square kilometre'",create,claim,394098975
+295,Q159,237362,2016-10-25T18:41:10Z,"b'/* wbsetclaim-update:2||1 */ [[Property:P2046]]: 17,100,000\xc2\xb120,000 square kilometre'",update,claim,395328162
+295,Q159,91653,2016-10-28T22:56:36Z,b'/* wbsetlabel-set:1|pam */ Rusya',set,label,395328915
+295,Q159,99141,2016-10-30T11:03:12Z,"b'/* wbsetclaim-update:2||1 */ [[Property:P2046]]: 17,075,400\xc2\xb11 square kilometre'",update,claim,397550694
+295,Q159,161984,2016-10-31T18:03:04Z,b'/* wbeditentity-update:0| */ set unit',update,entity,398310052
+295,Q159,161984,2016-10-31T18:07:22Z,b'/* wbeditentity-update:0| */ set unit',update,entity,398968444
+295,Q159,161984,2016-10-31T18:09:20Z,b'/* wbeditentity-update:0| */ set unit',update,entity,398970062
+295,Q159,407832947,2016-11-15T13:56:08Z,b'/* wbsetclaim-update:2||1 */ [[Property:P1549]]: \xd1\x80\xd1\x83\xd1\x81\xd0\xba\xd0\xb8 \xd0\xbf\xd1\x82\xd0\xbd \xd0\xbf\xd0\xbd\xd1\x85',update,claim,398970765
+295,Q159,911801,2016-11-15T14:00:28Z,b'/* undo:0||407832947|46.29.129.120 */',undo,,407832947
+295,Q159,5899,2016-11-17T13:43:04Z,b'/* wbsetdescription-add:1|hsb */ stat w Europje a Aziji',add,description,407834042
+295,Q159,5899,2016-11-17T13:43:09Z,b'/* wbsetaliases-add:1|hsb */ Ruska federacija',add,aliase,408743000
+295,Q159,19911,2016-11-22T11:13:14Z,b'/* wbsetclaim-update:2||1|3 */ [[Property:P530]]: [[Q241]]',update,claim,408743023
+295,Q159,1787661,2016-11-27T10:19:12Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.729',create,claim,410276348
+295,Q159,1787661,2016-11-27T10:19:30Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.697',create,claim,411811597
+295,Q159,1787661,2016-11-27T10:19:44Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.717',create,claim,411811630
+295,Q159,1787661,2016-11-27T10:20:00Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.750',create,claim,411811659
+295,Q159,1787661,2016-11-27T10:20:16Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.783',create,claim,411811701
+295,Q159,1787661,2016-11-27T10:20:38Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.790',create,claim,411811735
+295,Q159,1787661,2016-11-27T10:21:58Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.795',create,claim,411811786
+295,Q159,1787661,2016-11-27T10:22:13Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.797',create,claim,411811958
+295,Q159,1787661,2016-11-27T10:22:29Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1081]]: 0.798',create,claim,411811999
+295,Q159,1787661,2016-11-27T10:23:45Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.798',update,claim,411812032
+295,Q159,1787661,2016-11-27T10:23:50Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.797',update,claim,411812201
+295,Q159,1787661,2016-11-27T10:23:55Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.795',update,claim,411812214
+295,Q159,1787661,2016-11-27T10:23:59Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.790',update,claim,411812235
+295,Q159,1787661,2016-11-27T10:24:05Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.783',update,claim,411812249
+295,Q159,1787661,2016-11-27T10:24:13Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.717',update,claim,411812264
+295,Q159,1787661,2016-11-27T10:24:20Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1081]]: 0.729',update,claim,411812280
+295,Q159,8795,2016-11-28T06:16:04Z,b'/* wbsetsitelink-add:1|bgwikinews */ \xd0\xa0\xd1\x83\xd1\x81\xd0\xb8\xd1\x8f',add,sitelink,411812297
+295,Q159,283910,2016-11-28T09:07:09Z,b'/* wbremoveclaims-remove:1| */ [[Property:P37]]: [[Q875888]]',remove,claim,411987024
+295,Q159,8831,2016-11-29T07:48:29Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q27567]]',create,claim,412021545
+295,Q159,8831,2016-11-29T07:48:45Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q27776]]',create,claim,412257714
+295,Q159,8831,2016-11-29T07:49:10Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q1991779]]',create,claim,412257745
+295,Q159,8831,2016-11-29T07:49:24Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q13389]]',create,claim,412257813
+295,Q159,8831,2016-11-29T07:49:39Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q33120]]',create,claim,412257848
+295,Q159,8831,2016-11-29T07:49:53Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q33509]]',create,claim,412257883
+295,Q159,8831,2016-11-29T07:50:28Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q33522]]',create,claim,412257927
+295,Q159,8831,2016-11-29T07:50:50Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q33634]]',create,claim,412258023
+295,Q159,8831,2016-11-29T07:51:19Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q33714]]',create,claim,412258081
+295,Q159,8831,2016-11-29T07:51:36Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q36126]]',create,claim,412258141
+295,Q159,8831,2016-11-29T07:51:53Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q33357]]',create,claim,412258169
+295,Q159,8831,2016-11-29T07:52:29Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q973685]]',create,claim,412258196
+295,Q159,8831,2016-11-29T07:52:51Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q13343]]',create,claim,412258247
+295,Q159,8831,2016-11-29T07:53:09Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q33871]]',create,claim,412258271
+295,Q159,8831,2016-11-29T07:53:32Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q33968]]',create,claim,412258294
+295,Q159,8831,2016-11-29T07:53:50Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q25285]]',create,claim,412258313
+295,Q159,8831,2016-11-29T07:54:06Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q34119]]',create,claim,412258332
+295,Q159,8831,2016-11-29T07:54:27Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q13238]]',create,claim,412258345
+295,Q159,8831,2016-11-29T07:54:48Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q8798]]',create,claim,412258375
+295,Q159,8831,2016-11-29T07:55:06Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q33575]]',create,claim,412258402
+295,Q159,8831,2016-11-29T07:55:22Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q33350]]',create,claim,412258426
+295,Q159,8831,2016-11-29T07:55:37Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q33348]]',create,claim,412258444
+295,Q159,8831,2016-11-29T07:55:55Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q29952]]',create,claim,412258454
+295,Q159,8831,2016-11-29T07:57:45Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q34299]]',create,claim,412258470
+295,Q159,8831,2016-11-29T07:58:27Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q29561]]',create,claim,412258556
+295,Q159,8831,2016-11-29T07:58:43Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q36498]]',create,claim,412258592
+295,Q159,8831,2016-11-29T07:58:57Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q9292]]',create,claim,412258601
+295,Q159,8831,2016-11-29T07:59:18Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q20655619]]',create,claim,412258618
+295,Q159,8831,2016-11-29T07:59:36Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q36209]]',create,claim,412258644
+295,Q159,8831,2016-11-29T07:59:53Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q36206]]',create,claim,412258667
+295,Q159,8831,2016-11-29T08:00:12Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q31746]]',create,claim,412258690
+295,Q159,8831,2016-11-29T08:00:28Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q33871]]',create,claim,412258705
+295,Q159,8831,2016-11-29T08:00:42Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q36757]]',create,claim,412258723
+295,Q159,8831,2016-11-29T08:00:59Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q34079]]',create,claim,412258732
+295,Q159,8831,2016-11-29T08:01:13Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q56489]]',create,claim,412258750
+295,Q159,8831,2016-11-29T08:01:32Z,b'/* wbsetclaim-create:2||1 */ [[Property:P37]]: [[Q36853]]',create,claim,412258760
+295,Q159,8831,2016-11-29T08:01:49Z,b'/* wbsetclaim-update:2||1|3 */ [[Property:P37]]: [[Q33350]]',update,claim,412258776
+295,Q159,8831,2016-11-30T15:14:34Z,b'/* wbsetclaim-create:2||1 */ [[Property:P793]]: [[Q15920546]]',create,claim,412258793
+295,Q159,283910,2016-12-01T08:30:00Z,b'/* restore:0||412021545|Tcp-ip */ I am going t add a note in the discussion page of the user that made the reverted edits',revert,,412612329
+295,Q159,283910,2016-12-01T08:30:48Z,b'/* wbsetclaim-create:2||1 */ [[Property:P793]]: [[Q15920546]]',create,claim,412855341
+295,Q159,201849,2016-12-02T12:56:48Z,"b'/* wbsetsitelink-add:1|fiwikivoyage */ Ven\xc3\xa4j\xc3\xa4, #quickstatements'",add,sitelink,412855461
+295,Q159,414834225,2016-12-08T03:31:48Z,b'/* wbsetsitelink-add:1|enwikiversity */ Comparative law and justice/Russia',add,sitelink,413140030
+295,Q159,15584,2016-12-11T18:53:10Z,b'/* wbsetclaim-update:2||1 */ [[Property:P1081]]: 0.798',update,claim,414834225
+295,Q159,8831,2016-12-12T12:47:46Z,b'/* undo:0||412855341|Tcp-ip */ so it is usual practice for countries',undo,,415728303
+295,Q159,150965,2016-12-14T20:22:59Z,"b'/* wbremoveclaims-remove:1| */ [[Property:P793]]: [[Q15920546]], \xd0\xb4\xd1\x83\xd0\xb1\xd0\xbb\xd0\xb8\xd1\x80\xd1\x83\xd1\x8e\xd1\x89\xd0\xb5\xd0\xb5\xd1\x81\xd1\x8f \xd0\xb7\xd0\xbd\xd0\xb0\xd1\x87\xd0\xb5\xd0\xbd\xd0\xb8\xd0\xb5 / duplicate value'",remove,claim,415861127
+295,Q159,14078,2016-12-22T22:56:50Z,"b'/* wbcreateclaim-create:1| */ [[Property:P421]]: [[Q385504]], Added via [[Wikidata:Primary sources tool]]'",create,claim,416347590
+295,Q159,14078,2016-12-22T22:57:17Z,"b'/* wbcreateclaim-create:1| */ [[Property:P421]]: [[Q2356448]], Added via [[Wikidata:Primary sources tool]]'",create,claim,418951517
+295,Q159,14078,2016-12-22T22:58:22Z,b'/* wbremoveclaims-remove:1| */ [[Property:P30]]: [[Q46]]',remove,claim,418951665
+295,Q159,14078,2016-12-22T22:58:27Z,b'/* wbremoveclaims-remove:1| */ [[Property:P30]]: [[Q48]]',remove,claim,418952064
+295,Q159,8831,2016-12-23T20:28:16Z,"b""/* restore:0||418951665|Arbnos */ what don't you like?""",restore,,418952096
+295,Q159,4279,2016-12-24T19:35:21Z,"b""/* wbcreateclaim-create:1| */ [[Property:P3417]]: Russia, #mix'n'match""",create,claim,419315647
+295,Q159,422479398,2016-12-30T10:34:13Z,b'/* wbsetclaim-create:2||1 */ [[Property:P1549]]: rty',create,claim,419886619
+295,Q159,422479645,2016-12-30T10:34:49Z,b'/* wbsetclaim-update:2||1|1 */ [[Property:P1549]]: rty',update,claim,422479398
+295,Q159,422481120,2016-12-30T10:38:10Z,"b'/* wbsetclaim-update:2||1|1 */ [[Property:P1082]]: 146,519,759\xc2\xb10'",update,claim,422479645
+295,Q159,129322,2016-12-30T12:19:01Z,b'Reverted edits by [[Special:Contributions/195.248.94.170|195.248.94.170]] ([[User talk:195.248.94.170|talk]]) to last revision by [[User:Pigsonthewing|Pigsonthewing]]',revert,,422481120
+295,Q159,12915,2017-01-03T16:35:16Z,b'/* wbsetdescription-set:1|zh-hans */ \xe8\xb7\xa8\xe8\xb6\x8a\xe6\xac\xa7\xe4\xba\x9a\xe4\xb8\xa4\xe6\xb4\xb2\xe7\x9a\x84\xe5\x9b\xbd\xe5\xae\xb6',set,description,422533166
+295,Q159,12915,2017-01-03T16:35:21Z,b'/* wbsetdescription-set:1|zh */ \xe8\xb7\xa8\xe8\xb6\x8a\xe6\xac\xa7\xe4\xba\x9a\xe4\xb8\xa4\xe6\xb4\xb2\xe7\x9a\x84\xe5\x9b\xbd\xe5\xae\xb6',set,description,423811716
+295,Q159,12915,2017-01-03T16:35:25Z,b'/* wbsetdescription-set:1|zh-hk */ \xe8\xb7\xa8\xe8\xb6\x8a\xe6\xad\x90\xe4\xba\x9e\xe5\x85\xa9\xe6\xb4\xb2\xe7\x9a\x84\xe5\x9c\x8b\xe5\xae\xb6',set,description,423811757
+295,Q159,109841,2017-01-04T22:37:22Z,b'/* wbsetsitelink-add:1|fawikiquote */ \xd8\xb1\xd9\x88\xd8\xb3\xdb\x8c\xd9\x87',add,sitelink,423811793
+295,Q159,54239,2017-01-05T16:31:52Z,b'/* wbsetdescription-add:1|bg */ \xd0\xb4\xd1\x8a\xd1\x80\xd0\xb6\xd0\xb0\xd0\xb2\xd0\xb0 \xd0\xb2 \xd0\x98\xd0\xb7\xd1\x82\xd0\xbe\xd1\x87\xd0\xbd\xd0\xb0 \xd0\x95\xd0\xb2\xd1\x80\xd0\xbe\xd0\xbf\xd0\xb0 \xd0\xb8 \xd0\xa1\xd0\xb5\xd0\xb2\xd0\xb5\xd1\x80\xd0\xbd\xd0\xb0 \xd0\x90\xd0\xb7\xd0\xb8\xd1\x8f',add,description,424286997
+295,Q159,54239,2017-01-05T16:32:09Z,"b'/* wbsetaliases-add:2|bg */ \xd0\xa0\xd1\x83\xd1\x81\xd0\xba\xd0\xb0 \xd1\x84\xd0\xb5\xd0\xb4\xd0\xb5\xd1\x80\xd0\xb0\xd1\x86\xd0\xb8\xd1\x8f, \xd0\xa0\xd0\xa4'",add,aliase,424539602
+295,Q159,533014,2017-01-08T12:21:21Z,"b'/* wbcreateclaim-create:1| */ [[Property:P3422]]: 99123, #quickstatements'",create,claim,424539664
+295,Q159,610687,2017-01-08T12:36:21Z,b'/* wbsetclaim-create:2||1 */ [[Property:P463]]: [[Q189062]]',create,claim,425600139
+295,Q159,610687,2017-01-08T12:37:04Z,b'/* wbsetclaim-create:2||1 */ [[Property:P463]]: [[Q318693]]',create,claim,425607453
+295,Q159,610687,2017-01-08T12:42:02Z,b'/* wbsetclaim-create:2||1 */ [[Property:P530]]: [[Q227]]',create,claim,425607894
+295,Q159,610687,2017-01-08T12:45:41Z,b'/* wbsetclaim-update:2||1|8 */ [[Property:P35]]: [[Q7747]]',update,claim,425610647
+295,Q159,610687,2017-01-08T12:46:35Z,b'/* wbsetclaim-update:2||1|5 */ [[Property:P35]]: [[Q7747]]',update,claim,425612674
+295,Q159,610687,2017-01-08T12:50:39Z,b'/* wbsetclaim-create:2||1 */ [[Property:P793]]: [[Q4157877]]',create,claim,425613150
+295,Q159,610687,2017-01-08T12:50:59Z,b'/* wbsetclaim-create:2||1 */ [[Property:P793]]: [[Q4157875]]',create,claim,425615165
+295,Q159,610687,2017-01-08T12:51:11Z,b'/* wbsetclaim-create:2||1 */ [[Property:P793]]: [[Q1142572]]',create,claim,425615296
+295,Q159,895618,2017-01-12T17:07:05Z,b'/* wbmergeitems-from:0||Q20087342 */',merge,mergeitems,425615374
+295,Q159,8831,2017-01-13T12:45:41Z,b'/* clientsitelink-update:0|maiwiki|maiwiki:\xe0\xa4\xb0\xe0\xa4\xb8\xe0\xa4\xbf\xe0\xa4\xaf\xe0\xa4\xbe|maiwiki:\xe0\xa4\xb0\xe0\xa5\x82\xe0\xa4\xb8 */',update,sitelink,427835940
+295,Q159,5261,2017-01-17T08:08:03Z,b'/* wbsetdescription-set:1|ru */ \xd0\xb3\xd0\xbe\xd1\x81\xd1\x83\xd0\xb4\xd0\xb0\xd1\x80\xd1\x81\xd1\x82\xd0\xb2\xd0\xbe \xd0\xb2 \xd0\x95\xd0\xb2\xd1\x80\xd0\xb0\xd0\xb7\xd0\xb8\xd0\xb8',set,description,428325434
+295,Q159,36903,2017-01-19T06:02:32Z,b'/* wbsetlabel-set:1|tl */ Russia',set,label,431656688
+295,Q159,36903,2017-01-19T06:02:36Z,b'/* wbsetaliases-add:1|tl */ Rusia',add,aliase,432829509
+295,Q159,2785724,2017-01-20T00:50:37Z,"b""/* wbcreateclaim-create:1| */ [[Property:P3417]]: Russi, #mix'n'match""",create,claim,432829526
+295,Q159,433141695,2017-01-20T03:25:22Z,b'/* wbsetsitelink-add:1|lawikiquote */ Rossia',add,sitelink,433127104
+295,Q159,2786958,2017-01-22T11:30:38Z,b'/* wbsetsitelink-set:1|ukwiki */ \xd0\xa0\xd0\xbe\xd1\x81\xd1\x81\xd0\xb8\xd1\x8f',set,sitelink,433141695
+295,Q159,50790,2017-01-22T11:46:55Z,b'/* undo:0||434356814|\xd0\x96\xd0\xb5\xd0\xba\xd0\xb0 1234 */ rvv?',undo,,434356814
+295,Q159,469872,2017-01-24T17:53:47Z,b'/* wbsetsitelink-add:1|nlwikinews */ Categorie:Rusland',add,sitelink,434365553
