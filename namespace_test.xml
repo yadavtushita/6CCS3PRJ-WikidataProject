@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<n144188:page xmlns:n144188="http://www.mediawiki.org/xml/export-0.10/">
+    <n144188:title>Q96252349</n144188:title>
+    <n144188:ns>0</n144188:ns>
+    <n144188:id>95018554</n144188:id>
+    <n144188:revision>
+      <n144188:id>1572330932</n144188:id>
+      <n144188:parentid>1543708591</n144188:parentid>
+      <n144188:timestamp>2022-02-03T04:01:47Z</n144188:timestamp>
+      <n144188:contributor>
+        <n144188:username>Matlin</n144188:username>
+        <n144188:id>2242783</n144188:id>
+      </n144188:contributor>
+      <n144188:comment>/* wbeditentity-update:0| */ ([[:toollabs:editgroups/b/harvesttemplates/dde154cfad33|details]])</n144188:comment>
+      <n144188:model>wikibase-item</n144188:model>
+      <n144188:format>application/json</n144188:format>
+      <n144188:text bytes="7432" id="1593494928"/>
+      <n144188:sha1>h8widjv1jczn9e2fvvvw75776potdka</n144188:sha1>
+    </n144188:revision>
+  </n144188:page>
