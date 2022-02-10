@@ -19,22 +19,22 @@ subdir = "data5"
 here = os.path.dirname(os.path.realpath(__file__))
 
 
-def get_uri_from_wiki_id(wiki_id):
-    returnLabel = ''
-    try:
-        sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
-        queryData = 'SELECT DISTINCT * WHERE {wd:' + wiki_id + ' rdfs:label ?label . FILTER (langMatches( lang(?label), "EN" ) ) } LIMIT 1'
-        sparql.setQuery(queryData)
-        sparql.setReturnFormat(JSON)
-        results = sparql.query().convert()
-        returnLabel = (results['results']['bindings'][0]['label']['value'])
-    except Exception as ex:
-        print(ex)
-        print(str(ex))  # output the exception message
-        print(ex.args)  # the arguments that the exception has been called with.
-        # the first one is usually the message.
-        return ('')
-    return returnLabel
+# def get_uri_from_wiki_id(wiki_id):
+#     returnLabel = ''
+#     try:
+#         sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
+#         queryData = 'SELECT DISTINCT * WHERE {wd:' + wiki_id + ' rdfs:label ?label . FILTER (langMatches( lang(?label), "EN" ) ) } LIMIT 1'
+#         sparql.setQuery(queryData)
+#         sparql.setReturnFormat(JSON)
+#         results = sparql.query().convert()
+#         returnLabel = (results['results']['bindings'][0]['label']['value'])
+#     except Exception as ex:
+#         print(ex)
+#         print(str(ex))  # output the exception message
+#         print(ex.args)  # the arguments that the exception has been called with.
+#         # the first one is usually the message.
+#         return ('')
+#     return returnLabel
 
 
 # Function to match the string
@@ -195,7 +195,7 @@ for wikidata_file in wikidata_files:
                         if comment is not None and comment != '':
                             comment_text = comment.lower()
 
-                            comment_proxies = ["-create", "-add", "-set", "-update", "-remove", "restore", "undo", "merge", "revert"]
+                            comment_proxies = ["-create", "-add", "-set", "-update", "-remove", "restore", "merge", "revert", "undo"]
                             comment_edit_entities = ["description", "aliase", "sitelink", "claim", "entity", "reference", "label", "vandalism", "mergeitems", "qualifier"]
 
                             for w in comment_proxies:
