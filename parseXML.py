@@ -12,10 +12,11 @@ import datetime
 import time
 from SPARQLWrapper import SPARQLWrapper, JSON
 from io import open
+import gzip
 
 # Location of created .csv files output with the wikidata revision details including
 # SPARQL API retrieved title
-subdir = "data5"
+subdir = "data8"
 here = os.path.dirname(os.path.realpath(__file__))
 
 
@@ -59,10 +60,13 @@ def match(id):
 
 
 # Define the start data and time the wikidata revision date much be after
+# After 30th September
+# Before Jan 1st
+# 3 months - Oct, Nov, Dec 2016
 start_time = time.time()
-d2 = datetime.datetime(2016, 10, 1)
+d2 = datetime.datetime(2016, 9, 30)
 d22 = datetime.datetime(d2.year, d2.month, d2.day)
-d3 = datetime.datetime(2017, 2, 1)
+d3 = datetime.datetime(2017, 1, 1)
 d33 = datetime.datetime(d3.year, d3.month, d3.day)
 
 
@@ -166,7 +170,7 @@ for wikidata_file in wikidata_files:
 
                             # If the total number of items processed is == 1000 close the current file and open a new file
                             # to add the wikidata revision output.
-                            if counter == 1000:
+                            if counter == 1000000:
                                 print('CREATE NEW FILE')
                                 filename = closeoldfile(filename)
                                 articlesWriter = newfilecreation(filename, articlesWriter)
@@ -180,6 +184,8 @@ for wikidata_file in wikidata_files:
                                 [pageid, pagetitle, revisionid, timestamp, comment.encode('utf8'), type, editentity, parentid])
                             counter += 1
                             print(counter)
+                            print([pageid, pagetitle, revisionid, timestamp, comment.encode('utf8'), type, editentity, parentid])
+
                         revisionid = 0
                         inrevision = True
                         timestamp = ''
@@ -196,7 +202,7 @@ for wikidata_file in wikidata_files:
                             comment_text = comment.lower()
 
                             comment_proxies = ["-create", "-add", "-set", "-update", "-remove", "restore", "merge", "revert", "undo"]
-                            comment_edit_entities = ["description", "aliase", "sitelink", "claim", "entity", "reference", "label", "vandalism", "mergeitems", "qualifier"]
+                            comment_edit_entities = ["description", "alias", "sitelink", "claim", "entity", "reference", "label", "vandalism", "mergeitems", "qualifier"]
 
                             for w in comment_proxies:
                                 if w in comment_text:
@@ -204,6 +210,13 @@ for wikidata_file in wikidata_files:
                                         type = w[1:]
                                     else:
                                         type = w
+
+                            # for 2 outliers detetcted with no clear type
+                            # wbsetclaimvalue
+                            # wbsetlabeldescriptionaliases
+                            if type == '':
+                                if 'set' in comment_text:
+                                    type = 'set'
 
                             for w in comment_edit_entities:
                                 if w in comment_text:
