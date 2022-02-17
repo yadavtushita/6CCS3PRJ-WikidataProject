@@ -16,27 +16,8 @@ import gzip
 
 # Location of created .csv files output with the wikidata revision details including
 # SPARQL API retrieved title
-subdir = "data8"
+subdir = "data_contributor"
 here = os.path.dirname(os.path.realpath(__file__))
-
-
-# def get_uri_from_wiki_id(wiki_id):
-#     returnLabel = ''
-#     try:
-#         sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
-#         queryData = 'SELECT DISTINCT * WHERE {wd:' + wiki_id + ' rdfs:label ?label . FILTER (langMatches( lang(?label), "EN" ) ) } LIMIT 1'
-#         sparql.setQuery(queryData)
-#         sparql.setReturnFormat(JSON)
-#         results = sparql.query().convert()
-#         returnLabel = (results['results']['bindings'][0]['label']['value'])
-#     except Exception as ex:
-#         print(ex)
-#         print(str(ex))  # output the exception message
-#         print(ex.args)  # the arguments that the exception has been called with.
-#         # the first one is usually the message.
-#         return ('')
-#     return returnLabel
-
 
 # Function to match the string
 def match(id):
@@ -83,16 +64,17 @@ def convert_date_time(dt):
 def newfilecreation(filename, articlesWriter):
     print('NEW PROCESS')
     articlesWriter = csv.writer(filename, quoting=csv.QUOTE_MINIMAL)
-    articlesWriter.writerow(['pageid', 'pagetitle', 'revisionid', 'timestamp', 'comment', 'type', 'editentity', 'parentid'])
+    articlesWriter.writerow(['pageid', 'pagetitle', 'revisionid', 'timestamp', 'comment', 'type', 'editentity', 'parentid', 'userid', 'username'])
     pagetitle = ''
     pageid = 0
     timestamp = ''
     comment = ''
     parentid = 0
     revisionid = 0
-    # label = ''
     type = ''
     editentity = ''
+    userid = ''
+    username = ''
     return articlesWriter
 
 
@@ -129,16 +111,17 @@ for wikidata_file in wikidata_files:
     print(filepath)
     filename = open(filepath, 'w', newline='', encoding="utf-8")
     articlesWriter = csv.writer(filename, quoting=csv.QUOTE_MINIMAL)
-    articlesWriter.writerow(['pageid', 'pagetitle', 'revisionid', 'timestamp', 'comment', 'type', 'editentity', 'parentid'])
+    articlesWriter.writerow(['pageid', 'pagetitle', 'revisionid', 'timestamp', 'comment', 'type', 'editentity', 'parentid', 'userid', 'username'])
     pagetitle = ''
     pageid = 0
     timestamp = ''
     comment = ''
     parentid = 0
     revisionid = 0
-    # label = ''
     type = ''
     editentity = ''
+    userid = ''
+    username = ''
     pathWikiXML = os.path.join(wikidata_folder_path, wikidata_file)
     print('#####  OPEN NEW FILE ######')
     # Process the wikidata xml file
@@ -154,13 +137,8 @@ for wikidata_file in wikidata_files:
                     elif elem.tag == '{http://www.mediawiki.org/xml/export-0.10/}title':
                         pagetitle = elem.text
                         isAMatch = match(pagetitle)
-                        # if isAMatch == "Yes":
-                        #     label = get_uri_from_wiki_id(pagetitle)
                         if (pagetitle is None):
                             pagetitle = ''
-                            # label = ''
-                        # if (isAMatch == "No"):
-                        #     label = ''
                     elif elem.tag == '{http://www.mediawiki.org/xml/export-0.10/}id' and not inrevision:
                         pageid = elem.text
                     elif elem.tag == '{http://www.mediawiki.org/xml/export-0.10/}revision':
@@ -180,11 +158,15 @@ for wikidata_file in wikidata_files:
 
                             if (comment is None):
                                 comment = ''
+                            if (userid is None):
+                                userid = ''
+                            if (username is None):
+                                username = ''
                             articlesWriter.writerow(
-                                [pageid, pagetitle, revisionid, timestamp, comment.encode('utf8'), type, editentity, parentid])
+                                [pageid, pagetitle, revisionid, timestamp, comment.encode('utf8'), type, editentity, parentid, userid, username])
                             counter += 1
                             print(counter)
-                            print([pageid, pagetitle, revisionid, timestamp, comment.encode('utf8'), type, editentity, parentid])
+                            print([pageid, pagetitle, revisionid, timestamp, comment.encode('utf8'), type, editentity, parentid, userid, username])
 
                         revisionid = 0
                         inrevision = True
@@ -193,6 +175,8 @@ for wikidata_file in wikidata_files:
                         type = ''
                         editentity = ''
                         parentid = 0
+                        userid = ''
+                        username = ''
                     elif elem.tag == '{http://www.mediawiki.org/xml/export-0.10/}id' and inrevision:
                         revisionid = elem.text
                     elif elem.tag == '{http://www.mediawiki.org/xml/export-0.10/}comment' and inrevision:
@@ -226,6 +210,13 @@ for wikidata_file in wikidata_files:
                         timestamp = elem.text
                     elif elem.tag == '{http://www.mediawiki.org/xml/export-0.10/}parentid' and inrevision:
                         parentid = elem.text
+                    elif elem.tag == '{http://www.mediawiki.org/xml/export-0.10/}contributor' and inrevision:
+                        for child in elem:
+                            if child.tag == '{http://www.mediawiki.org/xml/export-0.10/}id':
+                                userid = child.text
+                            elif child.tag == '{http://www.mediawiki.org/xml/export-0.10/}username':
+                                username = child.text
+
                 elem.clear()
         except Exception as ex:
             print(ex)
