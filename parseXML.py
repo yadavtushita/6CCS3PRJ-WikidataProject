@@ -16,7 +16,7 @@ import gzip
 
 # Location of created .csv files output with the wikidata revision details including
 # SPARQL API retrieved title
-subdir = "data_contributor"
+subdir = "data_test_contrib"
 here = os.path.dirname(os.path.realpath(__file__))
 
 # Function to match the string
@@ -163,10 +163,10 @@ for wikidata_file in wikidata_files:
                             if (username is None):
                                 username = ''
                             articlesWriter.writerow(
-                                [pageid, pagetitle, revisionid, timestamp, comment.encode('utf8'), type, editentity, parentid, userid, username])
+                                [pageid, pagetitle, revisionid, timestamp, comment.encode('utf8'), type, editentity, parentid, userid, username.encode('utf8')])
                             counter += 1
                             print(counter)
-                            print([pageid, pagetitle, revisionid, timestamp, comment.encode('utf8'), type, editentity, parentid, userid, username])
+                            # print([pageid, pagetitle, revisionid, timestamp, comment.encode('utf8'), type, editentity, parentid, userid, username])
 
                         revisionid = 0
                         inrevision = True
