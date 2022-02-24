@@ -16,7 +16,7 @@ import gzip
 
 # Location of created .csv files output with the wikidata revision details including
 # SPARQL API retrieved title
-subdir = "data_test_contrib"
+subdir = "wd_26"
 here = os.path.dirname(os.path.realpath(__file__))
 
 # Function to match the string
@@ -98,7 +98,7 @@ def closeoldfile(filename):
 
 
 counter = 0
-wikidata_folder_path = os.path.join("C:\wikidata\Wikidata_1")
+wikidata_folder_path = os.path.join("C:\wikidata\Wikidata_9")
 # In order to get the list of all files that ends with ".xml"
 # get list of all files, and consider only the ones that ends with "xml"
 wikidata_files = [x for x in os.listdir(wikidata_folder_path) if x.endswith(".xml")]
