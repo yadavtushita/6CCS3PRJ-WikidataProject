@@ -24,7 +24,7 @@ table_bots = table_all[3:]
 # print(len(table_bots))
 # print(table_bots[0])
 
-filename = "wikidata_bots.csv"
+filename = "wikidata_bots_test.csv"
 f = open(filename, "w", newline='', encoding="utf-8")
 
 header = "bot_name\n"
