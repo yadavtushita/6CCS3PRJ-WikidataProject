@@ -1,37 +1,31 @@
-# This class parses an wikidata xml files containing revision details extracting
-# the details of the revision. The additional retrieval of the revision
-# title from by a call to the SPARQL API to retrieve the title via the 'QID'
-# identifier
+# Code and algorithm adapted from Research Paper: Towards Linked Data for Wikidata Revisions and Twitter Trending Hashtags
+# Github: https://github.com/D01110788/TwitterWikidata
+# Paula Dooley and Bojan Božić. 2019. Towards Linked Data for Wikidata Revisions and Twitter Trending Hashtags. In
+# Proceedings of the 21st International Conference on Information Integration and Web-based Applications & Services (
+# iiWAS2019). Association for Computing Machinery, New York, NY, USA, 166–175.
+# DOI:https://doi.org/10.1145/3366030.3366048
 
-# !C:/Python37-32/python.exe -u
 import xml.etree.ElementTree as etree
 import os
 import re
 import csv
 import datetime
 import time
-from SPARQLWrapper import SPARQLWrapper, JSON
 from io import open
-import gzip
 
-# Location of created .csv files output with the wikidata revision details including
-# SPARQL API retrieved title
-subdir = "wd_26"
+# Name of Folder where parsed CSV files are stored
+subdir = "wd_1"
 here = os.path.dirname(os.path.realpath(__file__))
 
-# Function to match the string
+# Function to check the QID of the Wikidata page
 def match(id):
-    # regex
+    # Regex pattern to check for QIDs in pagetitle
     pattern = '[Q]+[0-9]+$'
-    # searching pattern
     isAcceptable = False
     try:
         isAcceptable = re.search(pattern, id)
     except Exception as ex:
         print(ex)
-        print(str(ex))  # output the exception message
-        print(ex.args)  # the arguments that the exception has been called with.
-        # the first one is usually the message.
         return ('No')
 
     if isAcceptable:
@@ -40,27 +34,22 @@ def match(id):
         return ('No')
 
 
-# Define the start data and time the wikidata revision date much be after
-# After 30th September
-# Before Jan 1st
-# 3 months - Oct, Nov, Dec 2016
+# Selecting the time period for revisions
+# colecting revisions from 1st October, 2016 to 31st December, 2016
 start_time = time.time()
 d2 = datetime.datetime(2016, 9, 30)
 d22 = datetime.datetime(d2.year, d2.month, d2.day)
 d3 = datetime.datetime(2017, 1, 1)
 d33 = datetime.datetime(d3.year, d3.month, d3.day)
 
-
-# Function to parse revision date time for filter of the revision datetime
-# so that only revisions after 15th March 2019 are considered.
+# Converting the timestamp to the required format
 def convert_date_time(dt):
     f = "%Y-%m-%dT%H:%M:%S%fZ"
     dt1 = datetime.datetime.strptime(dt, f)
     dt2 = datetime.datetime(dt1.year, dt1.month, dt1.day)
     return dt2
 
-
-# Function to create a new .csv file conaining the revision output data
+# Creates a new CSV File with the required rows
 def newfilecreation(filename, articlesWriter):
     print('NEW PROCESS')
     articlesWriter = csv.writer(filename, quoting=csv.QUOTE_MINIMAL)
@@ -78,14 +67,12 @@ def newfilecreation(filename, articlesWriter):
     return articlesWriter
 
 
-# Function to close a file and open a new file to contain the revision output data
+# Closes the CSV file once 1 million items have been written or the XML file is comletely parsed
 def closeoldfile(filename):
     print(filename)
     filename.flush()
     filename.close()
-    # A sleep time is required to allow the proccess to complete otherwise the closing of the
-    # previous file and opening of the new file will result in an exception as the process
-    ## has not been completed before starting processing the next revision.
+    # Sleep time added to ensure file is written completely
     time.sleep(5)
     print('SLEEPING')
     # Create a file defining the subdirectory 'subdir' and adding the file name 'wikidata' appending the
@@ -124,7 +111,8 @@ for wikidata_file in wikidata_files:
     username = ''
     pathWikiXML = os.path.join(wikidata_folder_path, wikidata_file)
     print('#####  OPEN NEW FILE ######')
-    # Process the wikidata xml file
+
+    # Parsing the XML File
     with open(pathWikiXML, 'rb') as f:
         try:
             for event, elem in etree.iterparse(pathWikiXML, events=('start', 'end')):
@@ -146,8 +134,8 @@ for wikidata_file in wikidata_files:
                                 pagetitle != '' and pageid != 0 and isAMatch == "Yes" and revisionid != 0 and timestamp != '' and timestamp is not None and convert_date_time(
                                 timestamp) > d22 and convert_date_time(timestamp) < d33):
 
-                            # If the total number of items processed is == 1000 close the current file and open a new file
-                            # to add the wikidata revision output.
+                            # Writes 1 million revisions to the CSV file
+                            # If 1 million revisions have been written a new CSV file is created
                             if counter == 1000000:
                                 print('CREATE NEW FILE')
                                 filename = closeoldfile(filename)
@@ -181,7 +169,8 @@ for wikidata_file in wikidata_files:
                         revisionid = elem.text
                     elif elem.tag == '{http://www.mediawiki.org/xml/export-0.10/}comment' and inrevision:
                         comment = elem.text
-
+                        # Adding proxies and edit entities to the CSV file
+                        # Proxies are determined by using the revision comment
                         if comment is not None and comment != '':
                             comment_text = comment.lower()
 
@@ -195,7 +184,7 @@ for wikidata_file in wikidata_files:
                                     else:
                                         type = w
 
-                            # for 2 outliers detetcted with no clear type
+                            # 2 outliers detected with no clear type
                             # wbsetclaimvalue
                             # wbsetlabeldescriptionaliases
                             if type == '':
@@ -220,6 +209,3 @@ for wikidata_file in wikidata_files:
                 elem.clear()
         except Exception as ex:
             print(ex)
-            print(str(ex))  # # output the exception message
-            print(ex.args)  # the arguments that the exception has been called with.
-            # the first one is usually the message.

@@ -1,30 +1,31 @@
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup as soup
 
-# remmeber to mention downloading a certificate on Internet Explorer
-# in administrator mode
+# Scrapes the names of bots off the following url
+# Stores the bots in a CSV file called wikidata_bots.csv
 
+# Need to install a certificate for the below url
 my_url = 'https://hgztools.toolforge.org/botstatistics/?lang=www&project=wikidata&dir=desc&sort=ec'
 
-# opens a connection with the webpage and downloads the webpage
+# Opens a connection with the webpage and downloads the webpage
 uClient = uReq(my_url)
-# read would dump the webpage which we then store in page_html
+# Read would dump the webpage which is then stored in page_html
 page_html = uClient.read()
-# close the connection with the client
+# Close the connection with the client
 uClient.close()
 
 # html parsing
 page_soup = soup(page_html, "html.parser")
 # print(page_soup.head)
 
-# grabs all the tr tags on the webpage
+# Grabs all the tr tags on the webpage
 table_all = page_soup.findAll("tr")
-# removes first 3 tags to collect all the bots in the remaining tags
+# Removes first 3 tags to collect all the bots in the remaining tags
 table_bots = table_all[3:]
 # print(len(table_bots))
 # print(table_bots[0])
 
-filename = "wikidata_bots_test.csv"
+filename = "wikidata_bots.csv"
 f = open(filename, "w", newline='', encoding="utf-8")
 
 header = "bot_name\n"
